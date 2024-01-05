@@ -1,0 +1,34 @@
++==============================================================================+
+| Name:    ISS Tracker                                                         |
+| Purpose: Provide location details where the ISS is over on planet Earth      |
+| Start:   2024-01-05                                                          |
++==============================================================================+
+
+Phase 1: Command-line
+
+    Status: In progress
+
+    • Get ISS over-Earth location - latitude, longitude
+    • Get address at latitude,longitude using reverse geoloaction
+    • Time log the details above to csv
+    • Write the timestamped details to a database
+
+
+Phase 2: Web
+
+    Status:
+
+    • Display Mercator map projection on web page
+    • Display the ISS's position on the map and the details of the location at
+      that position
+
+
+Phase 3: Web
+
+    Status:
+
+    • Include additional details about the ISS
+      - Speed
+      - Height
+      - Crew size, and demographics
+      - Last resupply mission
