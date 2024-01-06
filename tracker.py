@@ -51,24 +51,24 @@ def reverse_geolocate(lat: str, long: str) -> json:
     return location
 
 
-# def parse_revgeo_data(data: json) -> Any:
-#     address = data.get("features", None)[0].get("properties", None).get("formatted", None)
-#     return address
+def parse_revgeo_data(data: json) -> Any:
+    address = data.get("features", None)[0].get("properties", None).get("formatted", None)
+    return address
 
 
 if __name__ == "__main__":
     ISS_NOW_URL = "http://api.open-notify.org/iss-now.json"
     iss_now = get_data_from_api(ISS_NOW_URL)
     where_is_iss = parse_iss_now_data(iss_now)
-    pprint(where_is_iss)
+    # pprint(where_is_iss)
     # Next:
     # • Pass where_is_iss lat, long to reverse-geolocating function
     addressing = reverse_geolocate(where_is_iss.latitude, where_is_iss.longitude)
     # • Identify the addressing fields to be used from results returned
-    pprint(addressing)
+    # pprint(addressing)
     # • Complete speciification of WhereIsISSOver
     # • Pass where_is_iss lat, long to reverse-geolocating function
-    # address = parse_revgeo_data(addressing)
+    address = parse_revgeo_data(addressing)
     #   and update WhereIsISSOver
-    # where_is_iss.address = address
-    # print(where_is_iss) # WhereIsISSOver(timestamp='2024-01-06 04:10:32+00:00 (UTC)', latitude='50.8165', longitude='-48.5167', address='North Atlantic Ocean')
+    where_is_iss.address = address
+    print(where_is_iss) # WhereIsISSOver(timestamp='2024-01-06 04:10:32+00:00 (UTC)', latitude='50.8165', longitude='-48.5167', address='North Atlantic Ocean')
