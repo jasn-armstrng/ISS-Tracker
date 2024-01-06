@@ -35,7 +35,7 @@ def parse_iss_now_data(data: json) -> dict:
 
 def reverse_geolocate(lat: str, long: str) -> json:
     """Return reverse geolocation details in JSON"""
-    API_KEY = "5a004b63903e44148e465009b91f48e2"
+    API_KEY = ""
     URL = f"https://api.geoapify.com/v1/geocode/reverse?lat={lat}&lon={long}&apiKey={API_KEY}"
     location = get_data_from_api(URL)
     return location
