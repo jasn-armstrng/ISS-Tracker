@@ -1,8 +1,16 @@
 import json
 import requests
+from configparser import ConfigParser
 from datetime import datetime
-from rich import print as pprint  # Makes deeply nested JSON easy to read
-from typing import Any
+# from rich import print as pprint  # Makes deeply nested JSON easy to read
+# from typing import Any
+
+
+config = ConfigParser()
+config.read("config.ini")
+ISS_NOW_URL = config["Open-Notify"]["url"]
+REV_GEO_URL = config["Geoapify"]["url"]
+REV_GEO_KEY = config["Geoapify"]["key"]
 
 
 def get_data_from_api(url: str, api_key: str=None) -> json:
@@ -35,8 +43,7 @@ def parse_iss_now_data(data: json) -> dict:
 
 def reverse_geolocate(lat: str, long: str) -> json:
     """Return reverse geolocation details in JSON"""
-    API_KEY = ""
-    URL = f"https://api.geoapify.com/v1/geocode/reverse?lat={lat}&lon={long}&apiKey={API_KEY}"
+    URL = f"{REV_GEO_URL}?lat={lat}&lon={long}&apiKey={REV_GEO_KEY}"
     location = get_data_from_api(URL)
     return location
 
@@ -48,7 +55,6 @@ def parse_revgeo_data(data: json) -> str:
 
 
 if __name__ == "__main__":
-    ISS_NOW_URL = "http://api.open-notify.org/iss-now.json"
     iss_now = get_data_from_api(ISS_NOW_URL)
     where_is_iss = parse_iss_now_data(iss_now)
     # pprint(where_is_iss)
