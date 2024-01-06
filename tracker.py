@@ -1,9 +1,16 @@
 import json
+import logging
 import requests
 from configparser import ConfigParser
 from datetime import datetime
-# from rich import print as pprint  # Makes deeply nested JSON easy to read
-# from typing import Any
+
+
+logging.basicConfig(
+    handlers=[logging.FileHandler("./logs/execution.log"),logging.StreamHandler()],
+    format='%(asctime)s: %(levelname)s - %(message)s',
+    datefmt='%Y-%m-%d %I:%M:%S %p',
+    level=logging.INFO
+)
 
 
 config = ConfigParser()
@@ -19,7 +26,7 @@ def get_data_from_api(url: str, api_key: str=None) -> json:
         request = requests.get(url)
         if request.status_code >= 400:
             invalid_request_reason = request.text
-            print(f"Your request has failed because: {invalid_request_reason}")
+            logging.error(f"Your request has failed because: {invalid_request_reason}")
             return
     except requests.exceptions.ConnectionError as err:
         raise SystemExit(err)
@@ -68,5 +75,5 @@ if __name__ == "__main__":
     address = parse_revgeo_data(addressing)
     # • Update where_is_iss
     where_is_iss['address'] = address
-    print(where_is_iss)
+    logging.info(where_is_iss)
     # -> {'timestamp': '2024-01-06 04:39:44+00:00 (UTC)', 'latitude': '-11.4986', 'longitude': '57.0169', 'address': 'Indian Ocean'}
