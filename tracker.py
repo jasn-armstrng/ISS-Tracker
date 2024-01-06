@@ -1,5 +1,7 @@
 import json
 import requests
+import tzlocal
+from datetime import datetime
 
 
 def get_data_from_api(url: str, api_key: str=None) -> json:
@@ -21,10 +23,15 @@ def get_data_from_api(url: str, api_key: str=None) -> json:
     return request.json()
 
 
+def unixtime_to_date(timestamp: int) -> datetime:
+    utc_time = datetime.utcfromtimestamp(timestamp)
+    return utc_time.strftime("%Y-%m-%d %H:%M:%S+00:00 (UTC)")
+
+
 if __name__ == "__main__":
     ISS_NOW_URL = "http://api.open-notify.org/iss-now.json"
     iss_now = get_data_from_api(ISS_NOW_URL)
     timestamp = iss_now.get("timestamp", None)
     latitude  = iss_now.get("iss_position", None).get("latitude", None)
     longitude = iss_now.get("iss_position", None).get("longitude", None)
-    print(f"{timestamp}: {latitude}, {longitude}")
+    print(f"{unixtime_to_date(timestamp)}: {latitude}, {longitude}")
