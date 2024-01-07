@@ -1,0 +1,14 @@
+APIs
+ - ISS location: http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+ - Reverse geolocating: https://www.geoapify.com
+
+API Requests:
+ - Requests: https://requests.readthedocs.io/en/latest/
+ - Error handling: https://stackoverflow.com/questions/61463224/when-to-use-raise-for-status-vs-status-code-testing
+
+Maps:
+ - Mercator prorjection: https://en.wikipedia.org/wiki/Mercator_projection#
+ - Ascii world map: https://stackoverflow.com/questions/55406036/creating-an-ascii-art-world-map
+
+Terminal Apps:
+ - Blessed: https://pypi.org/project/blessed/ https://blessed.readthedocs.io/en/latest/
