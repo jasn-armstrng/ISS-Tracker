@@ -1,1 +1,6 @@
 config.ini
+iss_tracker.sh
+utils.py
+locations.csv
+logs/scheduler_error.log
+logs/program_error.log

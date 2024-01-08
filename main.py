@@ -1,4 +1,4 @@
-from tracker import main
+from iss_tracker import main
 
 
 if __name__ == "__main__":
