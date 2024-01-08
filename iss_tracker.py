@@ -1,23 +1,24 @@
 import json
 import logging
 import requests
-from configparser import ConfigParser
 from datetime import datetime
+
+from utils import config
+
+
+ISS_NOW_URL = config["Open-Notify"]["url"]
+REV_GEO_URL = config["Geoapify"]["url"]
+REV_GEO_KEY = config["Geoapify"]["key"]
+LOG_FILE = config["Paths"]["log"]
+LOCATIONS_FILE = config["Paths"]["locations"]
 
 
 logging.basicConfig(
-    handlers=[logging.FileHandler("./logs/execution.log"),logging.StreamHandler()],
+    handlers=[logging.FileHandler(LOG_FILE),logging.StreamHandler()],
     format='%(asctime)s: %(levelname)s - %(message)s',
     datefmt='%Y-%m-%d %I:%M:%S %p',
     level=logging.INFO
 )
-
-
-config = ConfigParser()
-config.read("config.ini")
-ISS_NOW_URL = config["Open-Notify"]["url"]
-REV_GEO_URL = config["Geoapify"]["url"]
-REV_GEO_KEY = config["Geoapify"]["key"]
 
 
 def get_data_from_api(url: str) -> json:
@@ -83,4 +84,9 @@ def iss_position() -> None:
 
 def main() -> None:
     iss_pos = iss_position()
-    logging.info(f"{iss_pos['timestamp']};{iss_pos['latitude']},{iss_pos['longitude']};{iss_pos['address']}")
+
+    with open(LOCATIONS_FILE, "a") as file:
+        if iss_pos:
+            file.write(f"{iss_pos['timestamp']};ISS;{iss_pos['latitude']},{iss_pos['longitude']};{iss_pos['address']}\n")
+        else:
+            logging.info("No data")
