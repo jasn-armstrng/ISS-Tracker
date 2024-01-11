@@ -1,6 +1,7 @@
 import json
 import logging
 import requests
+import time
 from datetime import datetime
 from rich import print as pprint
 
@@ -22,6 +23,17 @@ logging.basicConfig(
 )
 
 
+def time_this(func):
+    def wrapper(*args, **kwargs):
+        start_time = time.time()
+        result = func(*args, **kwargs)
+        end_time = time.time()
+        logging.info(f"Time taken by {func.__name__}: {end_time - start_time} seconds")
+        return result
+    return wrapper
+
+
+@time_this
 def get_data_from_api(url: str) -> json:
     """Returns json object result of API data fetch or logs an error"""
     try:
@@ -57,10 +69,13 @@ def reverse_geolocated_address(data: json) -> str:
 
 
 def transform_iss_data() -> None:
+    logging.info("Fetch ISS data")
     iss_data = get_data_from_api(WIS_ISS_URL)
     if iss_data:
+        logging.info("Reverse Geolocate Lat/Long")
         geo_data = reverse_geolocate(iss_data['latitude'], iss_data['longitude'])
         address = reverse_geolocated_address(geo_data)
+        logging.info("Update ISS data Record")
         iss_data['address'] = address
         return iss_data
     return {}
@@ -68,4 +83,4 @@ def transform_iss_data() -> None:
 
 def main() -> None:
     iss_data = transform_iss_data()
-    pprint(iss_data)
+    # To do: write iss_data to DB
