@@ -12,3 +12,7 @@ Maps:
 
 Terminal Apps:
  - Blessed: https://pypi.org/project/blessed/ https://blessed.readthedocs.io/en/latest/
+
+
+Graphics:
+ - Turtle graphics: https://docs.python.org/3/library/turtle.html, https://realpython.com/beginners-guide-python-turtle/
