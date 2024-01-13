@@ -51,7 +51,7 @@ def get_data_from_api(url: str) -> json:
 
 def unixtime_to_date(timestamp: int) -> str:
     """Converts UNIX timestamp to UTC time in the format YYYY-MM-DD HH:MM:SS+00:00 (UTC)"""
-    return datetime.utcfromtimestamp(timestamp)
+    return datetime.fromtimestamp(timestamp)
 
 
 def reverse_geolocate(lat: str, long: str) -> json:
@@ -69,29 +69,32 @@ def reverse_geolocated_address(data: json) -> str:
         return ""
 
 
-def transform_iss_data() -> None:
-    logging.info("Fetch ISS data")
-    iss_data = get_data_from_api(WIS_ISS_URL)
-    if iss_data:
-        logging.info("Conver UNIX timestamp to date")
-        iss_data['timestamp'] = unixtime_to_date(iss_data['timestamp'])
-        logging.info("Reverse Geolocate Lat/Long")
-        geo_data = reverse_geolocate(iss_data['latitude'], iss_data['longitude'])
-        address = reverse_geolocated_address(geo_data)
-        logging.info("Update ISS data Record")
-        iss_data['geolacted_address'] = address
-        return iss_data
-    return {}
-
-
-def main() -> None:
-    iss_data = transform_iss_data()
-    pprint(iss_data)
-
+def load_iss_data(data: dict) -> None:
+    """Write data to Time-series DB"""
     logging.info("Write ISS data to database")
     with Sender('localhost', 9009) as sender:
         sender.row(
             'iss_tracker',
-            columns=iss_data,
-            at=iss_data['timestamp'])
+            columns=data,
+            at=data['timestamp'])
         sender.flush()
+
+
+def transform_iss_data(data: json) -> dict:
+    logging.info("Conver UNIX timestamp to date")
+    data['timestamp'] = unixtime_to_date(data['timestamp'])
+    logging.info("Reverse Geolocate Lat/Long")
+    geo_data = reverse_geolocate(data['latitude'], data['longitude'])
+    address = reverse_geolocated_address(geo_data)
+    logging.info("Update ISS data Record")
+    data['geolocated_address'] = address
+    return data
+
+
+def main() -> None:
+    iss_data = get_data_from_api(WIS_ISS_URL)
+    if iss_data:
+        iss_data_transform = transform_iss_data(iss_data)
+        load_iss_data(iss_data_transform)
+    else:
+        logging.error("No data received")
