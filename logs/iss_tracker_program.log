@@ -1,0 +1,5 @@
+2024-01-10 10:06:33 PM: INFO - Fetch ISS data
+2024-01-10 10:06:33 PM: INFO - Time taken by get_data_from_api: 0.3841559886932373 seconds
+2024-01-10 10:06:33 PM: INFO - Reverse Geolocate Lat/Long
+2024-01-10 10:06:35 PM: INFO - Time taken by get_data_from_api: 1.7072858810424805 seconds
+2024-01-10 10:06:35 PM: INFO - Update ISS data Record

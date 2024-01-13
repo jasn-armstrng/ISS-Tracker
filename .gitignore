@@ -2,5 +2,5 @@ config.ini
 iss_tracker.sh
 utils.py
 tracking_history.csv
-logs/scheduler_error.log
-logs/program_error.log
+logs/iss_tracker_program.log
+logs/iss_tracker_scheduler.log

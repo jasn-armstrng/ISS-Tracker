@@ -83,4 +83,5 @@ def transform_iss_data() -> None:
 
 def main() -> None:
     iss_data = transform_iss_data()
+    pprint(iss_data)
     # To do: write iss_data to DB

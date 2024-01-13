@@ -1,6 +1,7 @@
 APIs
  - ISS location: http://open-notify.org/Open-Notify-API/ISS-Location-Now/
  - Reverse geolocating: https://www.geoapify.com
+ - Where is ISS: https://api.wheretheiss.at/v1/satellites/25544
 
 API Requests:
  - Requests: https://requests.readthedocs.io/en/latest/
@@ -10,9 +11,24 @@ Maps:
  - Mercator prorjection: https://en.wikipedia.org/wiki/Mercator_projection#
  - Ascii world map: https://stackoverflow.com/questions/55406036/creating-an-ascii-art-world-map
 
-Terminal Apps:
- - Blessed: https://pypi.org/project/blessed/ https://blessed.readthedocs.io/en/latest/
+Geometry:
+ - Geometry for Programmers: https://www.amazon.com/gp/product/1633439607/ref=ox_sc_act_title_3?smid=ATVPDKIKX0DER&psc=1
+ - Spherical Geometry: https://en.wikipedia.org/wiki/Spherical_geometry
 
+Terminal Apps:
+ - Blessed: https://pypi.org/project/blessed/
+            https://blessed.readthedocs.io/en/latest/
 
 Graphics:
- - Turtle graphics: https://docs.python.org/3/library/turtle.html, https://realpython.com/beginners-guide-python-turtle/
+ - Turtle graphics: https://docs.python.org/3/library/turtle.html,
+                    https://realpython.com/beginners-guide-python-turtle/
+ - Raylib: https://electronstudio.github.io/raylib-python-cffi/
+
+Database (My data is time-series):
+ - Do I need one?
+ - Time-series DB: https://questdb.io,
+                   https://www.youtube.com/watch?v=A8uMF64rbS8
+                   https://github.com/questdb/py-questdb-client
+
+UI:
+ - Ascii Art Generator: https://www.asciiart.eu/text-to-ascii-art
