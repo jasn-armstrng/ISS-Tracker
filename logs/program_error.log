@@ -13,3 +13,35 @@
 2024-01-12 11:05:14 PM: INFO - Reverse Geolocate Lat/Long
 2024-01-12 11:05:14 PM: INFO - Time taken by get_data_from_api: 0.8054678440093994 seconds
 2024-01-12 11:05:14 PM: INFO - Update ISS data Record
+2024-01-12 11:57:21 PM: INFO - Fetch ISS data
+2024-01-12 11:57:21 PM: INFO - Time taken by get_data_from_api: 0.4400959014892578 seconds
+2024-01-12 11:57:21 PM: INFO - Conver UNIX timestamp to date
+2024-01-12 11:57:21 PM: INFO - Reverse Geolocate Lat/Long
+2024-01-12 11:57:23 PM: INFO - Time taken by get_data_from_api: 1.0322837829589844 seconds
+2024-01-12 11:57:23 PM: INFO - Update ISS data Record
+2024-01-13 12:19:37 AM: INFO - Fetch ISS data
+2024-01-13 12:19:37 AM: INFO - Time taken by get_data_from_api: 0.4462409019470215 seconds
+2024-01-13 12:19:37 AM: INFO - Conver UNIX timestamp to date
+2024-01-13 12:19:37 AM: INFO - Reverse Geolocate Lat/Long
+2024-01-13 12:19:38 AM: INFO - Time taken by get_data_from_api: 0.8732936382293701 seconds
+2024-01-13 12:19:38 AM: INFO - Update ISS data Record
+2024-01-13 12:24:34 AM: INFO - Fetch ISS data
+2024-01-13 12:24:34 AM: INFO - Time taken by get_data_from_api: 0.41811108589172363 seconds
+2024-01-13 12:24:34 AM: INFO - Conver UNIX timestamp to date
+2024-01-13 12:24:34 AM: INFO - Reverse Geolocate Lat/Long
+2024-01-13 12:24:35 AM: INFO - Time taken by get_data_from_api: 0.8940219879150391 seconds
+2024-01-13 12:24:35 AM: INFO - Update ISS data Record
+2024-01-13 12:24:35 AM: INFO - Write ISS data to database
+2024-01-13 12:32:22 AM: INFO - Fetch ISS data
+2024-01-13 12:32:23 AM: INFO - Time taken by get_data_from_api: 0.46097373962402344 seconds
+2024-01-13 12:32:23 AM: INFO - Conver UNIX timestamp to date
+2024-01-13 12:32:23 AM: INFO - Reverse Geolocate Lat/Long
+2024-01-13 12:32:24 AM: INFO - Time taken by get_data_from_api: 0.9401390552520752 seconds
+2024-01-13 12:32:24 AM: INFO - Update ISS data Record
+2024-01-13 12:32:24 AM: INFO - Write ISS data to database
+2024-01-13 12:33:23 AM: INFO - Fetch ISS data
+2024-01-13 12:33:23 AM: INFO - Time taken by get_data_from_api: 0.39701104164123535 seconds
+2024-01-13 12:33:23 AM: INFO - Conver UNIX timestamp to date
+2024-01-13 12:33:23 AM: INFO - Reverse Geolocate Lat/Long
+2024-01-13 12:33:23 AM: INFO - Time taken by get_data_from_api: 0.5300421714782715 seconds
+2024-01-13 12:33:23 AM: INFO - Update ISS data Record
