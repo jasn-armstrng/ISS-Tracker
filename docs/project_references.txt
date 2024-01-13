@@ -16,12 +16,19 @@ Geometry:
  - Spherical Geometry: https://en.wikipedia.org/wiki/Spherical_geometry
 
 Terminal Apps:
- - Blessed: https://pypi.org/project/blessed/ https://blessed.readthedocs.io/en/latest/
+ - Blessed: https://pypi.org/project/blessed/
+            https://blessed.readthedocs.io/en/latest/
 
 Graphics:
- - Turtle graphics: https://docs.python.org/3/library/turtle.html, https://realpython.com/beginners-guide-python-turtle/
+ - Turtle graphics: https://docs.python.org/3/library/turtle.html,
+                    https://realpython.com/beginners-guide-python-turtle/
  - Raylib: https://electronstudio.github.io/raylib-python-cffi/
 
 Database (My data is time-series):
  - Do I need one?
- - Time-series DB: https://questdb.io, https://www.youtube.com/watch?v=A8uMF64rbS8
+ - Time-series DB: https://questdb.io,
+                   https://www.youtube.com/watch?v=A8uMF64rbS8
+                   https://github.com/questdb/py-questdb-client
+
+UI:
+ - Ascii Art Generator: https://www.asciiart.eu/text-to-ascii-art
