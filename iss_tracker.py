@@ -1,11 +1,10 @@
 import json
 import logging
 import requests
+import questdb.ingress as qdb
+import textwrap
 import time
 from datetime import datetime
-from questdb.ingress import Sender, TimestampNanos
-from rich import print as pprint
-
 from utils import config
 
 
@@ -13,7 +12,6 @@ WIS_ISS_URL = config["Where-is-ISS"]["url"]
 REV_GEO_URL = config["Geoapify"]["url"]
 REV_GEO_KEY = config["Geoapify"]["key"]
 LOG_FILE = config["Paths"]["log"]
-LOCATIONS_FILE = config["Paths"]["locations"]
 
 
 logging.basicConfig(
@@ -71,30 +69,42 @@ def reverse_geolocated_address(data: json) -> str:
 
 def load_iss_data(data: dict) -> None:
     """Write data to Time-series DB"""
-    logging.info("Write ISS data to database")
-    with Sender('localhost', 9009) as sender:
-        sender.row(
-            'iss_tracker',
-            columns=data,
-            at=data['timestamp'])
-        sender.flush()
+    try:
+        with qdb.Sender('localhost', 9009) as sender:
+            sender.row(
+                'iss_tracker',
+                columns=data,
+                at=data['timestamp'])
+            pending = str(sender)
+            logging.info('About to flush:\n%s', textwrap.indent(pending, '    '))
+            sender.flush()
+    except qdb.IngressError as e:
+        logging.error(f"{e}")
 
 
 def transform_iss_data(data: json) -> dict:
-    logging.info("Conver UNIX timestamp to date")
+    """Transform ISS data Record"""
     data['timestamp'] = unixtime_to_date(data['timestamp'])
-    logging.info("Reverse Geolocate Lat/Long")
+    logging.info("Reverse Geolocate ISS Lat/Long")
     geo_data = reverse_geolocate(data['latitude'], data['longitude'])
     address = reverse_geolocated_address(geo_data)
-    logging.info("Update ISS data Record")
     data['geolocated_address'] = address
     return data
 
 
 def main() -> None:
+    logging.info("Fetch ISS data")
     iss_data = get_data_from_api(WIS_ISS_URL)
     if iss_data:
+        logging.info("Transform ISS data")
         iss_data_transform = transform_iss_data(iss_data)
+        logging.info("Load ISS data")
         load_iss_data(iss_data_transform)
     else:
         logging.error("No data received")
+    # Next:
+    # - Handle errors from db write
+    # - Maybe write logs to db
+    # - Compile to executable
+    # - Replace .sh with executable in launchd
+    # - Create a build system
