@@ -1,0 +1,2244 @@
+2024-01-13 01:07:19 AM: INFO - Get ISS data
+2024-01-13 01:07:19 AM: INFO - Time taken by get_data_from_api: 0.44001293182373047 seconds
+2024-01-13 01:07:19 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:07:20 AM: INFO - Time taken by get_data_from_api: 0.9115619659423828 seconds
+2024-01-13 01:08:21 AM: INFO - Get ISS data
+2024-01-13 01:08:21 AM: INFO - Time taken by get_data_from_api: 0.4733250141143799 seconds
+2024-01-13 01:08:21 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:08:22 AM: INFO - Time taken by get_data_from_api: 1.0098538398742676 seconds
+2024-01-13 01:09:22 AM: INFO - Get ISS data
+2024-01-13 01:09:23 AM: INFO - Time taken by get_data_from_api: 0.38561224937438965 seconds
+2024-01-13 01:09:23 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:09:24 AM: INFO - Time taken by get_data_from_api: 1.0807139873504639 seconds
+2024-01-13 01:10:24 AM: INFO - Get ISS data
+2024-01-13 01:10:24 AM: INFO - Time taken by get_data_from_api: 0.46851086616516113 seconds
+2024-01-13 01:10:24 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:10:25 AM: INFO - Time taken by get_data_from_api: 0.8106019496917725 seconds
+2024-01-13 01:12:59 AM: INFO - Get ISS data
+2024-01-13 01:12:59 AM: INFO - Time taken by get_data_from_api: 0.46295690536499023 seconds
+2024-01-13 01:12:59 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:13:00 AM: INFO - Time taken by get_data_from_api: 0.8406648635864258 seconds
+2024-01-13 01:14:01 AM: INFO - Get ISS data
+2024-01-13 01:14:01 AM: INFO - Time taken by get_data_from_api: 0.4512169361114502 seconds
+2024-01-13 01:14:01 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:14:02 AM: INFO - Time taken by get_data_from_api: 0.7514770030975342 seconds
+2024-01-13 01:15:02 AM: INFO - Get ISS data
+2024-01-13 01:15:02 AM: INFO - Time taken by get_data_from_api: 0.4299747943878174 seconds
+2024-01-13 01:15:02 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:15:03 AM: INFO - Time taken by get_data_from_api: 0.8964910507202148 seconds
+2024-01-13 01:16:03 AM: INFO - Get ISS data
+2024-01-13 01:16:04 AM: INFO - Time taken by get_data_from_api: 0.44390392303466797 seconds
+2024-01-13 01:16:04 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:16:05 AM: INFO - Time taken by get_data_from_api: 1.00462007522583 seconds
+2024-01-13 01:17:05 AM: INFO - Get ISS data
+2024-01-13 01:17:05 AM: INFO - Time taken by get_data_from_api: 0.4129199981689453 seconds
+2024-01-13 01:17:05 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:17:06 AM: INFO - Time taken by get_data_from_api: 0.8548679351806641 seconds
+2024-01-13 01:18:07 AM: INFO - Get ISS data
+2024-01-13 01:18:07 AM: INFO - Time taken by get_data_from_api: 0.39969301223754883 seconds
+2024-01-13 01:18:07 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:18:08 AM: INFO - Time taken by get_data_from_api: 0.8525969982147217 seconds
+2024-01-13 01:19:08 AM: INFO - Get ISS data
+2024-01-13 01:19:08 AM: INFO - Time taken by get_data_from_api: 0.47519803047180176 seconds
+2024-01-13 01:19:08 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:19:09 AM: INFO - Time taken by get_data_from_api: 0.8408150672912598 seconds
+2024-01-13 01:20:10 AM: INFO - Get ISS data
+2024-01-13 01:20:10 AM: INFO - Time taken by get_data_from_api: 0.5473437309265137 seconds
+2024-01-13 01:20:10 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:20:11 AM: INFO - Time taken by get_data_from_api: 1.1150391101837158 seconds
+2024-01-13 01:21:11 AM: INFO - Get ISS data
+2024-01-13 01:21:12 AM: INFO - Time taken by get_data_from_api: 0.4596128463745117 seconds
+2024-01-13 01:21:12 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:21:13 AM: INFO - Time taken by get_data_from_api: 0.9037671089172363 seconds
+2024-01-13 01:22:13 AM: INFO - Get ISS data
+2024-01-13 01:22:13 AM: INFO - Time taken by get_data_from_api: 0.44181394577026367 seconds
+2024-01-13 01:22:13 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:22:15 AM: INFO - Time taken by get_data_from_api: 1.2517290115356445 seconds
+2024-01-13 01:23:15 AM: INFO - Get ISS data
+2024-01-13 01:23:15 AM: INFO - Time taken by get_data_from_api: 0.4739501476287842 seconds
+2024-01-13 01:23:15 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:23:16 AM: INFO - Time taken by get_data_from_api: 1.0433809757232666 seconds
+2024-01-13 01:24:17 AM: INFO - Get ISS data
+2024-01-13 01:24:17 AM: INFO - Time taken by get_data_from_api: 0.43897199630737305 seconds
+2024-01-13 01:24:17 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:24:18 AM: INFO - Time taken by get_data_from_api: 0.9535212516784668 seconds
+2024-01-13 01:25:18 AM: INFO - Get ISS data
+2024-01-13 01:25:19 AM: INFO - Time taken by get_data_from_api: 0.6318478584289551 seconds
+2024-01-13 01:25:19 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:25:20 AM: INFO - Time taken by get_data_from_api: 0.9592201709747314 seconds
+2024-01-13 01:26:20 AM: INFO - Get ISS data
+2024-01-13 01:26:20 AM: INFO - Time taken by get_data_from_api: 0.43488502502441406 seconds
+2024-01-13 01:26:20 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:26:21 AM: INFO - Time taken by get_data_from_api: 0.8172798156738281 seconds
+2024-01-13 01:27:21 AM: INFO - Get ISS data
+2024-01-13 01:27:22 AM: INFO - Time taken by get_data_from_api: 0.46674609184265137 seconds
+2024-01-13 01:27:22 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:27:23 AM: INFO - Time taken by get_data_from_api: 0.944561243057251 seconds
+2024-01-13 01:28:23 AM: INFO - Get ISS data
+2024-01-13 01:28:23 AM: INFO - Time taken by get_data_from_api: 0.45014286041259766 seconds
+2024-01-13 01:28:23 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:28:24 AM: INFO - Time taken by get_data_from_api: 0.835578203201294 seconds
+2024-01-13 01:29:24 AM: INFO - Get ISS data
+2024-01-13 01:29:25 AM: INFO - Time taken by get_data_from_api: 0.39649200439453125 seconds
+2024-01-13 01:29:25 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:29:26 AM: INFO - Time taken by get_data_from_api: 0.8845019340515137 seconds
+2024-01-13 01:30:26 AM: INFO - Get ISS data
+2024-01-13 01:30:26 AM: INFO - Time taken by get_data_from_api: 0.48402905464172363 seconds
+2024-01-13 01:30:26 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:30:27 AM: INFO - Time taken by get_data_from_api: 0.6696820259094238 seconds
+2024-01-13 01:31:27 AM: INFO - Get ISS data
+2024-01-13 01:31:28 AM: INFO - Time taken by get_data_from_api: 0.43306803703308105 seconds
+2024-01-13 01:31:28 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:31:28 AM: INFO - Time taken by get_data_from_api: 0.7883551120758057 seconds
+2024-01-13 01:32:29 AM: INFO - Get ISS data
+2024-01-13 01:32:29 AM: INFO - Time taken by get_data_from_api: 0.4619269371032715 seconds
+2024-01-13 01:32:29 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:32:30 AM: INFO - Time taken by get_data_from_api: 0.7850251197814941 seconds
+2024-01-13 01:33:30 AM: INFO - Get ISS data
+2024-01-13 01:33:30 AM: INFO - Time taken by get_data_from_api: 0.3852500915527344 seconds
+2024-01-13 01:33:30 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:33:31 AM: INFO - Time taken by get_data_from_api: 0.7470109462738037 seconds
+2024-01-13 01:34:31 AM: INFO - Get ISS data
+2024-01-13 01:34:32 AM: INFO - Time taken by get_data_from_api: 0.4457519054412842 seconds
+2024-01-13 01:34:32 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:34:33 AM: INFO - Time taken by get_data_from_api: 0.9420831203460693 seconds
+2024-01-13 01:35:33 AM: INFO - Get ISS data
+2024-01-13 01:35:33 AM: INFO - Time taken by get_data_from_api: 0.3834850788116455 seconds
+2024-01-13 01:35:33 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:35:34 AM: INFO - Time taken by get_data_from_api: 0.7536509037017822 seconds
+2024-01-13 01:36:35 AM: INFO - Get ISS data
+2024-01-13 01:36:35 AM: INFO - Time taken by get_data_from_api: 0.5015029907226562 seconds
+2024-01-13 01:36:35 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:36:36 AM: INFO - Time taken by get_data_from_api: 0.8482837677001953 seconds
+2024-01-13 01:37:36 AM: INFO - Get ISS data
+2024-01-13 01:37:37 AM: INFO - Time taken by get_data_from_api: 0.4498929977416992 seconds
+2024-01-13 01:37:37 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:37:38 AM: INFO - Time taken by get_data_from_api: 0.7792727947235107 seconds
+2024-01-13 01:38:38 AM: INFO - Get ISS data
+2024-01-13 01:38:38 AM: INFO - Time taken by get_data_from_api: 0.3980720043182373 seconds
+2024-01-13 01:38:38 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:38:39 AM: INFO - Time taken by get_data_from_api: 0.7469470500946045 seconds
+2024-01-13 01:39:39 AM: INFO - Get ISS data
+2024-01-13 01:39:39 AM: INFO - Time taken by get_data_from_api: 0.39789319038391113 seconds
+2024-01-13 01:39:39 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:39:40 AM: INFO - Time taken by get_data_from_api: 0.7999107837677002 seconds
+2024-01-13 01:40:40 AM: INFO - Get ISS data
+2024-01-13 01:40:41 AM: INFO - Time taken by get_data_from_api: 0.4374709129333496 seconds
+2024-01-13 01:40:41 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:40:42 AM: INFO - Time taken by get_data_from_api: 0.7874722480773926 seconds
+2024-01-13 01:41:42 AM: INFO - Get ISS data
+2024-01-13 01:41:42 AM: INFO - Time taken by get_data_from_api: 0.5589072704315186 seconds
+2024-01-13 01:41:42 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:41:43 AM: INFO - Time taken by get_data_from_api: 1.0159201622009277 seconds
+2024-01-13 01:42:44 AM: INFO - Get ISS data
+2024-01-13 01:42:44 AM: INFO - Time taken by get_data_from_api: 0.4812300205230713 seconds
+2024-01-13 01:42:44 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:42:45 AM: INFO - Time taken by get_data_from_api: 0.7452468872070312 seconds
+2024-01-13 01:43:45 AM: INFO - Get ISS data
+2024-01-13 01:43:46 AM: INFO - Time taken by get_data_from_api: 0.447354793548584 seconds
+2024-01-13 01:43:46 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:43:46 AM: INFO - Time taken by get_data_from_api: 0.9003939628601074 seconds
+2024-01-13 01:44:47 AM: INFO - Get ISS data
+2024-01-13 01:44:47 AM: INFO - Time taken by get_data_from_api: 0.3749387264251709 seconds
+2024-01-13 01:44:47 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:44:48 AM: INFO - Time taken by get_data_from_api: 0.806053876876831 seconds
+2024-01-13 01:45:48 AM: INFO - Get ISS data
+2024-01-13 01:45:49 AM: INFO - Time taken by get_data_from_api: 0.902817964553833 seconds
+2024-01-13 01:45:49 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:45:50 AM: INFO - Time taken by get_data_from_api: 0.7956821918487549 seconds
+2024-01-13 01:46:50 AM: INFO - Get ISS data
+2024-01-13 01:46:50 AM: INFO - Time taken by get_data_from_api: 0.4891989231109619 seconds
+2024-01-13 01:46:50 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:46:51 AM: INFO - Time taken by get_data_from_api: 1.0249629020690918 seconds
+2024-01-13 01:47:51 AM: INFO - Get ISS data
+2024-01-13 01:47:52 AM: INFO - Time taken by get_data_from_api: 0.45468688011169434 seconds
+2024-01-13 01:47:52 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:47:53 AM: INFO - Time taken by get_data_from_api: 0.9748122692108154 seconds
+2024-01-13 01:48:53 AM: INFO - Get ISS data
+2024-01-13 01:48:54 AM: INFO - Time taken by get_data_from_api: 0.4409980773925781 seconds
+2024-01-13 01:48:54 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:48:54 AM: INFO - Time taken by get_data_from_api: 0.8364121913909912 seconds
+2024-01-13 01:49:54 AM: INFO - Get ISS data
+2024-01-13 01:49:55 AM: INFO - Time taken by get_data_from_api: 0.4434061050415039 seconds
+2024-01-13 01:49:55 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:49:56 AM: INFO - Time taken by get_data_from_api: 0.8407368659973145 seconds
+2024-01-13 01:50:56 AM: INFO - Get ISS data
+2024-01-13 01:50:56 AM: INFO - Time taken by get_data_from_api: 0.4516177177429199 seconds
+2024-01-13 01:50:56 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:50:57 AM: INFO - Time taken by get_data_from_api: 0.8418309688568115 seconds
+2024-01-13 01:51:57 AM: INFO - Get ISS data
+2024-01-13 01:51:58 AM: INFO - Time taken by get_data_from_api: 0.48491716384887695 seconds
+2024-01-13 01:51:58 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:51:59 AM: INFO - Time taken by get_data_from_api: 0.833693265914917 seconds
+2024-01-13 01:52:59 AM: INFO - Get ISS data
+2024-01-13 01:52:59 AM: INFO - Time taken by get_data_from_api: 0.4551370143890381 seconds
+2024-01-13 01:52:59 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:53:00 AM: INFO - Time taken by get_data_from_api: 0.9330470561981201 seconds
+2024-01-13 01:54:00 AM: INFO - Get ISS data
+2024-01-13 01:54:01 AM: INFO - Time taken by get_data_from_api: 0.4604949951171875 seconds
+2024-01-13 01:54:01 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:54:02 AM: INFO - Time taken by get_data_from_api: 0.8489878177642822 seconds
+2024-01-13 01:55:02 AM: INFO - Get ISS data
+2024-01-13 01:55:02 AM: INFO - Time taken by get_data_from_api: 0.43430209159851074 seconds
+2024-01-13 01:55:02 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:55:03 AM: INFO - Time taken by get_data_from_api: 0.8452620506286621 seconds
+2024-01-13 01:56:03 AM: INFO - Get ISS data
+2024-01-13 01:56:04 AM: INFO - Time taken by get_data_from_api: 0.44635987281799316 seconds
+2024-01-13 01:56:04 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:56:05 AM: INFO - Time taken by get_data_from_api: 0.92901611328125 seconds
+2024-01-13 01:57:05 AM: INFO - Get ISS data
+2024-01-13 01:57:05 AM: INFO - Time taken by get_data_from_api: 0.5844240188598633 seconds
+2024-01-13 01:57:05 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:57:07 AM: INFO - Time taken by get_data_from_api: 1.0562307834625244 seconds
+2024-01-13 01:58:07 AM: INFO - Get ISS data
+2024-01-13 01:58:07 AM: INFO - Time taken by get_data_from_api: 0.44287991523742676 seconds
+2024-01-13 01:58:07 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:58:08 AM: INFO - Time taken by get_data_from_api: 0.8921358585357666 seconds
+2024-01-13 01:59:08 AM: INFO - Get ISS data
+2024-01-13 01:59:09 AM: INFO - Time taken by get_data_from_api: 0.46268701553344727 seconds
+2024-01-13 01:59:09 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:59:10 AM: INFO - Time taken by get_data_from_api: 0.857342004776001 seconds
+2024-01-13 02:00:10 AM: INFO - Get ISS data
+2024-01-13 02:00:10 AM: INFO - Time taken by get_data_from_api: 0.398421049118042 seconds
+2024-01-13 02:00:10 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:00:11 AM: INFO - Time taken by get_data_from_api: 0.8356099128723145 seconds
+2024-01-13 02:01:11 AM: INFO - Get ISS data
+2024-01-13 02:01:12 AM: INFO - Time taken by get_data_from_api: 0.4580068588256836 seconds
+2024-01-13 02:01:12 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:01:12 AM: INFO - Time taken by get_data_from_api: 0.8253180980682373 seconds
+2024-01-13 02:02:13 AM: INFO - Get ISS data
+2024-01-13 02:02:13 AM: INFO - Time taken by get_data_from_api: 0.821058988571167 seconds
+2024-01-13 02:02:13 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:02:14 AM: INFO - Time taken by get_data_from_api: 0.8580381870269775 seconds
+2024-01-13 02:03:14 AM: INFO - Get ISS data
+2024-01-13 02:03:15 AM: INFO - Time taken by get_data_from_api: 0.385300874710083 seconds
+2024-01-13 02:03:15 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:03:16 AM: INFO - Time taken by get_data_from_api: 0.8909337520599365 seconds
+2024-01-13 02:04:16 AM: INFO - Get ISS data
+2024-01-13 02:04:16 AM: INFO - Time taken by get_data_from_api: 0.3868570327758789 seconds
+2024-01-13 02:04:16 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:04:17 AM: INFO - Time taken by get_data_from_api: 0.8714580535888672 seconds
+2024-01-13 02:05:17 AM: INFO - Get ISS data
+2024-01-13 02:05:18 AM: INFO - Time taken by get_data_from_api: 0.4883079528808594 seconds
+2024-01-13 02:05:18 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:05:18 AM: INFO - Time taken by get_data_from_api: 0.6627688407897949 seconds
+2024-01-13 02:06:19 AM: INFO - Get ISS data
+2024-01-13 02:06:19 AM: INFO - Time taken by get_data_from_api: 0.4438350200653076 seconds
+2024-01-13 02:06:19 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:06:20 AM: INFO - Time taken by get_data_from_api: 0.9394910335540771 seconds
+2024-01-13 02:07:20 AM: INFO - Get ISS data
+2024-01-13 02:07:21 AM: INFO - Time taken by get_data_from_api: 0.613386869430542 seconds
+2024-01-13 02:07:21 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:07:22 AM: INFO - Time taken by get_data_from_api: 1.035923957824707 seconds
+2024-01-13 02:08:22 AM: INFO - Get ISS data
+2024-01-13 02:08:22 AM: INFO - Time taken by get_data_from_api: 0.3981468677520752 seconds
+2024-01-13 02:08:22 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:08:24 AM: INFO - Time taken by get_data_from_api: 1.6208038330078125 seconds
+2024-01-13 02:09:24 AM: INFO - Get ISS data
+2024-01-13 02:09:24 AM: INFO - Time taken by get_data_from_api: 0.3772120475769043 seconds
+2024-01-13 02:09:24 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:09:25 AM: INFO - Time taken by get_data_from_api: 0.9053549766540527 seconds
+2024-01-13 02:10:26 AM: INFO - Get ISS data
+2024-01-13 02:10:26 AM: INFO - Time taken by get_data_from_api: 0.43780994415283203 seconds
+2024-01-13 02:10:26 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:10:27 AM: INFO - Time taken by get_data_from_api: 0.8391616344451904 seconds
+2024-01-13 02:11:27 AM: INFO - Get ISS data
+2024-01-13 02:11:27 AM: INFO - Time taken by get_data_from_api: 0.460860013961792 seconds
+2024-01-13 02:11:27 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:11:28 AM: INFO - Time taken by get_data_from_api: 0.8136489391326904 seconds
+2024-01-13 02:12:28 AM: INFO - Get ISS data
+2024-01-13 02:12:29 AM: INFO - Time taken by get_data_from_api: 0.7909822463989258 seconds
+2024-01-13 02:12:29 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:12:30 AM: INFO - Time taken by get_data_from_api: 0.8076150417327881 seconds
+2024-01-13 02:13:30 AM: INFO - Get ISS data
+2024-01-13 02:13:31 AM: INFO - Time taken by get_data_from_api: 0.8247222900390625 seconds
+2024-01-13 02:13:31 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:13:32 AM: INFO - Time taken by get_data_from_api: 0.8648240566253662 seconds
+2024-01-13 02:14:32 AM: INFO - Get ISS data
+2024-01-13 02:14:33 AM: INFO - Time taken by get_data_from_api: 0.4604957103729248 seconds
+2024-01-13 02:14:33 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:14:33 AM: INFO - Time taken by get_data_from_api: 0.909224271774292 seconds
+2024-01-13 02:15:34 AM: INFO - Get ISS data
+2024-01-13 02:15:34 AM: INFO - Time taken by get_data_from_api: 0.412200927734375 seconds
+2024-01-13 02:15:34 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:15:35 AM: INFO - Time taken by get_data_from_api: 0.8591151237487793 seconds
+2024-01-13 02:16:35 AM: INFO - Get ISS data
+2024-01-13 02:16:35 AM: INFO - Time taken by get_data_from_api: 0.3949759006500244 seconds
+2024-01-13 02:16:35 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:16:36 AM: INFO - Time taken by get_data_from_api: 0.8795077800750732 seconds
+2024-01-13 02:17:36 AM: INFO - Get ISS data
+2024-01-13 02:17:37 AM: INFO - Time taken by get_data_from_api: 0.43068599700927734 seconds
+2024-01-13 02:17:37 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:17:38 AM: INFO - Time taken by get_data_from_api: 0.822829008102417 seconds
+2024-01-13 02:18:38 AM: INFO - Get ISS data
+2024-01-13 02:18:39 AM: INFO - Time taken by get_data_from_api: 0.6389729976654053 seconds
+2024-01-13 02:18:39 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:18:40 AM: INFO - Time taken by get_data_from_api: 1.188279151916504 seconds
+2024-01-13 02:19:40 AM: INFO - Get ISS data
+2024-01-13 02:19:40 AM: INFO - Time taken by get_data_from_api: 0.4446237087249756 seconds
+2024-01-13 02:19:40 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:19:41 AM: INFO - Time taken by get_data_from_api: 0.8182251453399658 seconds
+2024-01-13 02:20:41 AM: INFO - Get ISS data
+2024-01-13 02:20:42 AM: INFO - Time taken by get_data_from_api: 0.45865917205810547 seconds
+2024-01-13 02:20:42 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:20:43 AM: INFO - Time taken by get_data_from_api: 0.9308822154998779 seconds
+2024-01-13 02:21:43 AM: INFO - Get ISS data
+2024-01-13 02:21:43 AM: INFO - Time taken by get_data_from_api: 0.4430880546569824 seconds
+2024-01-13 02:21:43 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:21:44 AM: INFO - Time taken by get_data_from_api: 0.9373440742492676 seconds
+2024-01-13 02:22:44 AM: INFO - Get ISS data
+2024-01-13 02:22:45 AM: INFO - Time taken by get_data_from_api: 0.45290303230285645 seconds
+2024-01-13 02:22:45 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:22:46 AM: INFO - Time taken by get_data_from_api: 0.8870499134063721 seconds
+2024-01-13 02:23:46 AM: INFO - Get ISS data
+2024-01-13 02:23:47 AM: INFO - Time taken by get_data_from_api: 0.7470009326934814 seconds
+2024-01-13 02:23:47 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:23:47 AM: INFO - Time taken by get_data_from_api: 0.8369998931884766 seconds
+2024-01-13 02:24:48 AM: INFO - Get ISS data
+2024-01-13 02:24:48 AM: INFO - Time taken by get_data_from_api: 0.40398216247558594 seconds
+2024-01-13 02:24:48 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:24:49 AM: INFO - Time taken by get_data_from_api: 0.9409432411193848 seconds
+2024-01-13 02:25:49 AM: INFO - Get ISS data
+2024-01-13 02:25:50 AM: INFO - Time taken by get_data_from_api: 0.45557117462158203 seconds
+2024-01-13 02:25:50 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:25:51 AM: INFO - Time taken by get_data_from_api: 0.8120448589324951 seconds
+2024-01-13 02:26:51 AM: INFO - Get ISS data
+2024-01-13 02:26:51 AM: INFO - Time taken by get_data_from_api: 0.4594452381134033 seconds
+2024-01-13 02:26:51 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:26:52 AM: INFO - Time taken by get_data_from_api: 1.0220000743865967 seconds
+2024-01-13 02:27:52 AM: INFO - Get ISS data
+2024-01-13 02:27:53 AM: INFO - Time taken by get_data_from_api: 0.39508605003356934 seconds
+2024-01-13 02:27:53 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:27:53 AM: INFO - Time taken by get_data_from_api: 0.6814651489257812 seconds
+2024-01-13 02:28:54 AM: INFO - Get ISS data
+2024-01-13 02:28:54 AM: INFO - Time taken by get_data_from_api: 0.83024001121521 seconds
+2024-01-13 02:28:54 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:28:55 AM: INFO - Time taken by get_data_from_api: 1.049555778503418 seconds
+2024-01-13 02:29:56 AM: INFO - Get ISS data
+2024-01-13 02:29:56 AM: INFO - Time taken by get_data_from_api: 0.4702019691467285 seconds
+2024-01-13 02:29:56 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:29:57 AM: INFO - Time taken by get_data_from_api: 0.8104948997497559 seconds
+2024-01-13 02:30:57 AM: INFO - Get ISS data
+2024-01-13 02:30:57 AM: INFO - Time taken by get_data_from_api: 0.45357489585876465 seconds
+2024-01-13 02:30:57 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:30:58 AM: INFO - Time taken by get_data_from_api: 0.8994450569152832 seconds
+2024-01-13 02:31:59 AM: INFO - Get ISS data
+2024-01-13 02:31:59 AM: INFO - Time taken by get_data_from_api: 0.4781608581542969 seconds
+2024-01-13 02:31:59 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:32:00 AM: INFO - Time taken by get_data_from_api: 0.523367166519165 seconds
+2024-01-13 02:33:00 AM: INFO - Get ISS data
+2024-01-13 02:33:01 AM: INFO - Time taken by get_data_from_api: 0.8535830974578857 seconds
+2024-01-13 02:33:01 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:33:01 AM: INFO - Time taken by get_data_from_api: 0.5519168376922607 seconds
+2024-01-13 02:34:01 AM: INFO - Get ISS data
+2024-01-13 02:34:02 AM: INFO - Time taken by get_data_from_api: 0.553093671798706 seconds
+2024-01-13 02:34:02 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:34:03 AM: INFO - Time taken by get_data_from_api: 0.846595048904419 seconds
+2024-01-13 02:35:03 AM: INFO - Get ISS data
+2024-01-13 02:35:03 AM: INFO - Time taken by get_data_from_api: 0.47175121307373047 seconds
+2024-01-13 02:35:03 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:35:04 AM: INFO - Time taken by get_data_from_api: 0.8159539699554443 seconds
+2024-01-13 02:36:04 AM: INFO - Get ISS data
+2024-01-13 02:36:05 AM: INFO - Time taken by get_data_from_api: 0.3961942195892334 seconds
+2024-01-13 02:36:05 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:36:05 AM: INFO - Time taken by get_data_from_api: 0.7751750946044922 seconds
+2024-01-13 02:37:06 AM: INFO - Get ISS data
+2024-01-13 02:37:06 AM: INFO - Time taken by get_data_from_api: 0.3897550106048584 seconds
+2024-01-13 02:37:06 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:37:07 AM: INFO - Time taken by get_data_from_api: 0.8985011577606201 seconds
+2024-01-13 02:38:07 AM: INFO - Get ISS data
+2024-01-13 02:38:07 AM: INFO - Time taken by get_data_from_api: 0.39119386672973633 seconds
+2024-01-13 02:38:07 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:38:08 AM: INFO - Time taken by get_data_from_api: 0.8593010902404785 seconds
+2024-01-13 02:39:08 AM: INFO - Get ISS data
+2024-01-13 02:39:09 AM: INFO - Time taken by get_data_from_api: 0.47004175186157227 seconds
+2024-01-13 02:39:09 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:39:10 AM: INFO - Time taken by get_data_from_api: 0.938758134841919 seconds
+2024-01-13 02:40:10 AM: INFO - Get ISS data
+2024-01-13 02:40:10 AM: INFO - Time taken by get_data_from_api: 0.40536975860595703 seconds
+2024-01-13 02:40:10 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:40:11 AM: INFO - Time taken by get_data_from_api: 0.8663098812103271 seconds
+2024-01-13 02:41:11 AM: INFO - Get ISS data
+2024-01-13 02:41:12 AM: INFO - Time taken by get_data_from_api: 0.3965020179748535 seconds
+2024-01-13 02:41:12 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:41:13 AM: INFO - Time taken by get_data_from_api: 0.8833591938018799 seconds
+2024-01-13 02:42:13 AM: INFO - Get ISS data
+2024-01-13 02:42:13 AM: INFO - Time taken by get_data_from_api: 0.40209484100341797 seconds
+2024-01-13 02:42:13 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:42:14 AM: INFO - Time taken by get_data_from_api: 0.879647970199585 seconds
+2024-01-13 02:43:14 AM: INFO - Get ISS data
+2024-01-13 02:43:15 AM: INFO - Time taken by get_data_from_api: 0.45664262771606445 seconds
+2024-01-13 02:43:15 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:43:15 AM: INFO - Time taken by get_data_from_api: 0.5296108722686768 seconds
+2024-01-13 02:44:16 AM: INFO - Get ISS data
+2024-01-13 02:44:16 AM: INFO - Time taken by get_data_from_api: 0.6452569961547852 seconds
+2024-01-13 02:44:16 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:44:17 AM: INFO - Time taken by get_data_from_api: 1.017829179763794 seconds
+2024-01-13 02:45:18 AM: INFO - Get ISS data
+2024-01-13 02:45:18 AM: INFO - Time taken by get_data_from_api: 0.48720383644104004 seconds
+2024-01-13 02:45:18 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:45:19 AM: INFO - Time taken by get_data_from_api: 0.481046199798584 seconds
+2024-01-13 02:46:19 AM: INFO - Get ISS data
+2024-01-13 02:46:20 AM: INFO - Time taken by get_data_from_api: 0.4183506965637207 seconds
+2024-01-13 02:46:20 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:46:20 AM: INFO - Time taken by get_data_from_api: 0.8348631858825684 seconds
+2024-01-13 02:47:21 AM: INFO - Get ISS data
+2024-01-13 02:47:21 AM: INFO - Time taken by get_data_from_api: 0.4537930488586426 seconds
+2024-01-13 02:47:21 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:47:22 AM: INFO - Time taken by get_data_from_api: 0.5865168571472168 seconds
+2024-01-13 02:48:22 AM: INFO - Get ISS data
+2024-01-13 02:48:22 AM: INFO - Time taken by get_data_from_api: 0.44850683212280273 seconds
+2024-01-13 02:48:22 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:48:23 AM: INFO - Time taken by get_data_from_api: 0.8691220283508301 seconds
+2024-01-13 02:49:23 AM: INFO - Get ISS data
+2024-01-13 02:49:24 AM: INFO - Time taken by get_data_from_api: 0.39040684700012207 seconds
+2024-01-13 02:49:24 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:49:24 AM: INFO - Time taken by get_data_from_api: 0.7933139801025391 seconds
+2024-01-13 02:50:25 AM: INFO - Get ISS data
+2024-01-13 02:50:25 AM: INFO - Time taken by get_data_from_api: 0.3856658935546875 seconds
+2024-01-13 02:50:25 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:50:26 AM: INFO - Time taken by get_data_from_api: 0.6822421550750732 seconds
+2024-01-13 02:51:26 AM: INFO - Get ISS data
+2024-01-13 02:51:26 AM: INFO - Time taken by get_data_from_api: 0.4022221565246582 seconds
+2024-01-13 02:51:26 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:51:27 AM: INFO - Time taken by get_data_from_api: 0.9033849239349365 seconds
+2024-01-13 02:52:27 AM: INFO - Get ISS data
+2024-01-13 02:52:28 AM: INFO - Time taken by get_data_from_api: 0.39837098121643066 seconds
+2024-01-13 02:52:28 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:52:29 AM: INFO - Time taken by get_data_from_api: 0.8293113708496094 seconds
+2024-01-13 02:53:29 AM: INFO - Get ISS data
+2024-01-13 02:53:29 AM: INFO - Time taken by get_data_from_api: 0.4554128646850586 seconds
+2024-01-13 02:53:29 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:53:30 AM: INFO - Time taken by get_data_from_api: 0.8610439300537109 seconds
+2024-01-13 02:54:30 AM: INFO - Get ISS data
+2024-01-13 02:54:31 AM: INFO - Time taken by get_data_from_api: 0.4669778347015381 seconds
+2024-01-13 02:54:31 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:54:32 AM: INFO - Time taken by get_data_from_api: 0.91628098487854 seconds
+2024-01-13 02:55:32 AM: INFO - Get ISS data
+2024-01-13 02:55:32 AM: INFO - Time taken by get_data_from_api: 0.46399378776550293 seconds
+2024-01-13 02:55:32 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:55:33 AM: INFO - Time taken by get_data_from_api: 0.9168779850006104 seconds
+2024-01-13 02:56:33 AM: INFO - Get ISS data
+2024-01-13 02:56:34 AM: INFO - Time taken by get_data_from_api: 0.46440601348876953 seconds
+2024-01-13 02:56:34 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:56:35 AM: INFO - Time taken by get_data_from_api: 0.636728048324585 seconds
+2024-01-13 02:57:35 AM: INFO - Get ISS data
+2024-01-13 02:57:35 AM: INFO - Time taken by get_data_from_api: 0.4498581886291504 seconds
+2024-01-13 02:57:35 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:57:36 AM: INFO - Time taken by get_data_from_api: 0.8193299770355225 seconds
+2024-01-13 02:58:36 AM: INFO - Get ISS data
+2024-01-13 02:58:37 AM: INFO - Time taken by get_data_from_api: 0.4213540554046631 seconds
+2024-01-13 02:58:37 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:58:38 AM: INFO - Time taken by get_data_from_api: 0.961906909942627 seconds
+2024-01-13 02:59:38 AM: INFO - Get ISS data
+2024-01-13 02:59:38 AM: INFO - Time taken by get_data_from_api: 0.45246005058288574 seconds
+2024-01-13 02:59:38 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 02:59:39 AM: INFO - Time taken by get_data_from_api: 0.8258321285247803 seconds
+2024-01-13 03:00:39 AM: INFO - Get ISS data
+2024-01-13 03:00:40 AM: INFO - Time taken by get_data_from_api: 0.4707198143005371 seconds
+2024-01-13 03:00:40 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:00:41 AM: INFO - Time taken by get_data_from_api: 0.9044568538665771 seconds
+2024-01-13 03:01:41 AM: INFO - Get ISS data
+2024-01-13 03:01:41 AM: INFO - Time taken by get_data_from_api: 0.45981717109680176 seconds
+2024-01-13 03:01:41 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:01:42 AM: INFO - Time taken by get_data_from_api: 0.9169840812683105 seconds
+2024-01-13 03:02:42 AM: INFO - Get ISS data
+2024-01-13 03:02:43 AM: INFO - Time taken by get_data_from_api: 0.46296191215515137 seconds
+2024-01-13 03:02:43 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:02:44 AM: INFO - Time taken by get_data_from_api: 0.9383671283721924 seconds
+2024-01-13 03:03:44 AM: INFO - Get ISS data
+2024-01-13 03:03:44 AM: INFO - Time taken by get_data_from_api: 0.44903993606567383 seconds
+2024-01-13 03:03:44 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:03:45 AM: INFO - Time taken by get_data_from_api: 0.9255142211914062 seconds
+2024-01-13 03:04:45 AM: INFO - Get ISS data
+2024-01-13 03:04:46 AM: INFO - Time taken by get_data_from_api: 0.4463798999786377 seconds
+2024-01-13 03:04:46 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:04:47 AM: INFO - Time taken by get_data_from_api: 0.9323558807373047 seconds
+2024-01-13 03:05:47 AM: INFO - Get ISS data
+2024-01-13 03:05:47 AM: INFO - Time taken by get_data_from_api: 0.3951687812805176 seconds
+2024-01-13 03:05:47 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:05:48 AM: INFO - Time taken by get_data_from_api: 0.8825540542602539 seconds
+2024-01-13 03:06:48 AM: INFO - Get ISS data
+2024-01-13 03:06:49 AM: INFO - Time taken by get_data_from_api: 0.4707639217376709 seconds
+2024-01-13 03:06:49 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:06:49 AM: INFO - Time taken by get_data_from_api: 0.536517858505249 seconds
+2024-01-13 03:07:50 AM: INFO - Get ISS data
+2024-01-13 03:07:50 AM: INFO - Time taken by get_data_from_api: 0.38274669647216797 seconds
+2024-01-13 03:07:50 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:07:51 AM: INFO - Time taken by get_data_from_api: 0.856482982635498 seconds
+2024-01-13 03:08:51 AM: INFO - Get ISS data
+2024-01-13 03:08:51 AM: INFO - Time taken by get_data_from_api: 0.5216209888458252 seconds
+2024-01-13 03:08:51 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:08:52 AM: INFO - Time taken by get_data_from_api: 0.5428359508514404 seconds
+2024-01-13 03:09:52 AM: INFO - Get ISS data
+2024-01-13 03:09:53 AM: INFO - Time taken by get_data_from_api: 0.41617417335510254 seconds
+2024-01-13 03:09:53 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:09:53 AM: INFO - Time taken by get_data_from_api: 0.7718648910522461 seconds
+2024-01-13 03:10:54 AM: INFO - Get ISS data
+2024-01-13 03:10:54 AM: INFO - Time taken by get_data_from_api: 0.39587879180908203 seconds
+2024-01-13 03:10:54 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:10:55 AM: INFO - Time taken by get_data_from_api: 0.8771190643310547 seconds
+2024-01-13 03:11:55 AM: INFO - Get ISS data
+2024-01-13 03:11:55 AM: INFO - Time taken by get_data_from_api: 0.38225483894348145 seconds
+2024-01-13 03:11:55 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:11:56 AM: INFO - Time taken by get_data_from_api: 0.8895690441131592 seconds
+2024-01-13 03:12:56 AM: INFO - Get ISS data
+2024-01-13 03:12:57 AM: INFO - Time taken by get_data_from_api: 0.45494723320007324 seconds
+2024-01-13 03:12:57 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:12:58 AM: INFO - Time taken by get_data_from_api: 0.8097479343414307 seconds
+2024-01-13 03:13:58 AM: INFO - Get ISS data
+2024-01-13 03:13:58 AM: INFO - Time taken by get_data_from_api: 0.4001479148864746 seconds
+2024-01-13 03:13:58 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:13:59 AM: INFO - Time taken by get_data_from_api: 0.876882791519165 seconds
+2024-01-13 03:14:59 AM: INFO - Get ISS data
+2024-01-13 03:15:00 AM: INFO - Time taken by get_data_from_api: 0.4477512836456299 seconds
+2024-01-13 03:15:00 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:15:00 AM: INFO - Time taken by get_data_from_api: 0.7265820503234863 seconds
+2024-01-13 03:16:01 AM: INFO - Get ISS data
+2024-01-13 03:16:01 AM: INFO - Time taken by get_data_from_api: 0.4080519676208496 seconds
+2024-01-13 03:16:01 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:16:02 AM: INFO - Time taken by get_data_from_api: 0.8727078437805176 seconds
+2024-01-13 03:17:02 AM: INFO - Get ISS data
+2024-01-13 03:17:02 AM: INFO - Time taken by get_data_from_api: 0.3972499370574951 seconds
+2024-01-13 03:17:02 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:17:03 AM: INFO - Time taken by get_data_from_api: 0.877781867980957 seconds
+2024-01-13 03:18:04 AM: INFO - Get ISS data
+2024-01-13 03:18:04 AM: INFO - Time taken by get_data_from_api: 0.39229631423950195 seconds
+2024-01-13 03:18:04 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:18:05 AM: INFO - Time taken by get_data_from_api: 0.8710629940032959 seconds
+2024-01-13 03:19:05 AM: INFO - Get ISS data
+2024-01-13 03:19:05 AM: INFO - Time taken by get_data_from_api: 0.39179277420043945 seconds
+2024-01-13 03:19:05 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:19:06 AM: INFO - Time taken by get_data_from_api: 0.7974390983581543 seconds
+2024-01-13 03:20:06 AM: INFO - Get ISS data
+2024-01-13 03:20:07 AM: INFO - Time taken by get_data_from_api: 0.45856404304504395 seconds
+2024-01-13 03:20:07 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:20:07 AM: INFO - Time taken by get_data_from_api: 0.4801342487335205 seconds
+2024-01-13 03:21:07 AM: INFO - Get ISS data
+2024-01-13 03:21:08 AM: INFO - Time taken by get_data_from_api: 0.47937607765197754 seconds
+2024-01-13 03:21:08 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:21:09 AM: INFO - Time taken by get_data_from_api: 0.8246679306030273 seconds
+2024-01-13 03:22:09 AM: INFO - Get ISS data
+2024-01-13 03:22:09 AM: INFO - Time taken by get_data_from_api: 0.46404600143432617 seconds
+2024-01-13 03:22:09 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:22:10 AM: INFO - Time taken by get_data_from_api: 0.8133540153503418 seconds
+2024-01-13 03:23:10 AM: INFO - Get ISS data
+2024-01-13 03:23:11 AM: INFO - Time taken by get_data_from_api: 0.40428614616394043 seconds
+2024-01-13 03:23:11 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:23:12 AM: INFO - Time taken by get_data_from_api: 0.875662088394165 seconds
+2024-01-13 03:24:12 AM: INFO - Get ISS data
+2024-01-13 03:24:12 AM: INFO - Time taken by get_data_from_api: 0.5144009590148926 seconds
+2024-01-13 03:24:12 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:24:13 AM: INFO - Time taken by get_data_from_api: 1.1688051223754883 seconds
+2024-01-13 03:25:14 AM: INFO - Get ISS data
+2024-01-13 03:25:14 AM: INFO - Time taken by get_data_from_api: 0.45319199562072754 seconds
+2024-01-13 03:25:14 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:25:15 AM: INFO - Time taken by get_data_from_api: 0.9201099872589111 seconds
+2024-01-13 03:26:15 AM: INFO - Get ISS data
+2024-01-13 03:26:16 AM: INFO - Time taken by get_data_from_api: 0.4026830196380615 seconds
+2024-01-13 03:26:16 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:26:16 AM: INFO - Time taken by get_data_from_api: 0.776745080947876 seconds
+2024-01-13 03:27:16 AM: INFO - Get ISS data
+2024-01-13 03:27:17 AM: INFO - Time taken by get_data_from_api: 0.40065717697143555 seconds
+2024-01-13 03:27:17 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:27:18 AM: INFO - Time taken by get_data_from_api: 1.0729520320892334 seconds
+2024-01-13 03:28:18 AM: INFO - Get ISS data
+2024-01-13 03:28:19 AM: INFO - Time taken by get_data_from_api: 0.40103793144226074 seconds
+2024-01-13 03:28:19 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:28:19 AM: INFO - Time taken by get_data_from_api: 0.975956916809082 seconds
+2024-01-13 03:29:20 AM: INFO - Get ISS data
+2024-01-13 03:29:20 AM: INFO - Time taken by get_data_from_api: 0.46242308616638184 seconds
+2024-01-13 03:29:20 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:29:21 AM: INFO - Time taken by get_data_from_api: 0.9157350063323975 seconds
+2024-01-13 03:30:21 AM: INFO - Get ISS data
+2024-01-13 03:30:22 AM: INFO - Time taken by get_data_from_api: 0.39986205101013184 seconds
+2024-01-13 03:30:22 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:30:22 AM: INFO - Time taken by get_data_from_api: 0.8759188652038574 seconds
+2024-01-13 03:31:23 AM: INFO - Get ISS data
+2024-01-13 03:31:23 AM: INFO - Time taken by get_data_from_api: 0.4653191566467285 seconds
+2024-01-13 03:31:23 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:31:24 AM: INFO - Time taken by get_data_from_api: 0.9069042205810547 seconds
+2024-01-13 03:32:24 AM: INFO - Get ISS data
+2024-01-13 03:32:25 AM: INFO - Time taken by get_data_from_api: 0.39468884468078613 seconds
+2024-01-13 03:32:25 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:32:25 AM: INFO - Time taken by get_data_from_api: 0.8876810073852539 seconds
+2024-01-13 03:33:26 AM: INFO - Get ISS data
+2024-01-13 03:33:26 AM: INFO - Time taken by get_data_from_api: 0.4472219944000244 seconds
+2024-01-13 03:33:26 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:33:27 AM: INFO - Time taken by get_data_from_api: 0.9169909954071045 seconds
+2024-01-13 03:34:27 AM: INFO - Get ISS data
+2024-01-13 03:34:28 AM: INFO - Time taken by get_data_from_api: 0.39873790740966797 seconds
+2024-01-13 03:34:28 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:34:28 AM: INFO - Time taken by get_data_from_api: 0.8496298789978027 seconds
+2024-01-13 03:35:29 AM: INFO - Get ISS data
+2024-01-13 03:35:29 AM: INFO - Time taken by get_data_from_api: 0.4067878723144531 seconds
+2024-01-13 03:35:29 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:35:30 AM: INFO - Time taken by get_data_from_api: 0.8937768936157227 seconds
+2024-01-13 03:36:30 AM: INFO - Get ISS data
+2024-01-13 03:36:30 AM: INFO - Time taken by get_data_from_api: 0.45383286476135254 seconds
+2024-01-13 03:36:30 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:36:31 AM: INFO - Time taken by get_data_from_api: 0.9292898178100586 seconds
+2024-01-13 03:37:32 AM: INFO - Get ISS data
+2024-01-13 03:37:32 AM: INFO - Time taken by get_data_from_api: 0.4863569736480713 seconds
+2024-01-13 03:37:32 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:37:33 AM: INFO - Time taken by get_data_from_api: 0.8954579830169678 seconds
+2024-01-13 03:38:33 AM: INFO - Get ISS data
+2024-01-13 03:38:34 AM: INFO - Time taken by get_data_from_api: 0.38547492027282715 seconds
+2024-01-13 03:38:34 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:38:34 AM: INFO - Time taken by get_data_from_api: 0.8851988315582275 seconds
+2024-01-13 03:39:35 AM: INFO - Get ISS data
+2024-01-13 03:39:35 AM: INFO - Time taken by get_data_from_api: 0.39724302291870117 seconds
+2024-01-13 03:39:35 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:39:36 AM: INFO - Time taken by get_data_from_api: 0.8841378688812256 seconds
+2024-01-13 03:40:36 AM: INFO - Get ISS data
+2024-01-13 03:40:36 AM: INFO - Time taken by get_data_from_api: 0.4385809898376465 seconds
+2024-01-13 03:40:36 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:40:37 AM: INFO - Time taken by get_data_from_api: 0.9217090606689453 seconds
+2024-01-13 03:41:38 AM: INFO - Get ISS data
+2024-01-13 03:41:38 AM: INFO - Time taken by get_data_from_api: 0.415539026260376 seconds
+2024-01-13 03:41:38 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:41:39 AM: INFO - Time taken by get_data_from_api: 0.8635058403015137 seconds
+2024-01-13 03:42:39 AM: INFO - Get ISS data
+2024-01-13 03:42:39 AM: INFO - Time taken by get_data_from_api: 0.3762331008911133 seconds
+2024-01-13 03:42:39 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:42:40 AM: INFO - Time taken by get_data_from_api: 0.7988688945770264 seconds
+2024-01-13 03:43:40 AM: INFO - Get ISS data
+2024-01-13 03:43:41 AM: INFO - Time taken by get_data_from_api: 0.3762638568878174 seconds
+2024-01-13 03:43:41 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:43:42 AM: INFO - Time taken by get_data_from_api: 0.8363540172576904 seconds
+2024-01-13 03:44:42 AM: INFO - Get ISS data
+2024-01-13 03:44:42 AM: INFO - Time taken by get_data_from_api: 0.47673916816711426 seconds
+2024-01-13 03:44:42 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:44:43 AM: INFO - Time taken by get_data_from_api: 0.8515679836273193 seconds
+2024-01-13 03:45:43 AM: INFO - Get ISS data
+2024-01-13 03:45:44 AM: INFO - Time taken by get_data_from_api: 0.4147679805755615 seconds
+2024-01-13 03:45:44 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:45:44 AM: INFO - Time taken by get_data_from_api: 0.8635358810424805 seconds
+2024-01-13 03:46:45 AM: INFO - Get ISS data
+2024-01-13 03:46:45 AM: INFO - Time taken by get_data_from_api: 0.47098708152770996 seconds
+2024-01-13 03:46:45 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:46:46 AM: INFO - Time taken by get_data_from_api: 0.8097448348999023 seconds
+2024-01-13 03:47:46 AM: INFO - Get ISS data
+2024-01-13 03:47:47 AM: INFO - Time taken by get_data_from_api: 0.46984386444091797 seconds
+2024-01-13 03:47:47 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:47:47 AM: INFO - Time taken by get_data_from_api: 0.8097820281982422 seconds
+2024-01-13 03:48:48 AM: INFO - Get ISS data
+2024-01-13 03:48:48 AM: INFO - Time taken by get_data_from_api: 0.4792299270629883 seconds
+2024-01-13 03:48:48 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:48:49 AM: INFO - Time taken by get_data_from_api: 0.7986750602722168 seconds
+2024-01-13 03:49:49 AM: INFO - Get ISS data
+2024-01-13 03:49:49 AM: INFO - Time taken by get_data_from_api: 0.4063420295715332 seconds
+2024-01-13 03:49:49 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:49:50 AM: INFO - Time taken by get_data_from_api: 0.872337818145752 seconds
+2024-01-13 03:50:50 AM: INFO - Get ISS data
+2024-01-13 03:50:51 AM: INFO - Time taken by get_data_from_api: 0.4360830783843994 seconds
+2024-01-13 03:50:51 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:50:52 AM: INFO - Time taken by get_data_from_api: 0.8445248603820801 seconds
+2024-01-13 03:51:52 AM: INFO - Get ISS data
+2024-01-13 03:51:52 AM: INFO - Time taken by get_data_from_api: 0.4004809856414795 seconds
+2024-01-13 03:51:52 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:51:53 AM: INFO - Time taken by get_data_from_api: 0.8728311061859131 seconds
+2024-01-13 03:52:53 AM: INFO - Get ISS data
+2024-01-13 03:52:54 AM: INFO - Time taken by get_data_from_api: 0.46633195877075195 seconds
+2024-01-13 03:52:54 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:52:55 AM: INFO - Time taken by get_data_from_api: 0.9156649112701416 seconds
+2024-01-13 03:53:55 AM: INFO - Get ISS data
+2024-01-13 03:53:55 AM: INFO - Time taken by get_data_from_api: 0.39178013801574707 seconds
+2024-01-13 03:53:55 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:53:56 AM: INFO - Time taken by get_data_from_api: 0.8895881175994873 seconds
+2024-01-13 03:54:56 AM: INFO - Get ISS data
+2024-01-13 03:54:57 AM: INFO - Time taken by get_data_from_api: 0.36753201484680176 seconds
+2024-01-13 03:54:57 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:54:58 AM: INFO - Time taken by get_data_from_api: 0.9013621807098389 seconds
+2024-01-13 03:55:58 AM: INFO - Get ISS data
+2024-01-13 03:55:58 AM: INFO - Time taken by get_data_from_api: 0.41226720809936523 seconds
+2024-01-13 03:55:58 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:55:59 AM: INFO - Time taken by get_data_from_api: 0.8621020317077637 seconds
+2024-01-13 03:56:59 AM: INFO - Get ISS data
+2024-01-13 03:57:00 AM: INFO - Time taken by get_data_from_api: 0.44094395637512207 seconds
+2024-01-13 03:57:00 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:57:01 AM: INFO - Time taken by get_data_from_api: 0.9385788440704346 seconds
+2024-01-13 03:58:01 AM: INFO - Get ISS data
+2024-01-13 03:58:01 AM: INFO - Time taken by get_data_from_api: 0.41655397415161133 seconds
+2024-01-13 03:58:01 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:58:02 AM: INFO - Time taken by get_data_from_api: 0.9545800685882568 seconds
+2024-01-13 03:59:02 AM: INFO - Get ISS data
+2024-01-13 03:59:03 AM: INFO - Time taken by get_data_from_api: 0.45493602752685547 seconds
+2024-01-13 03:59:03 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 03:59:04 AM: INFO - Time taken by get_data_from_api: 0.9179739952087402 seconds
+2024-01-13 04:00:04 AM: INFO - Get ISS data
+2024-01-13 04:00:04 AM: INFO - Time taken by get_data_from_api: 0.46462488174438477 seconds
+2024-01-13 04:00:04 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:00:05 AM: INFO - Time taken by get_data_from_api: 0.813115119934082 seconds
+2024-01-13 04:01:05 AM: INFO - Get ISS data
+2024-01-13 04:01:06 AM: INFO - Time taken by get_data_from_api: 0.44223904609680176 seconds
+2024-01-13 04:01:06 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:01:07 AM: INFO - Time taken by get_data_from_api: 0.8812088966369629 seconds
+2024-01-13 04:02:07 AM: INFO - Get ISS data
+2024-01-13 04:02:07 AM: INFO - Time taken by get_data_from_api: 0.4396369457244873 seconds
+2024-01-13 04:02:07 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:02:08 AM: INFO - Time taken by get_data_from_api: 0.8245668411254883 seconds
+2024-01-13 04:03:08 AM: INFO - Get ISS data
+2024-01-13 04:03:09 AM: INFO - Time taken by get_data_from_api: 0.3891870975494385 seconds
+2024-01-13 04:03:09 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:03:09 AM: INFO - Time taken by get_data_from_api: 0.856281042098999 seconds
+2024-01-13 04:04:10 AM: INFO - Get ISS data
+2024-01-13 04:04:10 AM: INFO - Time taken by get_data_from_api: 0.3977668285369873 seconds
+2024-01-13 04:04:10 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:04:11 AM: INFO - Time taken by get_data_from_api: 0.8777899742126465 seconds
+2024-01-13 04:05:11 AM: INFO - Get ISS data
+2024-01-13 04:05:11 AM: INFO - Time taken by get_data_from_api: 0.3774592876434326 seconds
+2024-01-13 04:05:11 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:05:12 AM: INFO - Time taken by get_data_from_api: 0.9480490684509277 seconds
+2024-01-13 04:06:13 AM: INFO - Get ISS data
+2024-01-13 04:06:13 AM: INFO - Time taken by get_data_from_api: 0.4295380115509033 seconds
+2024-01-13 04:06:13 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:06:14 AM: INFO - Time taken by get_data_from_api: 0.8859589099884033 seconds
+2024-01-13 04:07:14 AM: INFO - Get ISS data
+2024-01-13 04:07:14 AM: INFO - Time taken by get_data_from_api: 0.405350923538208 seconds
+2024-01-13 04:07:14 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:07:15 AM: INFO - Time taken by get_data_from_api: 0.9683070182800293 seconds
+2024-01-13 04:08:16 AM: INFO - Get ISS data
+2024-01-13 04:08:16 AM: INFO - Time taken by get_data_from_api: 0.42314791679382324 seconds
+2024-01-13 04:08:16 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:08:17 AM: INFO - Time taken by get_data_from_api: 0.6777911186218262 seconds
+2024-01-13 04:09:17 AM: INFO - Get ISS data
+2024-01-13 04:09:17 AM: INFO - Time taken by get_data_from_api: 0.3762168884277344 seconds
+2024-01-13 04:09:17 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:09:18 AM: INFO - Time taken by get_data_from_api: 0.8977406024932861 seconds
+2024-01-13 04:10:18 AM: INFO - Get ISS data
+2024-01-13 04:10:19 AM: INFO - Time taken by get_data_from_api: 0.4615039825439453 seconds
+2024-01-13 04:10:19 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:10:20 AM: INFO - Time taken by get_data_from_api: 0.9192807674407959 seconds
+2024-01-13 04:11:20 AM: INFO - Get ISS data
+2024-01-13 04:11:20 AM: INFO - Time taken by get_data_from_api: 0.450747013092041 seconds
+2024-01-13 04:11:20 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:11:21 AM: INFO - Time taken by get_data_from_api: 0.8544440269470215 seconds
+2024-01-13 04:12:21 AM: INFO - Get ISS data
+2024-01-13 04:12:22 AM: INFO - Time taken by get_data_from_api: 0.37841272354125977 seconds
+2024-01-13 04:12:22 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:12:22 AM: INFO - Time taken by get_data_from_api: 0.8145241737365723 seconds
+2024-01-13 04:13:23 AM: INFO - Get ISS data
+2024-01-13 04:13:23 AM: INFO - Time taken by get_data_from_api: 0.4501509666442871 seconds
+2024-01-13 04:13:23 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:13:24 AM: INFO - Time taken by get_data_from_api: 0.8617119789123535 seconds
+2024-01-13 04:14:24 AM: INFO - Get ISS data
+2024-01-13 04:14:25 AM: INFO - Time taken by get_data_from_api: 0.47535276412963867 seconds
+2024-01-13 04:14:25 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:14:26 AM: INFO - Time taken by get_data_from_api: 1.0113961696624756 seconds
+2024-01-13 04:15:26 AM: INFO - Get ISS data
+2024-01-13 04:15:26 AM: INFO - Time taken by get_data_from_api: 0.4898829460144043 seconds
+2024-01-13 04:15:26 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:15:27 AM: INFO - Time taken by get_data_from_api: 0.889923095703125 seconds
+2024-01-13 04:16:27 AM: INFO - Get ISS data
+2024-01-13 04:16:28 AM: INFO - Time taken by get_data_from_api: 0.3961629867553711 seconds
+2024-01-13 04:16:28 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:16:29 AM: INFO - Time taken by get_data_from_api: 0.8796031475067139 seconds
+2024-01-13 04:17:29 AM: INFO - Get ISS data
+2024-01-13 04:17:29 AM: INFO - Time taken by get_data_from_api: 0.45502328872680664 seconds
+2024-01-13 04:17:29 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:17:30 AM: INFO - Time taken by get_data_from_api: 0.785106897354126 seconds
+2024-01-13 04:18:30 AM: INFO - Get ISS data
+2024-01-13 04:18:31 AM: INFO - Time taken by get_data_from_api: 0.4247779846191406 seconds
+2024-01-13 04:18:31 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:18:32 AM: INFO - Time taken by get_data_from_api: 0.9923362731933594 seconds
+2024-01-13 04:19:32 AM: INFO - Get ISS data
+2024-01-13 04:19:32 AM: INFO - Time taken by get_data_from_api: 0.3735330104827881 seconds
+2024-01-13 04:19:32 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:19:33 AM: INFO - Time taken by get_data_from_api: 0.9079239368438721 seconds
+2024-01-13 04:20:33 AM: INFO - Get ISS data
+2024-01-13 04:20:34 AM: INFO - Time taken by get_data_from_api: 0.47643280029296875 seconds
+2024-01-13 04:20:34 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:20:35 AM: INFO - Time taken by get_data_from_api: 0.9953658580780029 seconds
+2024-01-13 04:21:35 AM: INFO - Get ISS data
+2024-01-13 04:21:35 AM: INFO - Time taken by get_data_from_api: 0.45893096923828125 seconds
+2024-01-13 04:21:35 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:21:36 AM: INFO - Time taken by get_data_from_api: 0.927091121673584 seconds
+2024-01-13 04:22:36 AM: INFO - Get ISS data
+2024-01-13 04:22:37 AM: INFO - Time taken by get_data_from_api: 0.39719605445861816 seconds
+2024-01-13 04:22:37 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:22:38 AM: INFO - Time taken by get_data_from_api: 0.9835898876190186 seconds
+2024-01-13 04:23:38 AM: INFO - Get ISS data
+2024-01-13 04:23:38 AM: INFO - Time taken by get_data_from_api: 0.4468851089477539 seconds
+2024-01-13 04:23:38 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:23:39 AM: INFO - Time taken by get_data_from_api: 0.9255020618438721 seconds
+2024-01-13 04:24:39 AM: INFO - Get ISS data
+2024-01-13 04:24:40 AM: INFO - Time taken by get_data_from_api: 0.41271090507507324 seconds
+2024-01-13 04:24:40 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:24:41 AM: INFO - Time taken by get_data_from_api: 0.8625898361206055 seconds
+2024-01-13 04:25:41 AM: INFO - Get ISS data
+2024-01-13 04:25:41 AM: INFO - Time taken by get_data_from_api: 0.4622042179107666 seconds
+2024-01-13 04:25:41 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:25:42 AM: INFO - Time taken by get_data_from_api: 0.8136711120605469 seconds
+2024-01-13 04:26:42 AM: INFO - Get ISS data
+2024-01-13 04:26:43 AM: INFO - Time taken by get_data_from_api: 0.3692810535430908 seconds
+2024-01-13 04:26:43 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:26:44 AM: INFO - Time taken by get_data_from_api: 0.9034337997436523 seconds
+2024-01-13 04:27:44 AM: INFO - Get ISS data
+2024-01-13 04:27:44 AM: INFO - Time taken by get_data_from_api: 0.43816208839416504 seconds
+2024-01-13 04:27:44 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:27:45 AM: INFO - Time taken by get_data_from_api: 0.8367440700531006 seconds
+2024-01-13 04:28:45 AM: INFO - Get ISS data
+2024-01-13 04:28:46 AM: INFO - Time taken by get_data_from_api: 0.39954614639282227 seconds
+2024-01-13 04:28:46 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:28:46 AM: INFO - Time taken by get_data_from_api: 0.8839991092681885 seconds
+2024-01-13 04:29:47 AM: INFO - Get ISS data
+2024-01-13 04:29:47 AM: INFO - Time taken by get_data_from_api: 0.3781850337982178 seconds
+2024-01-13 04:29:47 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:29:48 AM: INFO - Time taken by get_data_from_api: 0.8896639347076416 seconds
+2024-01-13 04:30:48 AM: INFO - Get ISS data
+2024-01-13 04:30:48 AM: INFO - Time taken by get_data_from_api: 0.468005895614624 seconds
+2024-01-13 04:30:48 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:30:49 AM: INFO - Time taken by get_data_from_api: 0.7812929153442383 seconds
+2024-01-13 04:31:49 AM: INFO - Get ISS data
+2024-01-13 04:31:50 AM: INFO - Time taken by get_data_from_api: 0.45317792892456055 seconds
+2024-01-13 04:31:50 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:31:51 AM: INFO - Time taken by get_data_from_api: 0.8530261516571045 seconds
+2024-01-13 04:32:51 AM: INFO - Get ISS data
+2024-01-13 04:32:52 AM: INFO - Time taken by get_data_from_api: 0.8632588386535645 seconds
+2024-01-13 04:32:52 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:32:53 AM: INFO - Time taken by get_data_from_api: 0.8186371326446533 seconds
+2024-01-13 04:33:53 AM: INFO - Get ISS data
+2024-01-13 04:33:53 AM: INFO - Time taken by get_data_from_api: 0.43025827407836914 seconds
+2024-01-13 04:33:53 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:33:54 AM: INFO - Time taken by get_data_from_api: 0.7616560459136963 seconds
+2024-01-13 04:34:54 AM: INFO - Get ISS data
+2024-01-13 04:34:55 AM: INFO - Time taken by get_data_from_api: 0.43709397315979004 seconds
+2024-01-13 04:34:55 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:34:55 AM: INFO - Time taken by get_data_from_api: 0.8247020244598389 seconds
+2024-01-13 04:35:56 AM: INFO - Get ISS data
+2024-01-13 04:35:56 AM: INFO - Time taken by get_data_from_api: 0.37380480766296387 seconds
+2024-01-13 04:35:56 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:35:57 AM: INFO - Time taken by get_data_from_api: 0.693626880645752 seconds
+2024-01-13 04:36:57 AM: INFO - Get ISS data
+2024-01-13 04:36:57 AM: INFO - Time taken by get_data_from_api: 0.4203817844390869 seconds
+2024-01-13 04:36:57 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:36:58 AM: INFO - Time taken by get_data_from_api: 0.7967860698699951 seconds
+2024-01-13 04:37:58 AM: INFO - Get ISS data
+2024-01-13 04:37:59 AM: INFO - Time taken by get_data_from_api: 0.4536728858947754 seconds
+2024-01-13 04:37:59 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:37:59 AM: INFO - Time taken by get_data_from_api: 0.8469769954681396 seconds
+2024-01-13 04:39:00 AM: INFO - Get ISS data
+2024-01-13 04:39:00 AM: INFO - Time taken by get_data_from_api: 0.3911921977996826 seconds
+2024-01-13 04:39:00 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:39:01 AM: INFO - Time taken by get_data_from_api: 0.8745689392089844 seconds
+2024-01-13 04:40:01 AM: INFO - Get ISS data
+2024-01-13 04:40:01 AM: INFO - Time taken by get_data_from_api: 0.4219930171966553 seconds
+2024-01-13 04:40:01 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:40:02 AM: INFO - Time taken by get_data_from_api: 0.8727869987487793 seconds
+2024-01-13 04:41:03 AM: INFO - Get ISS data
+2024-01-13 04:41:03 AM: INFO - Time taken by get_data_from_api: 0.45781493186950684 seconds
+2024-01-13 04:41:03 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:41:04 AM: INFO - Time taken by get_data_from_api: 0.918367862701416 seconds
+2024-01-13 04:42:04 AM: INFO - Get ISS data
+2024-01-13 04:42:04 AM: INFO - Time taken by get_data_from_api: 0.3934600353240967 seconds
+2024-01-13 04:42:04 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:42:05 AM: INFO - Time taken by get_data_from_api: 0.7773759365081787 seconds
+2024-01-13 04:43:05 AM: INFO - Get ISS data
+2024-01-13 04:43:06 AM: INFO - Time taken by get_data_from_api: 0.45494699478149414 seconds
+2024-01-13 04:43:06 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:43:07 AM: INFO - Time taken by get_data_from_api: 0.925368070602417 seconds
+2024-01-13 04:44:07 AM: INFO - Get ISS data
+2024-01-13 04:44:07 AM: INFO - Time taken by get_data_from_api: 0.3986518383026123 seconds
+2024-01-13 04:44:07 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:44:08 AM: INFO - Time taken by get_data_from_api: 0.871027946472168 seconds
+2024-01-13 04:45:08 AM: INFO - Get ISS data
+2024-01-13 04:45:09 AM: INFO - Time taken by get_data_from_api: 0.5669510364532471 seconds
+2024-01-13 04:45:09 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:45:10 AM: INFO - Time taken by get_data_from_api: 0.8479371070861816 seconds
+2024-01-13 04:46:10 AM: INFO - Get ISS data
+2024-01-13 04:46:10 AM: INFO - Time taken by get_data_from_api: 0.4494011402130127 seconds
+2024-01-13 04:46:10 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:46:11 AM: INFO - Time taken by get_data_from_api: 0.8960299491882324 seconds
+2024-01-13 04:47:11 AM: INFO - Get ISS data
+2024-01-13 04:47:12 AM: INFO - Time taken by get_data_from_api: 0.4474911689758301 seconds
+2024-01-13 04:47:12 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:47:13 AM: INFO - Time taken by get_data_from_api: 0.8184640407562256 seconds
+2024-01-13 04:48:13 AM: INFO - Get ISS data
+2024-01-13 04:48:14 AM: INFO - Time taken by get_data_from_api: 0.6826870441436768 seconds
+2024-01-13 04:48:14 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:48:14 AM: INFO - Time taken by get_data_from_api: 0.9023659229278564 seconds
+2024-01-13 04:49:15 AM: INFO - Get ISS data
+2024-01-13 04:49:15 AM: INFO - Time taken by get_data_from_api: 0.45879387855529785 seconds
+2024-01-13 04:49:15 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:49:16 AM: INFO - Time taken by get_data_from_api: 0.8177680969238281 seconds
+2024-01-13 04:50:16 AM: INFO - Get ISS data
+2024-01-13 04:50:16 AM: INFO - Time taken by get_data_from_api: 0.3930230140686035 seconds
+2024-01-13 04:50:16 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:50:17 AM: INFO - Time taken by get_data_from_api: 0.8575479984283447 seconds
+2024-01-13 04:51:18 AM: INFO - Get ISS data
+2024-01-13 04:51:18 AM: INFO - Time taken by get_data_from_api: 0.44509291648864746 seconds
+2024-01-13 04:51:18 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:51:19 AM: INFO - Time taken by get_data_from_api: 0.8305199146270752 seconds
+2024-01-13 04:52:19 AM: INFO - Get ISS data
+2024-01-13 04:52:19 AM: INFO - Time taken by get_data_from_api: 0.39337611198425293 seconds
+2024-01-13 04:52:19 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:52:20 AM: INFO - Time taken by get_data_from_api: 0.8682219982147217 seconds
+2024-01-13 04:53:20 AM: INFO - Get ISS data
+2024-01-13 04:53:21 AM: INFO - Time taken by get_data_from_api: 0.43933582305908203 seconds
+2024-01-13 04:53:21 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:53:21 AM: INFO - Time taken by get_data_from_api: 0.5170266628265381 seconds
+2024-01-13 04:54:22 AM: INFO - Get ISS data
+2024-01-13 04:54:22 AM: INFO - Time taken by get_data_from_api: 0.3938450813293457 seconds
+2024-01-13 04:54:22 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:54:23 AM: INFO - Time taken by get_data_from_api: 0.8150808811187744 seconds
+2024-01-13 04:55:23 AM: INFO - Get ISS data
+2024-01-13 04:55:23 AM: INFO - Time taken by get_data_from_api: 0.4439411163330078 seconds
+2024-01-13 04:55:23 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:55:24 AM: INFO - Time taken by get_data_from_api: 0.9076690673828125 seconds
+2024-01-13 04:56:24 AM: INFO - Get ISS data
+2024-01-13 04:56:25 AM: INFO - Time taken by get_data_from_api: 0.3990159034729004 seconds
+2024-01-13 04:56:25 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:56:26 AM: INFO - Time taken by get_data_from_api: 0.8778669834136963 seconds
+2024-01-13 04:57:26 AM: INFO - Get ISS data
+2024-01-13 04:57:26 AM: INFO - Time taken by get_data_from_api: 0.46310901641845703 seconds
+2024-01-13 04:57:26 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:57:27 AM: INFO - Time taken by get_data_from_api: 0.9112672805786133 seconds
+2024-01-13 04:58:27 AM: INFO - Get ISS data
+2024-01-13 04:58:28 AM: INFO - Time taken by get_data_from_api: 0.44196367263793945 seconds
+2024-01-13 04:58:28 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:58:29 AM: INFO - Time taken by get_data_from_api: 0.8357632160186768 seconds
+2024-01-13 04:59:29 AM: INFO - Get ISS data
+2024-01-13 04:59:29 AM: INFO - Time taken by get_data_from_api: 0.38980674743652344 seconds
+2024-01-13 04:59:29 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 04:59:30 AM: INFO - Time taken by get_data_from_api: 0.8877360820770264 seconds
+2024-01-13 05:00:30 AM: INFO - Get ISS data
+2024-01-13 05:00:31 AM: INFO - Time taken by get_data_from_api: 0.45601320266723633 seconds
+2024-01-13 05:00:31 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:00:32 AM: INFO - Time taken by get_data_from_api: 0.8168509006500244 seconds
+2024-01-13 05:01:32 AM: INFO - Get ISS data
+2024-01-13 05:01:32 AM: INFO - Time taken by get_data_from_api: 0.40445494651794434 seconds
+2024-01-13 05:01:32 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:01:33 AM: INFO - Time taken by get_data_from_api: 0.8778398036956787 seconds
+2024-01-13 05:02:33 AM: INFO - Get ISS data
+2024-01-13 05:02:34 AM: INFO - Time taken by get_data_from_api: 0.45019006729125977 seconds
+2024-01-13 05:02:34 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:02:34 AM: INFO - Time taken by get_data_from_api: 0.8083550930023193 seconds
+2024-01-13 05:03:35 AM: INFO - Get ISS data
+2024-01-13 05:03:35 AM: INFO - Time taken by get_data_from_api: 0.45612215995788574 seconds
+2024-01-13 05:03:35 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:03:36 AM: INFO - Time taken by get_data_from_api: 0.6072671413421631 seconds
+2024-01-13 05:04:36 AM: INFO - Get ISS data
+2024-01-13 05:04:36 AM: INFO - Time taken by get_data_from_api: 0.402756929397583 seconds
+2024-01-13 05:04:36 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:04:37 AM: INFO - Time taken by get_data_from_api: 0.956815242767334 seconds
+2024-01-13 05:05:37 AM: INFO - Get ISS data
+2024-01-13 05:05:38 AM: INFO - Time taken by get_data_from_api: 0.3971889019012451 seconds
+2024-01-13 05:05:38 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:05:39 AM: INFO - Time taken by get_data_from_api: 0.9835493564605713 seconds
+2024-01-13 05:06:39 AM: INFO - Get ISS data
+2024-01-13 05:06:39 AM: INFO - Time taken by get_data_from_api: 0.456057071685791 seconds
+2024-01-13 05:06:39 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:06:40 AM: INFO - Time taken by get_data_from_api: 0.9161229133605957 seconds
+2024-01-13 05:07:40 AM: INFO - Get ISS data
+2024-01-13 05:07:41 AM: INFO - Time taken by get_data_from_api: 0.45687389373779297 seconds
+2024-01-13 05:07:41 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:07:42 AM: INFO - Time taken by get_data_from_api: 0.7587060928344727 seconds
+2024-01-13 05:08:42 AM: INFO - Get ISS data
+2024-01-13 05:08:42 AM: INFO - Time taken by get_data_from_api: 0.44761180877685547 seconds
+2024-01-13 05:08:42 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:08:43 AM: INFO - Time taken by get_data_from_api: 1.2063939571380615 seconds
+2024-01-13 05:09:44 AM: INFO - Get ISS data
+2024-01-13 05:09:44 AM: INFO - Time taken by get_data_from_api: 0.45867180824279785 seconds
+2024-01-13 05:09:44 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:09:46 AM: INFO - Time taken by get_data_from_api: 1.4317359924316406 seconds
+2024-01-13 05:10:46 AM: INFO - Get ISS data
+2024-01-13 05:10:47 AM: INFO - Time taken by get_data_from_api: 1.115727186203003 seconds
+2024-01-13 05:10:47 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:10:48 AM: INFO - Time taken by get_data_from_api: 0.8815977573394775 seconds
+2024-01-13 05:11:48 AM: INFO - Get ISS data
+2024-01-13 05:11:48 AM: INFO - Time taken by get_data_from_api: 0.45839929580688477 seconds
+2024-01-13 05:11:48 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:11:49 AM: INFO - Time taken by get_data_from_api: 0.5761189460754395 seconds
+2024-01-13 05:12:49 AM: INFO - Get ISS data
+2024-01-13 05:12:49 AM: INFO - Time taken by get_data_from_api: 0.417330265045166 seconds
+2024-01-13 05:12:49 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:12:50 AM: INFO - Time taken by get_data_from_api: 0.892967939376831 seconds
+2024-01-13 05:13:51 AM: INFO - Get ISS data
+2024-01-13 05:13:51 AM: INFO - Time taken by get_data_from_api: 0.46470189094543457 seconds
+2024-01-13 05:13:51 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:13:52 AM: INFO - Time taken by get_data_from_api: 0.9148190021514893 seconds
+2024-01-13 05:14:52 AM: INFO - Get ISS data
+2024-01-13 05:14:53 AM: INFO - Time taken by get_data_from_api: 0.4562520980834961 seconds
+2024-01-13 05:14:53 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:14:53 AM: INFO - Time taken by get_data_from_api: 0.912071943283081 seconds
+2024-01-13 05:15:54 AM: INFO - Get ISS data
+2024-01-13 05:15:54 AM: INFO - Time taken by get_data_from_api: 0.47397303581237793 seconds
+2024-01-13 05:15:54 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:15:55 AM: INFO - Time taken by get_data_from_api: 0.8996548652648926 seconds
+2024-01-13 05:16:55 AM: INFO - Get ISS data
+2024-01-13 05:16:56 AM: INFO - Time taken by get_data_from_api: 0.4432840347290039 seconds
+2024-01-13 05:16:56 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:16:56 AM: INFO - Time taken by get_data_from_api: 0.836421012878418 seconds
+2024-01-13 05:17:57 AM: INFO - Get ISS data
+2024-01-13 05:17:57 AM: INFO - Time taken by get_data_from_api: 0.4454469680786133 seconds
+2024-01-13 05:17:57 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:17:58 AM: INFO - Time taken by get_data_from_api: 0.8266830444335938 seconds
+2024-01-13 05:18:58 AM: INFO - Get ISS data
+2024-01-13 05:18:58 AM: INFO - Time taken by get_data_from_api: 0.3768332004547119 seconds
+2024-01-13 05:18:58 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:18:59 AM: INFO - Time taken by get_data_from_api: 0.8301429748535156 seconds
+2024-01-13 05:19:59 AM: INFO - Get ISS data
+2024-01-13 05:20:00 AM: INFO - Time taken by get_data_from_api: 0.39838314056396484 seconds
+2024-01-13 05:20:00 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:20:01 AM: INFO - Time taken by get_data_from_api: 0.8415522575378418 seconds
+2024-01-13 05:21:01 AM: INFO - Get ISS data
+2024-01-13 05:21:01 AM: INFO - Time taken by get_data_from_api: 0.45798397064208984 seconds
+2024-01-13 05:21:01 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:21:02 AM: INFO - Time taken by get_data_from_api: 0.8817758560180664 seconds
+2024-01-13 05:22:02 AM: INFO - Get ISS data
+2024-01-13 05:22:03 AM: INFO - Time taken by get_data_from_api: 0.3957979679107666 seconds
+2024-01-13 05:22:03 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:22:04 AM: INFO - Time taken by get_data_from_api: 0.8856849670410156 seconds
+2024-01-13 05:23:04 AM: INFO - Get ISS data
+2024-01-13 05:23:04 AM: INFO - Time taken by get_data_from_api: 0.437701940536499 seconds
+2024-01-13 05:23:04 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:23:05 AM: INFO - Time taken by get_data_from_api: 0.8405897617340088 seconds
+2024-01-13 05:24:05 AM: INFO - Get ISS data
+2024-01-13 05:24:06 AM: INFO - Time taken by get_data_from_api: 0.3811459541320801 seconds
+2024-01-13 05:24:06 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:24:07 AM: INFO - Time taken by get_data_from_api: 0.8912062644958496 seconds
+2024-01-13 05:25:07 AM: INFO - Get ISS data
+2024-01-13 05:25:07 AM: INFO - Time taken by get_data_from_api: 0.39476990699768066 seconds
+2024-01-13 05:25:07 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:25:08 AM: INFO - Time taken by get_data_from_api: 0.8779189586639404 seconds
+2024-01-13 05:26:08 AM: INFO - Get ISS data
+2024-01-13 05:26:09 AM: INFO - Time taken by get_data_from_api: 0.5870850086212158 seconds
+2024-01-13 05:26:09 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:26:10 AM: INFO - Time taken by get_data_from_api: 0.8966331481933594 seconds
+2024-01-13 05:27:10 AM: INFO - Get ISS data
+2024-01-13 05:27:10 AM: INFO - Time taken by get_data_from_api: 0.3961648941040039 seconds
+2024-01-13 05:27:10 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:27:11 AM: INFO - Time taken by get_data_from_api: 0.9827828407287598 seconds
+2024-01-13 05:28:11 AM: INFO - Get ISS data
+2024-01-13 05:28:12 AM: INFO - Time taken by get_data_from_api: 0.3911571502685547 seconds
+2024-01-13 05:28:12 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:28:13 AM: INFO - Time taken by get_data_from_api: 0.8846008777618408 seconds
+2024-01-13 05:29:13 AM: INFO - Get ISS data
+2024-01-13 05:29:13 AM: INFO - Time taken by get_data_from_api: 0.38627099990844727 seconds
+2024-01-13 05:29:13 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:29:14 AM: INFO - Time taken by get_data_from_api: 0.6876571178436279 seconds
+2024-01-13 05:30:14 AM: INFO - Get ISS data
+2024-01-13 05:30:14 AM: INFO - Time taken by get_data_from_api: 0.38335609436035156 seconds
+2024-01-13 05:30:14 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:30:15 AM: INFO - Time taken by get_data_from_api: 0.8908228874206543 seconds
+2024-01-13 05:31:15 AM: INFO - Get ISS data
+2024-01-13 05:31:16 AM: INFO - Time taken by get_data_from_api: 0.38311767578125 seconds
+2024-01-13 05:31:16 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:31:17 AM: INFO - Time taken by get_data_from_api: 0.893625020980835 seconds
+2024-01-13 05:32:17 AM: INFO - Get ISS data
+2024-01-13 05:32:17 AM: INFO - Time taken by get_data_from_api: 0.4482748508453369 seconds
+2024-01-13 05:32:17 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:32:18 AM: INFO - Time taken by get_data_from_api: 0.7791459560394287 seconds
+2024-01-13 05:33:18 AM: INFO - Get ISS data
+2024-01-13 05:33:19 AM: INFO - Time taken by get_data_from_api: 0.3996250629425049 seconds
+2024-01-13 05:33:19 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:33:20 AM: INFO - Time taken by get_data_from_api: 0.9192719459533691 seconds
+2024-01-13 05:34:20 AM: INFO - Get ISS data
+2024-01-13 05:34:20 AM: INFO - Time taken by get_data_from_api: 0.4658827781677246 seconds
+2024-01-13 05:34:20 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:34:21 AM: INFO - Time taken by get_data_from_api: 0.9055721759796143 seconds
+2024-01-13 05:35:21 AM: INFO - Get ISS data
+2024-01-13 05:35:22 AM: INFO - Time taken by get_data_from_api: 0.47366905212402344 seconds
+2024-01-13 05:35:22 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:35:23 AM: INFO - Time taken by get_data_from_api: 0.8010070323944092 seconds
+2024-01-13 05:36:23 AM: INFO - Get ISS data
+2024-01-13 05:36:23 AM: INFO - Time taken by get_data_from_api: 0.48879170417785645 seconds
+2024-01-13 05:36:23 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:36:24 AM: INFO - Time taken by get_data_from_api: 0.8864331245422363 seconds
+2024-01-13 05:37:24 AM: INFO - Get ISS data
+2024-01-13 05:37:25 AM: INFO - Time taken by get_data_from_api: 0.482680082321167 seconds
+2024-01-13 05:37:25 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:37:26 AM: INFO - Time taken by get_data_from_api: 0.9663481712341309 seconds
+2024-01-13 05:38:26 AM: INFO - Get ISS data
+2024-01-13 05:38:26 AM: INFO - Time taken by get_data_from_api: 0.5057528018951416 seconds
+2024-01-13 05:38:26 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:38:27 AM: INFO - Time taken by get_data_from_api: 0.9772937297821045 seconds
+2024-01-13 05:39:28 AM: INFO - Get ISS data
+2024-01-13 05:39:28 AM: INFO - Time taken by get_data_from_api: 0.4753749370574951 seconds
+2024-01-13 05:39:28 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:39:29 AM: INFO - Time taken by get_data_from_api: 0.9008898735046387 seconds
+2024-01-13 05:40:29 AM: INFO - Get ISS data
+2024-01-13 05:40:30 AM: INFO - Time taken by get_data_from_api: 0.4717519283294678 seconds
+2024-01-13 05:40:30 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:40:30 AM: INFO - Time taken by get_data_from_api: 0.9022541046142578 seconds
+2024-01-13 05:41:31 AM: INFO - Get ISS data
+2024-01-13 05:41:31 AM: INFO - Time taken by get_data_from_api: 0.46039509773254395 seconds
+2024-01-13 05:41:31 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:41:32 AM: INFO - Time taken by get_data_from_api: 0.9280352592468262 seconds
+2024-01-13 05:42:32 AM: INFO - Get ISS data
+2024-01-13 05:42:33 AM: INFO - Time taken by get_data_from_api: 0.46477222442626953 seconds
+2024-01-13 05:42:33 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:42:34 AM: INFO - Time taken by get_data_from_api: 0.8476009368896484 seconds
+2024-01-13 05:43:34 AM: INFO - Get ISS data
+2024-01-13 05:43:34 AM: INFO - Time taken by get_data_from_api: 0.39467597007751465 seconds
+2024-01-13 05:43:34 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:43:35 AM: INFO - Time taken by get_data_from_api: 0.8286798000335693 seconds
+2024-01-13 05:44:35 AM: INFO - Get ISS data
+2024-01-13 05:44:36 AM: INFO - Time taken by get_data_from_api: 0.4542660713195801 seconds
+2024-01-13 05:44:36 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:44:36 AM: INFO - Time taken by get_data_from_api: 0.8466451168060303 seconds
+2024-01-13 05:45:37 AM: INFO - Get ISS data
+2024-01-13 05:45:37 AM: INFO - Time taken by get_data_from_api: 0.4153168201446533 seconds
+2024-01-13 05:45:37 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:45:38 AM: INFO - Time taken by get_data_from_api: 0.9378941059112549 seconds
+2024-01-13 05:46:38 AM: INFO - Get ISS data
+2024-01-13 05:46:38 AM: INFO - Time taken by get_data_from_api: 0.39241480827331543 seconds
+2024-01-13 05:46:38 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:46:40 AM: INFO - Time taken by get_data_from_api: 1.08144211769104 seconds
+2024-01-13 05:47:40 AM: INFO - Get ISS data
+2024-01-13 05:47:40 AM: INFO - Time taken by get_data_from_api: 0.39148378372192383 seconds
+2024-01-13 05:47:40 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:47:41 AM: INFO - Time taken by get_data_from_api: 0.8816907405853271 seconds
+2024-01-13 05:48:41 AM: INFO - Get ISS data
+2024-01-13 05:48:42 AM: INFO - Time taken by get_data_from_api: 0.4483308792114258 seconds
+2024-01-13 05:48:42 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:48:42 AM: INFO - Time taken by get_data_from_api: 0.5725622177124023 seconds
+2024-01-13 05:49:42 AM: INFO - Get ISS data
+2024-01-13 05:49:43 AM: INFO - Time taken by get_data_from_api: 0.38283801078796387 seconds
+2024-01-13 05:49:43 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:49:44 AM: INFO - Time taken by get_data_from_api: 1.0059239864349365 seconds
+2024-01-13 05:50:44 AM: INFO - Get ISS data
+2024-01-13 05:50:44 AM: INFO - Time taken by get_data_from_api: 0.3967611789703369 seconds
+2024-01-13 05:50:44 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:50:45 AM: INFO - Time taken by get_data_from_api: 0.9009599685668945 seconds
+2024-01-13 05:51:45 AM: INFO - Get ISS data
+2024-01-13 05:51:46 AM: INFO - Time taken by get_data_from_api: 0.391193151473999 seconds
+2024-01-13 05:51:46 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:51:46 AM: INFO - Time taken by get_data_from_api: 0.5723249912261963 seconds
+2024-01-13 05:52:46 AM: INFO - Get ISS data
+2024-01-13 05:52:47 AM: INFO - Time taken by get_data_from_api: 0.4539761543273926 seconds
+2024-01-13 05:52:47 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:52:48 AM: INFO - Time taken by get_data_from_api: 0.9232330322265625 seconds
+2024-01-13 05:53:48 AM: INFO - Get ISS data
+2024-01-13 05:53:48 AM: INFO - Time taken by get_data_from_api: 0.45064806938171387 seconds
+2024-01-13 05:53:48 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:53:49 AM: INFO - Time taken by get_data_from_api: 0.9246377944946289 seconds
+2024-01-13 05:54:50 AM: INFO - Get ISS data
+2024-01-13 05:54:50 AM: INFO - Time taken by get_data_from_api: 0.38830995559692383 seconds
+2024-01-13 05:54:50 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:54:51 AM: INFO - Time taken by get_data_from_api: 0.8104157447814941 seconds
+2024-01-13 05:55:51 AM: INFO - Get ISS data
+2024-01-13 05:55:51 AM: INFO - Time taken by get_data_from_api: 0.4069979190826416 seconds
+2024-01-13 05:55:51 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:55:52 AM: INFO - Time taken by get_data_from_api: 0.9231770038604736 seconds
+2024-01-13 05:56:52 AM: INFO - Get ISS data
+2024-01-13 05:56:53 AM: INFO - Time taken by get_data_from_api: 0.3999619483947754 seconds
+2024-01-13 05:56:53 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:56:54 AM: INFO - Time taken by get_data_from_api: 0.858241081237793 seconds
+2024-01-13 05:57:54 AM: INFO - Get ISS data
+2024-01-13 05:57:54 AM: INFO - Time taken by get_data_from_api: 0.41898298263549805 seconds
+2024-01-13 05:57:54 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:57:55 AM: INFO - Time taken by get_data_from_api: 0.8817131519317627 seconds
+2024-01-13 05:58:55 AM: INFO - Get ISS data
+2024-01-13 05:58:56 AM: INFO - Time taken by get_data_from_api: 0.40450596809387207 seconds
+2024-01-13 05:58:56 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:58:57 AM: INFO - Time taken by get_data_from_api: 0.977341890335083 seconds
+2024-01-13 05:59:57 AM: INFO - Get ISS data
+2024-01-13 05:59:57 AM: INFO - Time taken by get_data_from_api: 0.40505409240722656 seconds
+2024-01-13 05:59:57 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 05:59:58 AM: INFO - Time taken by get_data_from_api: 0.9495971202850342 seconds
+2024-01-13 06:00:58 AM: INFO - Get ISS data
+2024-01-13 06:00:59 AM: INFO - Time taken by get_data_from_api: 0.4574391841888428 seconds
+2024-01-13 06:00:59 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:01:00 AM: INFO - Time taken by get_data_from_api: 1.0489580631256104 seconds
+2024-01-13 06:02:00 AM: INFO - Get ISS data
+2024-01-13 06:02:01 AM: INFO - Time taken by get_data_from_api: 0.49541783332824707 seconds
+2024-01-13 06:02:01 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:02:02 AM: INFO - Time taken by get_data_from_api: 0.9752352237701416 seconds
+2024-01-13 06:03:02 AM: INFO - Get ISS data
+2024-01-13 06:03:02 AM: INFO - Time taken by get_data_from_api: 0.3958091735839844 seconds
+2024-01-13 06:03:02 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:03:03 AM: INFO - Time taken by get_data_from_api: 0.8797450065612793 seconds
+2024-01-13 06:04:03 AM: INFO - Get ISS data
+2024-01-13 06:04:04 AM: INFO - Time taken by get_data_from_api: 0.39708590507507324 seconds
+2024-01-13 06:04:04 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:04:04 AM: INFO - Time taken by get_data_from_api: 0.8719148635864258 seconds
+2024-01-13 06:05:05 AM: INFO - Get ISS data
+2024-01-13 06:05:05 AM: INFO - Time taken by get_data_from_api: 0.4472849369049072 seconds
+2024-01-13 06:05:05 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:05:06 AM: INFO - Time taken by get_data_from_api: 0.8312132358551025 seconds
+2024-01-13 06:06:06 AM: INFO - Get ISS data
+2024-01-13 06:06:06 AM: INFO - Time taken by get_data_from_api: 0.451876163482666 seconds
+2024-01-13 06:06:06 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:06:07 AM: INFO - Time taken by get_data_from_api: 0.8057510852813721 seconds
+2024-01-13 06:07:07 AM: INFO - Get ISS data
+2024-01-13 06:07:08 AM: INFO - Time taken by get_data_from_api: 0.39782190322875977 seconds
+2024-01-13 06:07:08 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:07:08 AM: INFO - Time taken by get_data_from_api: 0.4829838275909424 seconds
+2024-01-13 06:08:08 AM: INFO - Get ISS data
+2024-01-13 06:08:09 AM: INFO - Time taken by get_data_from_api: 0.5055968761444092 seconds
+2024-01-13 06:08:09 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:08:10 AM: INFO - Time taken by get_data_from_api: 0.9680099487304688 seconds
+2024-01-13 06:09:10 AM: INFO - Get ISS data
+2024-01-13 06:09:11 AM: INFO - Time taken by get_data_from_api: 0.43558287620544434 seconds
+2024-01-13 06:09:11 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:09:11 AM: INFO - Time taken by get_data_from_api: 0.8422260284423828 seconds
+2024-01-13 06:10:12 AM: INFO - Get ISS data
+2024-01-13 06:10:12 AM: INFO - Time taken by get_data_from_api: 0.46896791458129883 seconds
+2024-01-13 06:10:12 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:10:13 AM: INFO - Time taken by get_data_from_api: 0.8090381622314453 seconds
+2024-01-13 06:11:13 AM: INFO - Get ISS data
+2024-01-13 06:11:14 AM: INFO - Time taken by get_data_from_api: 0.41823673248291016 seconds
+2024-01-13 06:11:14 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:11:14 AM: INFO - Time taken by get_data_from_api: 0.8661680221557617 seconds
+2024-01-13 06:12:15 AM: INFO - Get ISS data
+2024-01-13 06:12:15 AM: INFO - Time taken by get_data_from_api: 0.3904399871826172 seconds
+2024-01-13 06:12:15 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:12:15 AM: INFO - Time taken by get_data_from_api: 0.508098840713501 seconds
+2024-01-13 06:13:16 AM: INFO - Get ISS data
+2024-01-13 06:13:16 AM: INFO - Time taken by get_data_from_api: 0.3944377899169922 seconds
+2024-01-13 06:13:16 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:13:17 AM: INFO - Time taken by get_data_from_api: 0.8705089092254639 seconds
+2024-01-13 06:14:17 AM: INFO - Get ISS data
+2024-01-13 06:14:17 AM: INFO - Time taken by get_data_from_api: 0.4629209041595459 seconds
+2024-01-13 06:14:17 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:14:18 AM: INFO - Time taken by get_data_from_api: 0.9101152420043945 seconds
+2024-01-13 06:15:19 AM: INFO - Get ISS data
+2024-01-13 06:15:19 AM: INFO - Time taken by get_data_from_api: 0.46228623390197754 seconds
+2024-01-13 06:15:19 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:15:20 AM: INFO - Time taken by get_data_from_api: 0.9211912155151367 seconds
+2024-01-13 06:16:20 AM: INFO - Get ISS data
+2024-01-13 06:16:21 AM: INFO - Time taken by get_data_from_api: 0.4302370548248291 seconds
+2024-01-13 06:16:21 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:16:21 AM: INFO - Time taken by get_data_from_api: 0.5518100261688232 seconds
+2024-01-13 06:17:21 AM: INFO - Get ISS data
+2024-01-13 06:17:22 AM: INFO - Time taken by get_data_from_api: 0.46797990798950195 seconds
+2024-01-13 06:17:22 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:17:23 AM: INFO - Time taken by get_data_from_api: 0.8930575847625732 seconds
+2024-01-13 06:18:23 AM: INFO - Get ISS data
+2024-01-13 06:18:23 AM: INFO - Time taken by get_data_from_api: 0.4560060501098633 seconds
+2024-01-13 06:18:23 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:18:24 AM: INFO - Time taken by get_data_from_api: 0.8200099468231201 seconds
+2024-01-13 06:19:24 AM: INFO - Get ISS data
+2024-01-13 06:19:25 AM: INFO - Time taken by get_data_from_api: 0.4642210006713867 seconds
+2024-01-13 06:19:25 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:19:25 AM: INFO - Time taken by get_data_from_api: 0.7612979412078857 seconds
+2024-01-13 06:20:26 AM: INFO - Get ISS data
+2024-01-13 06:20:26 AM: INFO - Time taken by get_data_from_api: 0.4508662223815918 seconds
+2024-01-13 06:20:26 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:20:27 AM: INFO - Time taken by get_data_from_api: 0.8279459476470947 seconds
+2024-01-13 06:21:27 AM: INFO - Get ISS data
+2024-01-13 06:21:28 AM: INFO - Time taken by get_data_from_api: 0.4511406421661377 seconds
+2024-01-13 06:21:28 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:21:28 AM: INFO - Time taken by get_data_from_api: 0.8260359764099121 seconds
+2024-01-13 06:22:29 AM: INFO - Get ISS data
+2024-01-13 06:22:29 AM: INFO - Time taken by get_data_from_api: 0.3921058177947998 seconds
+2024-01-13 06:22:29 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:22:30 AM: INFO - Time taken by get_data_from_api: 0.8861639499664307 seconds
+2024-01-13 06:23:30 AM: INFO - Get ISS data
+2024-01-13 06:23:30 AM: INFO - Time taken by get_data_from_api: 0.44933295249938965 seconds
+2024-01-13 06:23:30 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:23:31 AM: INFO - Time taken by get_data_from_api: 0.6180119514465332 seconds
+2024-01-13 06:24:31 AM: INFO - Get ISS data
+2024-01-13 06:24:32 AM: INFO - Time taken by get_data_from_api: 0.4679138660430908 seconds
+2024-01-13 06:24:32 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:24:33 AM: INFO - Time taken by get_data_from_api: 0.9154231548309326 seconds
+2024-01-13 06:25:33 AM: INFO - Get ISS data
+2024-01-13 06:25:33 AM: INFO - Time taken by get_data_from_api: 0.4033980369567871 seconds
+2024-01-13 06:25:33 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:25:34 AM: INFO - Time taken by get_data_from_api: 0.872967004776001 seconds
+2024-01-13 06:26:34 AM: INFO - Get ISS data
+2024-01-13 06:26:35 AM: INFO - Time taken by get_data_from_api: 0.46057701110839844 seconds
+2024-01-13 06:26:35 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:26:35 AM: INFO - Time taken by get_data_from_api: 0.8027558326721191 seconds
+2024-01-13 06:27:36 AM: INFO - Get ISS data
+2024-01-13 06:27:36 AM: INFO - Time taken by get_data_from_api: 0.4644358158111572 seconds
+2024-01-13 06:27:36 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:27:37 AM: INFO - Time taken by get_data_from_api: 0.8074889183044434 seconds
+2024-01-13 06:28:37 AM: INFO - Get ISS data
+2024-01-13 06:28:38 AM: INFO - Time taken by get_data_from_api: 0.45178699493408203 seconds
+2024-01-13 06:28:38 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:28:38 AM: INFO - Time taken by get_data_from_api: 0.7744081020355225 seconds
+2024-01-13 06:29:38 AM: INFO - Get ISS data
+2024-01-13 06:29:39 AM: INFO - Time taken by get_data_from_api: 0.47914600372314453 seconds
+2024-01-13 06:29:39 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:29:40 AM: INFO - Time taken by get_data_from_api: 0.8388159275054932 seconds
+2024-01-13 06:30:40 AM: INFO - Get ISS data
+2024-01-13 06:30:40 AM: INFO - Time taken by get_data_from_api: 0.41205930709838867 seconds
+2024-01-13 06:30:40 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:30:41 AM: INFO - Time taken by get_data_from_api: 0.8631658554077148 seconds
+2024-01-13 06:31:41 AM: INFO - Get ISS data
+2024-01-13 06:31:42 AM: INFO - Time taken by get_data_from_api: 0.42090606689453125 seconds
+2024-01-13 06:31:42 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:31:43 AM: INFO - Time taken by get_data_from_api: 0.8572218418121338 seconds
+2024-01-13 06:32:43 AM: INFO - Get ISS data
+2024-01-13 06:32:43 AM: INFO - Time taken by get_data_from_api: 0.45735883712768555 seconds
+2024-01-13 06:32:43 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:32:44 AM: INFO - Time taken by get_data_from_api: 0.8140506744384766 seconds
+2024-01-13 06:33:44 AM: INFO - Get ISS data
+2024-01-13 06:33:45 AM: INFO - Time taken by get_data_from_api: 0.39522671699523926 seconds
+2024-01-13 06:33:45 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:33:46 AM: INFO - Time taken by get_data_from_api: 0.8815093040466309 seconds
+2024-01-13 06:34:46 AM: INFO - Get ISS data
+2024-01-13 06:34:46 AM: INFO - Time taken by get_data_from_api: 0.4473557472229004 seconds
+2024-01-13 06:34:46 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:34:47 AM: INFO - Time taken by get_data_from_api: 0.930088996887207 seconds
+2024-01-13 06:35:47 AM: INFO - Get ISS data
+2024-01-13 06:35:48 AM: INFO - Time taken by get_data_from_api: 0.36858081817626953 seconds
+2024-01-13 06:35:48 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:35:49 AM: INFO - Time taken by get_data_from_api: 0.9106476306915283 seconds
+2024-01-13 06:36:49 AM: INFO - Get ISS data
+2024-01-13 06:36:50 AM: INFO - Time taken by get_data_from_api: 1.2911598682403564 seconds
+2024-01-13 06:36:50 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:36:51 AM: INFO - Time taken by get_data_from_api: 0.8039469718933105 seconds
+2024-01-13 06:37:51 AM: INFO - Get ISS data
+2024-01-13 06:37:51 AM: INFO - Time taken by get_data_from_api: 0.4697751998901367 seconds
+2024-01-13 06:37:51 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:37:52 AM: INFO - Time taken by get_data_from_api: 0.8062570095062256 seconds
+2024-01-13 06:38:52 AM: INFO - Get ISS data
+2024-01-13 06:38:53 AM: INFO - Time taken by get_data_from_api: 0.4359469413757324 seconds
+2024-01-13 06:38:53 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:38:54 AM: INFO - Time taken by get_data_from_api: 0.8304202556610107 seconds
+2024-01-13 06:39:54 AM: INFO - Get ISS data
+2024-01-13 06:39:54 AM: INFO - Time taken by get_data_from_api: 0.4813961982727051 seconds
+2024-01-13 06:39:54 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:39:55 AM: INFO - Time taken by get_data_from_api: 0.49843311309814453 seconds
+2024-01-13 06:40:55 AM: INFO - Get ISS data
+2024-01-13 06:40:55 AM: INFO - Time taken by get_data_from_api: 0.45828795433044434 seconds
+2024-01-13 06:40:55 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:40:56 AM: INFO - Time taken by get_data_from_api: 0.8873450756072998 seconds
+2024-01-13 06:41:57 AM: INFO - Get ISS data
+2024-01-13 06:41:57 AM: INFO - Time taken by get_data_from_api: 0.4643738269805908 seconds
+2024-01-13 06:41:57 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:41:58 AM: INFO - Time taken by get_data_from_api: 1.016930103302002 seconds
+2024-01-13 06:42:58 AM: INFO - Get ISS data
+2024-01-13 06:42:59 AM: INFO - Time taken by get_data_from_api: 0.46735620498657227 seconds
+2024-01-13 06:42:59 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:43:00 AM: INFO - Time taken by get_data_from_api: 1.0068979263305664 seconds
+2024-01-13 06:44:00 AM: INFO - Get ISS data
+2024-01-13 06:44:00 AM: INFO - Time taken by get_data_from_api: 0.4750840663909912 seconds
+2024-01-13 06:44:00 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:44:02 AM: INFO - Time taken by get_data_from_api: 1.1988821029663086 seconds
+2024-01-13 06:45:02 AM: INFO - Get ISS data
+2024-01-13 06:45:02 AM: INFO - Time taken by get_data_from_api: 0.4450521469116211 seconds
+2024-01-13 06:45:02 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:45:03 AM: INFO - Time taken by get_data_from_api: 0.9248368740081787 seconds
+2024-01-13 06:46:03 AM: INFO - Get ISS data
+2024-01-13 06:46:04 AM: INFO - Time taken by get_data_from_api: 0.45830297470092773 seconds
+2024-01-13 06:46:04 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:46:05 AM: INFO - Time taken by get_data_from_api: 0.9198462963104248 seconds
+2024-01-13 06:47:05 AM: INFO - Get ISS data
+2024-01-13 06:47:05 AM: INFO - Time taken by get_data_from_api: 0.3736288547515869 seconds
+2024-01-13 06:47:05 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:47:06 AM: INFO - Time taken by get_data_from_api: 0.9009590148925781 seconds
+2024-01-13 06:48:06 AM: INFO - Get ISS data
+2024-01-13 06:48:07 AM: INFO - Time taken by get_data_from_api: 0.4357309341430664 seconds
+2024-01-13 06:48:07 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:48:08 AM: INFO - Time taken by get_data_from_api: 0.935175895690918 seconds
+2024-01-13 06:49:08 AM: INFO - Get ISS data
+2024-01-13 06:49:08 AM: INFO - Time taken by get_data_from_api: 0.48044800758361816 seconds
+2024-01-13 06:49:08 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:49:09 AM: INFO - Time taken by get_data_from_api: 1.0007212162017822 seconds
+2024-01-13 06:50:09 AM: INFO - Get ISS data
+2024-01-13 06:50:10 AM: INFO - Time taken by get_data_from_api: 0.4651219844818115 seconds
+2024-01-13 06:50:10 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:50:11 AM: INFO - Time taken by get_data_from_api: 1.0179181098937988 seconds
+2024-01-13 06:51:11 AM: INFO - Get ISS data
+2024-01-13 06:51:11 AM: INFO - Time taken by get_data_from_api: 0.4496128559112549 seconds
+2024-01-13 06:51:11 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:51:12 AM: INFO - Time taken by get_data_from_api: 0.9001507759094238 seconds
+2024-01-13 06:52:13 AM: INFO - Get ISS data
+2024-01-13 06:52:13 AM: INFO - Time taken by get_data_from_api: 0.38275933265686035 seconds
+2024-01-13 06:52:13 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:52:14 AM: INFO - Time taken by get_data_from_api: 0.9959862232208252 seconds
+2024-01-13 06:53:14 AM: INFO - Get ISS data
+2024-01-13 06:53:15 AM: INFO - Time taken by get_data_from_api: 0.45228099822998047 seconds
+2024-01-13 06:53:15 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:53:15 AM: INFO - Time taken by get_data_from_api: 0.9188568592071533 seconds
+2024-01-13 06:54:16 AM: INFO - Get ISS data
+2024-01-13 06:54:16 AM: INFO - Time taken by get_data_from_api: 0.447340726852417 seconds
+2024-01-13 06:54:16 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:54:17 AM: INFO - Time taken by get_data_from_api: 0.8328108787536621 seconds
+2024-01-13 06:55:17 AM: INFO - Get ISS data
+2024-01-13 06:55:18 AM: INFO - Time taken by get_data_from_api: 0.4557039737701416 seconds
+2024-01-13 06:55:18 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:55:18 AM: INFO - Time taken by get_data_from_api: 0.9173569679260254 seconds
+2024-01-13 06:56:19 AM: INFO - Get ISS data
+2024-01-13 06:56:19 AM: INFO - Time taken by get_data_from_api: 0.43164491653442383 seconds
+2024-01-13 06:56:19 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:56:20 AM: INFO - Time taken by get_data_from_api: 0.9399149417877197 seconds
+2024-01-13 06:57:20 AM: INFO - Get ISS data
+2024-01-13 06:57:21 AM: INFO - Time taken by get_data_from_api: 0.3751559257507324 seconds
+2024-01-13 06:57:21 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:57:21 AM: INFO - Time taken by get_data_from_api: 0.9068679809570312 seconds
+2024-01-13 06:58:22 AM: INFO - Get ISS data
+2024-01-13 06:58:22 AM: INFO - Time taken by get_data_from_api: 0.48562002182006836 seconds
+2024-01-13 06:58:22 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:58:23 AM: INFO - Time taken by get_data_from_api: 0.7876861095428467 seconds
+2024-01-13 06:59:23 AM: INFO - Get ISS data
+2024-01-13 06:59:24 AM: INFO - Time taken by get_data_from_api: 0.4633219242095947 seconds
+2024-01-13 06:59:24 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 06:59:24 AM: INFO - Time taken by get_data_from_api: 0.511350154876709 seconds
+2024-01-13 07:00:24 AM: INFO - Get ISS data
+2024-01-13 07:00:25 AM: INFO - Time taken by get_data_from_api: 0.4196181297302246 seconds
+2024-01-13 07:00:25 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:00:26 AM: INFO - Time taken by get_data_from_api: 0.9500958919525146 seconds
+2024-01-13 07:01:26 AM: INFO - Get ISS data
+2024-01-13 07:01:26 AM: INFO - Time taken by get_data_from_api: 0.43567991256713867 seconds
+2024-01-13 07:01:26 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:01:27 AM: INFO - Time taken by get_data_from_api: 0.8404560089111328 seconds
+2024-01-13 07:02:27 AM: INFO - Get ISS data
+2024-01-13 07:02:28 AM: INFO - Time taken by get_data_from_api: 0.4477701187133789 seconds
+2024-01-13 07:02:28 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:02:29 AM: INFO - Time taken by get_data_from_api: 1.8487439155578613 seconds
+2024-01-13 07:03:30 AM: INFO - Get ISS data
+2024-01-13 07:03:30 AM: INFO - Time taken by get_data_from_api: 0.42734503746032715 seconds
+2024-01-13 07:03:30 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:03:31 AM: INFO - Time taken by get_data_from_api: 0.9890098571777344 seconds
+2024-01-13 07:04:31 AM: INFO - Get ISS data
+2024-01-13 07:04:32 AM: INFO - Time taken by get_data_from_api: 0.4317140579223633 seconds
+2024-01-13 07:04:32 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:04:33 AM: INFO - Time taken by get_data_from_api: 0.8423008918762207 seconds
+2024-01-13 07:05:33 AM: INFO - Get ISS data
+2024-01-13 07:05:33 AM: INFO - Time taken by get_data_from_api: 0.4321112632751465 seconds
+2024-01-13 07:05:33 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:05:34 AM: INFO - Time taken by get_data_from_api: 0.5024571418762207 seconds
+2024-01-13 07:06:34 AM: INFO - Get ISS data
+2024-01-13 07:06:34 AM: INFO - Time taken by get_data_from_api: 0.46430420875549316 seconds
+2024-01-13 07:06:34 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:06:35 AM: INFO - Time taken by get_data_from_api: 0.8596339225769043 seconds
+2024-01-13 07:07:35 AM: INFO - Get ISS data
+2024-01-13 07:07:36 AM: INFO - Time taken by get_data_from_api: 0.42669677734375 seconds
+2024-01-13 07:07:36 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:07:37 AM: INFO - Time taken by get_data_from_api: 0.9707541465759277 seconds
+2024-01-13 07:08:37 AM: INFO - Get ISS data
+2024-01-13 07:08:37 AM: INFO - Time taken by get_data_from_api: 0.47220897674560547 seconds
+2024-01-13 07:08:37 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:08:38 AM: INFO - Time taken by get_data_from_api: 0.7962203025817871 seconds
+2024-01-13 07:09:38 AM: INFO - Get ISS data
+2024-01-13 07:09:39 AM: INFO - Time taken by get_data_from_api: 0.45632314682006836 seconds
+2024-01-13 07:09:39 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:09:40 AM: INFO - Time taken by get_data_from_api: 0.825977087020874 seconds
+2024-01-13 07:10:40 AM: INFO - Get ISS data
+2024-01-13 07:10:40 AM: INFO - Time taken by get_data_from_api: 0.4610021114349365 seconds
+2024-01-13 07:10:40 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:10:41 AM: INFO - Time taken by get_data_from_api: 0.8206801414489746 seconds
+2024-01-13 07:11:41 AM: INFO - Get ISS data
+2024-01-13 07:11:42 AM: INFO - Time taken by get_data_from_api: 0.45563387870788574 seconds
+2024-01-13 07:11:42 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:11:42 AM: INFO - Time taken by get_data_from_api: 0.6168062686920166 seconds
+2024-01-13 07:12:43 AM: INFO - Get ISS data
+2024-01-13 07:12:43 AM: INFO - Time taken by get_data_from_api: 0.45307111740112305 seconds
+2024-01-13 07:12:43 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:12:44 AM: INFO - Time taken by get_data_from_api: 0.5869200229644775 seconds
+2024-01-13 07:13:44 AM: INFO - Get ISS data
+2024-01-13 07:13:44 AM: INFO - Time taken by get_data_from_api: 0.463580846786499 seconds
+2024-01-13 07:13:44 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:13:45 AM: INFO - Time taken by get_data_from_api: 0.8525760173797607 seconds
+2024-01-13 07:14:45 AM: INFO - Get ISS data
+2024-01-13 07:14:46 AM: INFO - Time taken by get_data_from_api: 0.3970980644226074 seconds
+2024-01-13 07:14:46 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:14:47 AM: INFO - Time taken by get_data_from_api: 0.8831789493560791 seconds
+2024-01-13 07:15:47 AM: INFO - Get ISS data
+2024-01-13 07:15:47 AM: INFO - Time taken by get_data_from_api: 0.4472980499267578 seconds
+2024-01-13 07:15:47 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:15:48 AM: INFO - Time taken by get_data_from_api: 0.9204249382019043 seconds
+2024-01-13 07:16:48 AM: INFO - Get ISS data
+2024-01-13 07:16:49 AM: INFO - Time taken by get_data_from_api: 0.5735352039337158 seconds
+2024-01-13 07:16:49 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:16:50 AM: INFO - Time taken by get_data_from_api: 0.863048791885376 seconds
+2024-01-13 07:17:50 AM: INFO - Get ISS data
+2024-01-13 07:17:50 AM: INFO - Time taken by get_data_from_api: 0.40279698371887207 seconds
+2024-01-13 07:17:50 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:17:51 AM: INFO - Time taken by get_data_from_api: 0.8423550128936768 seconds
+2024-01-13 07:18:52 AM: INFO - Get ISS data
+2024-01-13 07:18:52 AM: INFO - Time taken by get_data_from_api: 0.4485938549041748 seconds
+2024-01-13 07:18:52 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:18:53 AM: INFO - Time taken by get_data_from_api: 0.8019988536834717 seconds
+2024-01-13 07:19:53 AM: INFO - Get ISS data
+2024-01-13 07:19:53 AM: INFO - Time taken by get_data_from_api: 0.436690092086792 seconds
+2024-01-13 07:19:53 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:19:54 AM: INFO - Time taken by get_data_from_api: 0.9969429969787598 seconds
+2024-01-13 07:20:55 AM: INFO - Get ISS data
+2024-01-13 07:20:55 AM: INFO - Time taken by get_data_from_api: 0.4615809917449951 seconds
+2024-01-13 07:20:55 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:20:56 AM: INFO - Time taken by get_data_from_api: 0.9385740756988525 seconds
+2024-01-13 07:21:56 AM: INFO - Get ISS data
+2024-01-13 07:21:57 AM: INFO - Time taken by get_data_from_api: 0.45862507820129395 seconds
+2024-01-13 07:21:57 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:21:57 AM: INFO - Time taken by get_data_from_api: 0.7753269672393799 seconds
+2024-01-13 07:22:58 AM: INFO - Get ISS data
+2024-01-13 07:22:58 AM: INFO - Time taken by get_data_from_api: 0.4110400676727295 seconds
+2024-01-13 07:22:58 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:22:59 AM: INFO - Time taken by get_data_from_api: 0.8157379627227783 seconds
+2024-01-13 07:23:59 AM: INFO - Get ISS data
+2024-01-13 07:24:00 AM: INFO - Time taken by get_data_from_api: 0.45986270904541016 seconds
+2024-01-13 07:24:00 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:24:00 AM: INFO - Time taken by get_data_from_api: 0.7501120567321777 seconds
+2024-01-13 07:25:00 AM: INFO - Get ISS data
+2024-01-13 07:25:01 AM: INFO - Time taken by get_data_from_api: 0.5306899547576904 seconds
+2024-01-13 07:25:01 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:25:02 AM: INFO - Time taken by get_data_from_api: 0.8818891048431396 seconds
+2024-01-13 07:26:02 AM: INFO - Get ISS data
+2024-01-13 07:26:03 AM: INFO - Time taken by get_data_from_api: 0.48570990562438965 seconds
+2024-01-13 07:26:03 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:26:04 AM: INFO - Time taken by get_data_from_api: 0.9139981269836426 seconds
+2024-01-13 07:27:04 AM: INFO - Get ISS data
+2024-01-13 07:27:04 AM: INFO - Time taken by get_data_from_api: 0.4584078788757324 seconds
+2024-01-13 07:27:04 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:27:05 AM: INFO - Time taken by get_data_from_api: 0.8200790882110596 seconds
+2024-01-13 07:28:05 AM: INFO - Get ISS data
+2024-01-13 07:28:06 AM: INFO - Time taken by get_data_from_api: 0.4414830207824707 seconds
+2024-01-13 07:28:06 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:28:06 AM: INFO - Time taken by get_data_from_api: 0.8176240921020508 seconds
+2024-01-13 07:29:07 AM: INFO - Get ISS data
+2024-01-13 07:29:07 AM: INFO - Time taken by get_data_from_api: 0.44838714599609375 seconds
+2024-01-13 07:29:07 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:29:08 AM: INFO - Time taken by get_data_from_api: 0.8548519611358643 seconds
+2024-01-13 07:30:08 AM: INFO - Get ISS data
+2024-01-13 07:30:08 AM: INFO - Time taken by get_data_from_api: 0.38717174530029297 seconds
+2024-01-13 07:30:08 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:30:09 AM: INFO - Time taken by get_data_from_api: 0.8859598636627197 seconds
+2024-01-13 07:31:09 AM: INFO - Get ISS data
+2024-01-13 07:31:10 AM: INFO - Time taken by get_data_from_api: 0.46242499351501465 seconds
+2024-01-13 07:31:10 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:31:11 AM: INFO - Time taken by get_data_from_api: 0.6104869842529297 seconds
+2024-01-13 07:32:11 AM: INFO - Get ISS data
+2024-01-13 07:32:11 AM: INFO - Time taken by get_data_from_api: 0.4657130241394043 seconds
+2024-01-13 07:32:11 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:32:12 AM: INFO - Time taken by get_data_from_api: 0.9168820381164551 seconds
+2024-01-13 07:33:12 AM: INFO - Get ISS data
+2024-01-13 07:33:13 AM: INFO - Time taken by get_data_from_api: 0.4424772262573242 seconds
+2024-01-13 07:33:13 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:33:14 AM: INFO - Time taken by get_data_from_api: 0.8313987255096436 seconds
+2024-01-13 07:34:14 AM: INFO - Get ISS data
+2024-01-13 07:34:14 AM: INFO - Time taken by get_data_from_api: 0.4605851173400879 seconds
+2024-01-13 07:34:14 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:34:15 AM: INFO - Time taken by get_data_from_api: 0.5063748359680176 seconds
+2024-01-13 07:35:15 AM: INFO - Get ISS data
+2024-01-13 07:35:15 AM: INFO - Time taken by get_data_from_api: 0.44478368759155273 seconds
+2024-01-13 07:35:15 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:35:16 AM: INFO - Time taken by get_data_from_api: 0.8374738693237305 seconds
+2024-01-13 07:36:16 AM: INFO - Get ISS data
+2024-01-13 07:36:17 AM: INFO - Time taken by get_data_from_api: 0.4217832088470459 seconds
+2024-01-13 07:36:17 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:36:18 AM: INFO - Time taken by get_data_from_api: 0.8482508659362793 seconds
+2024-01-13 07:37:18 AM: INFO - Get ISS data
+2024-01-13 07:37:18 AM: INFO - Time taken by get_data_from_api: 0.443464994430542 seconds
+2024-01-13 07:37:18 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:37:19 AM: INFO - Time taken by get_data_from_api: 0.833853006362915 seconds
+2024-01-13 07:38:19 AM: INFO - Get ISS data
+2024-01-13 07:38:20 AM: INFO - Time taken by get_data_from_api: 0.3946211338043213 seconds
+2024-01-13 07:38:20 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:38:21 AM: INFO - Time taken by get_data_from_api: 0.9904870986938477 seconds
+2024-01-13 07:39:21 AM: INFO - Get ISS data
+2024-01-13 07:39:21 AM: INFO - Time taken by get_data_from_api: 0.4598410129547119 seconds
+2024-01-13 07:39:21 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:39:23 AM: INFO - Time taken by get_data_from_api: 1.5450189113616943 seconds
+2024-01-13 07:40:23 AM: INFO - Get ISS data
+2024-01-13 07:40:24 AM: INFO - Time taken by get_data_from_api: 0.4758179187774658 seconds
+2024-01-13 07:40:24 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:40:25 AM: INFO - Time taken by get_data_from_api: 0.8960378170013428 seconds
+2024-01-13 07:41:25 AM: INFO - Get ISS data
+2024-01-13 07:41:25 AM: INFO - Time taken by get_data_from_api: 0.4695248603820801 seconds
+2024-01-13 07:41:25 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:41:26 AM: INFO - Time taken by get_data_from_api: 0.8474199771881104 seconds
+2024-01-13 07:42:26 AM: INFO - Get ISS data
+2024-01-13 07:42:27 AM: INFO - Time taken by get_data_from_api: 0.39934325218200684 seconds
+2024-01-13 07:42:27 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:42:28 AM: INFO - Time taken by get_data_from_api: 0.9765310287475586 seconds
+2024-01-13 07:43:28 AM: INFO - Get ISS data
+2024-01-13 07:43:28 AM: INFO - Time taken by get_data_from_api: 0.4772648811340332 seconds
+2024-01-13 07:43:28 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:43:29 AM: INFO - Time taken by get_data_from_api: 0.8040986061096191 seconds
+2024-01-13 07:44:29 AM: INFO - Get ISS data
+2024-01-13 07:44:30 AM: INFO - Time taken by get_data_from_api: 0.4747767448425293 seconds
+2024-01-13 07:44:30 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:44:31 AM: INFO - Time taken by get_data_from_api: 0.9036927223205566 seconds
+2024-01-13 07:45:31 AM: INFO - Get ISS data
+2024-01-13 07:45:31 AM: INFO - Time taken by get_data_from_api: 0.43961095809936523 seconds
+2024-01-13 07:45:31 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:45:32 AM: INFO - Time taken by get_data_from_api: 0.8340258598327637 seconds
+2024-01-13 07:46:32 AM: INFO - Get ISS data
+2024-01-13 07:46:33 AM: INFO - Time taken by get_data_from_api: 0.3848116397857666 seconds
+2024-01-13 07:46:33 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:46:34 AM: INFO - Time taken by get_data_from_api: 1.201589822769165 seconds
+2024-01-13 07:47:34 AM: INFO - Get ISS data
+2024-01-13 07:47:35 AM: INFO - Time taken by get_data_from_api: 0.4733397960662842 seconds
+2024-01-13 07:47:35 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:47:35 AM: INFO - Time taken by get_data_from_api: 0.6988210678100586 seconds
+2024-01-13 07:48:35 AM: INFO - Get ISS data
+2024-01-13 07:48:36 AM: INFO - Time taken by get_data_from_api: 0.4362478256225586 seconds
+2024-01-13 07:48:36 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:48:37 AM: INFO - Time taken by get_data_from_api: 0.8391499519348145 seconds
+2024-01-13 07:49:37 AM: INFO - Get ISS data
+2024-01-13 07:49:37 AM: INFO - Time taken by get_data_from_api: 0.4186370372772217 seconds
+2024-01-13 07:49:37 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:49:38 AM: INFO - Time taken by get_data_from_api: 0.9730429649353027 seconds
+2024-01-13 07:50:38 AM: INFO - Get ISS data
+2024-01-13 07:50:39 AM: INFO - Time taken by get_data_from_api: 0.46398282051086426 seconds
+2024-01-13 07:50:39 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:50:40 AM: INFO - Time taken by get_data_from_api: 0.7853691577911377 seconds
+2024-01-13 07:51:40 AM: INFO - Get ISS data
+2024-01-13 07:51:40 AM: INFO - Time taken by get_data_from_api: 0.376568078994751 seconds
+2024-01-13 07:51:40 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:51:41 AM: INFO - Time taken by get_data_from_api: 0.8064041137695312 seconds
+2024-01-13 07:52:41 AM: INFO - Get ISS data
+2024-01-13 07:52:42 AM: INFO - Time taken by get_data_from_api: 0.4595170021057129 seconds
+2024-01-13 07:52:42 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:52:42 AM: INFO - Time taken by get_data_from_api: 0.848114013671875 seconds
+2024-01-13 07:53:43 AM: INFO - Get ISS data
+2024-01-13 07:53:43 AM: INFO - Time taken by get_data_from_api: 0.45720505714416504 seconds
+2024-01-13 07:53:43 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:53:44 AM: INFO - Time taken by get_data_from_api: 0.6083388328552246 seconds
+2024-01-13 07:54:44 AM: INFO - Get ISS data
+2024-01-13 07:54:44 AM: INFO - Time taken by get_data_from_api: 0.39370012283325195 seconds
+2024-01-13 07:54:44 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:54:45 AM: INFO - Time taken by get_data_from_api: 0.8867530822753906 seconds
+2024-01-13 07:55:45 AM: INFO - Get ISS data
+2024-01-13 07:55:46 AM: INFO - Time taken by get_data_from_api: 0.46420979499816895 seconds
+2024-01-13 07:55:46 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:55:47 AM: INFO - Time taken by get_data_from_api: 0.7867908477783203 seconds
+2024-01-13 07:56:47 AM: INFO - Get ISS data
+2024-01-13 07:56:47 AM: INFO - Time taken by get_data_from_api: 0.4720780849456787 seconds
+2024-01-13 07:56:47 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:56:48 AM: INFO - Time taken by get_data_from_api: 0.8427157402038574 seconds
+2024-01-13 07:57:48 AM: INFO - Get ISS data
+2024-01-13 07:57:49 AM: INFO - Time taken by get_data_from_api: 0.406019926071167 seconds
+2024-01-13 07:57:49 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:57:49 AM: INFO - Time taken by get_data_from_api: 0.5196049213409424 seconds
+2024-01-13 07:58:49 AM: INFO - Get ISS data
+2024-01-13 07:58:50 AM: INFO - Time taken by get_data_from_api: 0.4565150737762451 seconds
+2024-01-13 07:58:50 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:58:50 AM: INFO - Time taken by get_data_from_api: 0.5398907661437988 seconds
+2024-01-13 07:59:51 AM: INFO - Get ISS data
+2024-01-13 07:59:51 AM: INFO - Time taken by get_data_from_api: 0.4791548252105713 seconds
+2024-01-13 07:59:51 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 07:59:52 AM: INFO - Time taken by get_data_from_api: 0.8379459381103516 seconds
+2024-01-13 08:00:52 AM: INFO - Get ISS data
+2024-01-13 08:00:52 AM: INFO - Time taken by get_data_from_api: 0.45209693908691406 seconds
+2024-01-13 08:00:52 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:00:53 AM: INFO - Time taken by get_data_from_api: 0.8396298885345459 seconds
+2024-01-13 08:01:53 AM: INFO - Get ISS data
+2024-01-13 08:01:54 AM: INFO - Time taken by get_data_from_api: 0.4748420715332031 seconds
+2024-01-13 08:01:54 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:01:55 AM: INFO - Time taken by get_data_from_api: 0.8115518093109131 seconds
+2024-01-13 08:02:55 AM: INFO - Get ISS data
+2024-01-13 08:02:55 AM: INFO - Time taken by get_data_from_api: 0.45877933502197266 seconds
+2024-01-13 08:02:55 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:02:56 AM: INFO - Time taken by get_data_from_api: 0.5225040912628174 seconds
+2024-01-13 08:03:56 AM: INFO - Get ISS data
+2024-01-13 08:03:57 AM: INFO - Time taken by get_data_from_api: 0.38547396659851074 seconds
+2024-01-13 08:03:57 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:03:57 AM: INFO - Time taken by get_data_from_api: 0.8520379066467285 seconds
+2024-01-13 08:04:58 AM: INFO - Get ISS data
+2024-01-13 08:04:58 AM: INFO - Time taken by get_data_from_api: 0.46147775650024414 seconds
+2024-01-13 08:04:58 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:04:59 AM: INFO - Time taken by get_data_from_api: 0.937197208404541 seconds
+2024-01-13 08:05:59 AM: INFO - Get ISS data
+2024-01-13 08:06:00 AM: INFO - Time taken by get_data_from_api: 0.4515976905822754 seconds
+2024-01-13 08:06:00 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:06:00 AM: INFO - Time taken by get_data_from_api: 0.8364520072937012 seconds
+2024-01-13 08:07:01 AM: INFO - Get ISS data
+2024-01-13 08:07:01 AM: INFO - Time taken by get_data_from_api: 0.45835185050964355 seconds
+2024-01-13 08:07:01 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:07:02 AM: INFO - Time taken by get_data_from_api: 0.8202953338623047 seconds
+2024-01-13 08:08:02 AM: INFO - Get ISS data
+2024-01-13 08:08:02 AM: INFO - Time taken by get_data_from_api: 0.4401369094848633 seconds
+2024-01-13 08:08:02 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:08:03 AM: INFO - Time taken by get_data_from_api: 0.8338909149169922 seconds
+2024-01-13 08:09:03 AM: INFO - Get ISS data
+2024-01-13 08:09:04 AM: INFO - Time taken by get_data_from_api: 0.44967103004455566 seconds
+2024-01-13 08:09:04 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:09:05 AM: INFO - Time taken by get_data_from_api: 0.8428900241851807 seconds
+2024-01-13 08:10:05 AM: INFO - Get ISS data
+2024-01-13 08:10:05 AM: INFO - Time taken by get_data_from_api: 0.3996710777282715 seconds
+2024-01-13 08:10:05 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:10:06 AM: INFO - Time taken by get_data_from_api: 0.8869030475616455 seconds
+2024-01-13 08:11:06 AM: INFO - Get ISS data
+2024-01-13 08:11:07 AM: INFO - Time taken by get_data_from_api: 0.45701003074645996 seconds
+2024-01-13 08:11:07 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:11:08 AM: INFO - Time taken by get_data_from_api: 0.7950999736785889 seconds
+2024-01-13 08:12:08 AM: INFO - Get ISS data
+2024-01-13 08:12:08 AM: INFO - Time taken by get_data_from_api: 0.413877010345459 seconds
+2024-01-13 08:12:08 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:12:09 AM: INFO - Time taken by get_data_from_api: 0.49928712844848633 seconds
+2024-01-13 08:13:09 AM: INFO - Get ISS data
+2024-01-13 08:13:09 AM: INFO - Time taken by get_data_from_api: 0.49495387077331543 seconds
+2024-01-13 08:13:09 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:13:10 AM: INFO - Time taken by get_data_from_api: 0.7837281227111816 seconds
+2024-01-13 08:14:10 AM: INFO - Get ISS data
+2024-01-13 08:14:11 AM: INFO - Time taken by get_data_from_api: 0.47340893745422363 seconds
+2024-01-13 08:14:11 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:14:12 AM: INFO - Time taken by get_data_from_api: 0.8150231838226318 seconds
+2024-01-13 08:15:12 AM: INFO - Get ISS data
+2024-01-13 08:15:12 AM: INFO - Time taken by get_data_from_api: 0.4565291404724121 seconds
+2024-01-13 08:15:12 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:15:13 AM: INFO - Time taken by get_data_from_api: 0.9352560043334961 seconds
+2024-01-13 08:16:13 AM: INFO - Get ISS data
+2024-01-13 08:16:14 AM: INFO - Time taken by get_data_from_api: 0.45133209228515625 seconds
+2024-01-13 08:16:14 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:16:15 AM: INFO - Time taken by get_data_from_api: 1.7525699138641357 seconds
+2024-01-13 08:17:16 AM: INFO - Get ISS data
+2024-01-13 08:17:16 AM: INFO - Time taken by get_data_from_api: 0.456683874130249 seconds
+2024-01-13 08:17:16 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:17:17 AM: INFO - Time taken by get_data_from_api: 0.7650489807128906 seconds
+2024-01-13 08:18:17 AM: INFO - Get ISS data
+2024-01-13 08:18:17 AM: INFO - Time taken by get_data_from_api: 0.4539008140563965 seconds
+2024-01-13 08:18:17 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:18:18 AM: INFO - Time taken by get_data_from_api: 0.8981368541717529 seconds
+2024-01-13 08:19:18 AM: INFO - Get ISS data
+2024-01-13 08:19:19 AM: INFO - Time taken by get_data_from_api: 0.3983738422393799 seconds
+2024-01-13 08:19:19 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:19:20 AM: INFO - Time taken by get_data_from_api: 0.868474006652832 seconds
+2024-01-13 08:20:20 AM: INFO - Get ISS data
+2024-01-13 08:20:20 AM: INFO - Time taken by get_data_from_api: 0.4298210144042969 seconds
+2024-01-13 08:20:20 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:20:21 AM: INFO - Time taken by get_data_from_api: 0.9587421417236328 seconds
+2024-01-13 08:21:21 AM: INFO - Get ISS data
+2024-01-13 08:21:22 AM: INFO - Time taken by get_data_from_api: 0.43830227851867676 seconds
+2024-01-13 08:21:22 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:21:23 AM: INFO - Time taken by get_data_from_api: 0.9399309158325195 seconds
+2024-01-13 08:22:23 AM: INFO - Get ISS data
+2024-01-13 08:22:23 AM: INFO - Time taken by get_data_from_api: 0.4702301025390625 seconds
+2024-01-13 08:22:23 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:22:24 AM: INFO - Time taken by get_data_from_api: 0.9079091548919678 seconds
+2024-01-13 08:23:25 AM: INFO - Get ISS data
+2024-01-13 08:23:25 AM: INFO - Time taken by get_data_from_api: 0.4455430507659912 seconds
+2024-01-13 08:23:25 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:23:26 AM: INFO - Time taken by get_data_from_api: 0.83852219581604 seconds
+2024-01-13 08:24:26 AM: INFO - Get ISS data
+2024-01-13 08:24:26 AM: INFO - Time taken by get_data_from_api: 0.46375179290771484 seconds
+2024-01-13 08:24:26 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:24:27 AM: INFO - Time taken by get_data_from_api: 0.8575551509857178 seconds
+2024-01-13 08:25:27 AM: INFO - Get ISS data
+2024-01-13 08:25:28 AM: INFO - Time taken by get_data_from_api: 0.37233781814575195 seconds
+2024-01-13 08:25:28 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:25:28 AM: INFO - Time taken by get_data_from_api: 0.5235278606414795 seconds
+2024-01-13 08:26:28 AM: INFO - Get ISS data
+2024-01-13 08:26:29 AM: INFO - Time taken by get_data_from_api: 0.4754929542541504 seconds
+2024-01-13 08:26:29 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:26:30 AM: INFO - Time taken by get_data_from_api: 0.6364941596984863 seconds
+2024-01-13 08:27:30 AM: INFO - Get ISS data
+2024-01-13 08:27:30 AM: INFO - Time taken by get_data_from_api: 0.4671354293823242 seconds
+2024-01-13 08:27:30 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:27:31 AM: INFO - Time taken by get_data_from_api: 0.6032700538635254 seconds
+2024-01-13 08:28:31 AM: INFO - Get ISS data
+2024-01-13 08:28:31 AM: INFO - Time taken by get_data_from_api: 0.4525277614593506 seconds
+2024-01-13 08:28:31 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:28:32 AM: INFO - Time taken by get_data_from_api: 0.9293711185455322 seconds
+2024-01-13 08:29:33 AM: INFO - Get ISS data
+2024-01-13 08:29:33 AM: INFO - Time taken by get_data_from_api: 0.45940470695495605 seconds
+2024-01-13 08:29:33 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:29:34 AM: INFO - Time taken by get_data_from_api: 0.9309020042419434 seconds
+2024-01-13 08:30:34 AM: INFO - Get ISS data
+2024-01-13 08:30:34 AM: INFO - Time taken by get_data_from_api: 0.4028153419494629 seconds
+2024-01-13 08:30:34 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:30:35 AM: INFO - Time taken by get_data_from_api: 0.8553280830383301 seconds
+2024-01-13 08:31:36 AM: INFO - Get ISS data
+2024-01-13 08:31:36 AM: INFO - Time taken by get_data_from_api: 0.4516317844390869 seconds
+2024-01-13 08:31:36 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:31:37 AM: INFO - Time taken by get_data_from_api: 1.0326080322265625 seconds
+2024-01-13 08:32:37 AM: INFO - Get ISS data
+2024-01-13 08:32:38 AM: INFO - Time taken by get_data_from_api: 0.37584996223449707 seconds
+2024-01-13 08:32:38 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:32:38 AM: INFO - Time taken by get_data_from_api: 0.7981491088867188 seconds
+2024-01-13 08:33:39 AM: INFO - Get ISS data
+2024-01-13 08:33:39 AM: INFO - Time taken by get_data_from_api: 0.39453601837158203 seconds
+2024-01-13 08:33:39 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:33:40 AM: INFO - Time taken by get_data_from_api: 0.8786311149597168 seconds
+2024-01-13 08:34:40 AM: INFO - Get ISS data
+2024-01-13 08:34:40 AM: INFO - Time taken by get_data_from_api: 0.4485008716583252 seconds
+2024-01-13 08:34:40 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:34:41 AM: INFO - Time taken by get_data_from_api: 0.8281068801879883 seconds
+2024-01-13 08:35:41 AM: INFO - Get ISS data
+2024-01-13 08:35:42 AM: INFO - Time taken by get_data_from_api: 0.391010046005249 seconds
+2024-01-13 08:35:42 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:35:43 AM: INFO - Time taken by get_data_from_api: 0.9615471363067627 seconds
+2024-01-13 08:36:43 AM: INFO - Get ISS data
+2024-01-13 08:36:43 AM: INFO - Time taken by get_data_from_api: 0.4846508502960205 seconds
+2024-01-13 08:36:43 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:36:44 AM: INFO - Time taken by get_data_from_api: 0.8080630302429199 seconds
+2024-01-13 08:37:44 AM: INFO - Get ISS data
+2024-01-13 08:37:45 AM: INFO - Time taken by get_data_from_api: 0.4306771755218506 seconds
+2024-01-13 08:37:45 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:37:46 AM: INFO - Time taken by get_data_from_api: 0.92510986328125 seconds
+2024-01-13 08:38:46 AM: INFO - Get ISS data
+2024-01-13 08:38:46 AM: INFO - Time taken by get_data_from_api: 0.4545929431915283 seconds
+2024-01-13 08:38:46 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:38:47 AM: INFO - Time taken by get_data_from_api: 0.823901891708374 seconds
+2024-01-13 08:39:47 AM: INFO - Get ISS data
+2024-01-13 08:39:48 AM: INFO - Time taken by get_data_from_api: 0.459489107131958 seconds
+2024-01-13 08:39:48 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:39:49 AM: INFO - Time taken by get_data_from_api: 0.8742630481719971 seconds
+2024-01-13 08:40:49 AM: INFO - Get ISS data
+2024-01-13 08:40:49 AM: INFO - Time taken by get_data_from_api: 0.4447760581970215 seconds
+2024-01-13 08:40:49 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:40:50 AM: INFO - Time taken by get_data_from_api: 0.781609058380127 seconds
+2024-01-13 08:41:50 AM: INFO - Get ISS data
+2024-01-13 08:41:51 AM: INFO - Time taken by get_data_from_api: 0.44509387016296387 seconds
+2024-01-13 08:41:51 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:41:51 AM: INFO - Time taken by get_data_from_api: 0.6373980045318604 seconds
+2024-01-13 08:42:52 AM: INFO - Get ISS data
+2024-01-13 08:42:52 AM: INFO - Time taken by get_data_from_api: 0.5384440422058105 seconds
+2024-01-13 08:42:52 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:42:53 AM: INFO - Time taken by get_data_from_api: 0.8363871574401855 seconds
+2024-01-13 08:43:53 AM: INFO - Get ISS data
+2024-01-13 08:43:54 AM: INFO - Time taken by get_data_from_api: 0.4590609073638916 seconds
+2024-01-13 08:43:54 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:43:54 AM: INFO - Time taken by get_data_from_api: 0.8198151588439941 seconds
+2024-01-13 08:44:55 AM: INFO - Get ISS data
+2024-01-13 08:44:55 AM: INFO - Time taken by get_data_from_api: 0.3960859775543213 seconds
+2024-01-13 08:44:55 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:44:56 AM: INFO - Time taken by get_data_from_api: 0.7781000137329102 seconds
+2024-01-13 08:45:56 AM: INFO - Get ISS data
+2024-01-13 08:45:56 AM: INFO - Time taken by get_data_from_api: 0.3817429542541504 seconds
+2024-01-13 08:45:56 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:45:57 AM: INFO - Time taken by get_data_from_api: 0.784106969833374 seconds
+2024-01-13 08:46:57 AM: INFO - Get ISS data
+2024-01-13 08:46:58 AM: INFO - Time taken by get_data_from_api: 0.4589858055114746 seconds
+2024-01-13 08:46:58 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:46:58 AM: INFO - Time taken by get_data_from_api: 0.7966647148132324 seconds
+2024-01-13 08:47:59 AM: INFO - Get ISS data
+2024-01-13 08:47:59 AM: INFO - Time taken by get_data_from_api: 0.4768238067626953 seconds
+2024-01-13 08:47:59 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:48:00 AM: INFO - Time taken by get_data_from_api: 0.8372867107391357 seconds
+2024-01-13 08:49:00 AM: INFO - Get ISS data
+2024-01-13 08:49:01 AM: INFO - Time taken by get_data_from_api: 0.3845710754394531 seconds
+2024-01-13 08:49:01 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:49:01 AM: INFO - Time taken by get_data_from_api: 0.8030059337615967 seconds
+2024-01-13 08:50:02 AM: INFO - Get ISS data
+2024-01-13 08:50:02 AM: INFO - Time taken by get_data_from_api: 0.39884424209594727 seconds
+2024-01-13 08:50:02 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:50:03 AM: INFO - Time taken by get_data_from_api: 0.8674769401550293 seconds
+2024-01-13 08:51:03 AM: INFO - Get ISS data
+2024-01-13 08:51:03 AM: INFO - Time taken by get_data_from_api: 0.43924903869628906 seconds
+2024-01-13 08:51:03 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:51:04 AM: INFO - Time taken by get_data_from_api: 0.7954318523406982 seconds
+2024-01-13 08:52:04 AM: INFO - Get ISS data
+2024-01-13 08:52:05 AM: INFO - Time taken by get_data_from_api: 0.6268219947814941 seconds
+2024-01-13 08:52:05 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:52:06 AM: INFO - Time taken by get_data_from_api: 0.8960959911346436 seconds
+2024-01-13 08:53:06 AM: INFO - Get ISS data
+2024-01-13 08:53:07 AM: INFO - Time taken by get_data_from_api: 0.4427602291107178 seconds
+2024-01-13 08:53:07 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:53:07 AM: INFO - Time taken by get_data_from_api: 0.8436069488525391 seconds
+2024-01-13 08:54:08 AM: INFO - Get ISS data
+2024-01-13 08:54:08 AM: INFO - Time taken by get_data_from_api: 0.4311559200286865 seconds
+2024-01-13 08:54:08 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:54:09 AM: INFO - Time taken by get_data_from_api: 0.835798978805542 seconds
+2024-01-13 08:55:09 AM: INFO - Get ISS data
+2024-01-13 08:55:09 AM: INFO - Time taken by get_data_from_api: 0.3865969181060791 seconds
+2024-01-13 08:55:09 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:55:10 AM: INFO - Time taken by get_data_from_api: 0.8885908126831055 seconds
+2024-01-13 08:56:10 AM: INFO - Get ISS data
+2024-01-13 08:56:11 AM: INFO - Time taken by get_data_from_api: 0.46022510528564453 seconds
+2024-01-13 08:56:11 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:56:12 AM: INFO - Time taken by get_data_from_api: 0.8149259090423584 seconds
+2024-01-13 08:57:12 AM: INFO - Get ISS data
+2024-01-13 08:57:12 AM: INFO - Time taken by get_data_from_api: 0.45785999298095703 seconds
+2024-01-13 08:57:12 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:57:13 AM: INFO - Time taken by get_data_from_api: 0.8233230113983154 seconds
+2024-01-13 08:58:13 AM: INFO - Get ISS data
+2024-01-13 08:58:14 AM: INFO - Time taken by get_data_from_api: 0.40906500816345215 seconds
+2024-01-13 08:58:14 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:58:15 AM: INFO - Time taken by get_data_from_api: 0.8683159351348877 seconds
+2024-01-13 08:59:15 AM: INFO - Get ISS data
+2024-01-13 08:59:15 AM: INFO - Time taken by get_data_from_api: 0.44054508209228516 seconds
+2024-01-13 08:59:15 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 08:59:16 AM: INFO - Time taken by get_data_from_api: 0.920687198638916 seconds
+2024-01-13 09:00:16 AM: INFO - Get ISS data
+2024-01-13 09:00:17 AM: INFO - Time taken by get_data_from_api: 0.40062808990478516 seconds
+2024-01-13 09:00:17 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:00:18 AM: INFO - Time taken by get_data_from_api: 0.8781061172485352 seconds
+2024-01-13 09:01:18 AM: INFO - Get ISS data
+2024-01-13 09:01:18 AM: INFO - Time taken by get_data_from_api: 0.4541971683502197 seconds
+2024-01-13 09:01:18 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:01:19 AM: INFO - Time taken by get_data_from_api: 0.5024209022521973 seconds
+2024-01-13 09:02:19 AM: INFO - Get ISS data
+2024-01-13 09:02:19 AM: INFO - Time taken by get_data_from_api: 0.44518113136291504 seconds
+2024-01-13 09:02:19 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:02:20 AM: INFO - Time taken by get_data_from_api: 0.8502693176269531 seconds
+2024-01-13 09:03:20 AM: INFO - Get ISS data
+2024-01-13 09:03:21 AM: INFO - Time taken by get_data_from_api: 0.4534919261932373 seconds
+2024-01-13 09:03:21 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:03:22 AM: INFO - Time taken by get_data_from_api: 0.8288211822509766 seconds
+2024-01-13 09:04:22 AM: INFO - Get ISS data
+2024-01-13 09:04:22 AM: INFO - Time taken by get_data_from_api: 0.45524096488952637 seconds
+2024-01-13 09:04:22 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:04:23 AM: INFO - Time taken by get_data_from_api: 0.5037541389465332 seconds
+2024-01-13 09:05:23 AM: INFO - Get ISS data
+2024-01-13 09:05:23 AM: INFO - Time taken by get_data_from_api: 0.43636393547058105 seconds
+2024-01-13 09:05:23 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:05:24 AM: INFO - Time taken by get_data_from_api: 0.851111888885498 seconds
+2024-01-13 09:06:24 AM: INFO - Get ISS data
+2024-01-13 09:06:25 AM: INFO - Time taken by get_data_from_api: 0.4525270462036133 seconds
+2024-01-13 09:06:25 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:06:26 AM: INFO - Time taken by get_data_from_api: 0.9286251068115234 seconds
+2024-01-13 09:07:26 AM: INFO - Get ISS data
+2024-01-13 09:07:26 AM: INFO - Time taken by get_data_from_api: 0.45557498931884766 seconds
+2024-01-13 09:07:26 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:07:27 AM: INFO - Time taken by get_data_from_api: 0.914788007736206 seconds
+2024-01-13 09:08:27 AM: INFO - Get ISS data
+2024-01-13 09:08:28 AM: INFO - Time taken by get_data_from_api: 0.4641611576080322 seconds
+2024-01-13 09:08:28 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:08:29 AM: INFO - Time taken by get_data_from_api: 0.8086230754852295 seconds
+2024-01-13 09:09:29 AM: INFO - Get ISS data
+2024-01-13 09:09:29 AM: INFO - Time taken by get_data_from_api: 0.44963788986206055 seconds
+2024-01-13 09:09:29 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:09:30 AM: INFO - Time taken by get_data_from_api: 0.8679947853088379 seconds
+2024-01-13 09:10:30 AM: INFO - Get ISS data
+2024-01-13 09:10:31 AM: INFO - Time taken by get_data_from_api: 0.4429149627685547 seconds
+2024-01-13 09:10:31 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:10:32 AM: INFO - Time taken by get_data_from_api: 0.8184521198272705 seconds
+2024-01-13 09:11:32 AM: INFO - Get ISS data
+2024-01-13 09:11:32 AM: INFO - Time taken by get_data_from_api: 0.45133399963378906 seconds
+2024-01-13 09:11:32 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:11:33 AM: INFO - Time taken by get_data_from_api: 0.6570770740509033 seconds
+2024-01-13 09:12:33 AM: INFO - Get ISS data
+2024-01-13 09:12:34 AM: INFO - Time taken by get_data_from_api: 0.436830997467041 seconds
+2024-01-13 09:12:34 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:12:34 AM: INFO - Time taken by get_data_from_api: 0.8431510925292969 seconds
+2024-01-13 09:13:35 AM: INFO - Get ISS data
+2024-01-13 09:13:35 AM: INFO - Time taken by get_data_from_api: 0.45476484298706055 seconds
+2024-01-13 09:13:35 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:13:36 AM: INFO - Time taken by get_data_from_api: 0.7782249450683594 seconds
+2024-01-13 09:14:36 AM: INFO - Get ISS data
+2024-01-13 09:14:36 AM: INFO - Time taken by get_data_from_api: 0.44611310958862305 seconds
+2024-01-13 09:14:36 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:14:37 AM: INFO - Time taken by get_data_from_api: 0.8758573532104492 seconds
+2024-01-13 09:15:37 AM: INFO - Get ISS data
+2024-01-13 09:15:38 AM: INFO - Time taken by get_data_from_api: 0.47836804389953613 seconds
+2024-01-13 09:15:38 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:15:39 AM: INFO - Time taken by get_data_from_api: 0.6987910270690918 seconds
+2024-01-13 09:16:39 AM: INFO - Get ISS data
+2024-01-13 09:16:39 AM: INFO - Time taken by get_data_from_api: 0.4690220355987549 seconds
+2024-01-13 09:16:39 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:16:40 AM: INFO - Time taken by get_data_from_api: 0.8966519832611084 seconds
+2024-01-13 09:17:40 AM: INFO - Get ISS data
+2024-01-13 09:17:41 AM: INFO - Time taken by get_data_from_api: 0.4431278705596924 seconds
+2024-01-13 09:17:41 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:17:42 AM: INFO - Time taken by get_data_from_api: 0.8318579196929932 seconds
+2024-01-13 09:18:42 AM: INFO - Get ISS data
+2024-01-13 09:18:42 AM: INFO - Time taken by get_data_from_api: 0.3920919895172119 seconds
+2024-01-13 09:18:42 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:18:43 AM: INFO - Time taken by get_data_from_api: 0.8828341960906982 seconds
+2024-01-13 09:19:43 AM: INFO - Get ISS data
+2024-01-13 09:19:44 AM: INFO - Time taken by get_data_from_api: 0.4845099449157715 seconds
+2024-01-13 09:19:44 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:19:44 AM: INFO - Time taken by get_data_from_api: 0.535876989364624 seconds
+2024-01-13 09:20:44 AM: INFO - Get ISS data
+2024-01-13 09:20:45 AM: INFO - Time taken by get_data_from_api: 0.4510171413421631 seconds
+2024-01-13 09:20:45 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:20:46 AM: INFO - Time taken by get_data_from_api: 0.884260892868042 seconds
+2024-01-13 09:21:46 AM: INFO - Get ISS data
+2024-01-13 09:21:46 AM: INFO - Time taken by get_data_from_api: 0.3887038230895996 seconds
+2024-01-13 09:21:46 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:21:47 AM: INFO - Time taken by get_data_from_api: 0.8669438362121582 seconds
+2024-01-13 09:22:47 AM: INFO - Get ISS data
+2024-01-13 09:22:48 AM: INFO - Time taken by get_data_from_api: 0.4555697441101074 seconds
+2024-01-13 09:22:48 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:22:49 AM: INFO - Time taken by get_data_from_api: 0.8166489601135254 seconds
+2024-01-13 09:23:49 AM: INFO - Get ISS data
+2024-01-13 09:23:49 AM: INFO - Time taken by get_data_from_api: 0.448915958404541 seconds
+2024-01-13 09:23:49 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:23:50 AM: INFO - Time taken by get_data_from_api: 0.8258209228515625 seconds
+2024-01-13 09:24:50 AM: INFO - Get ISS data
+2024-01-13 09:24:51 AM: INFO - Time taken by get_data_from_api: 0.4416179656982422 seconds
+2024-01-13 09:24:51 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:24:51 AM: INFO - Time taken by get_data_from_api: 0.8376278877258301 seconds
+2024-01-13 09:25:52 AM: INFO - Get ISS data
+2024-01-13 09:25:52 AM: INFO - Time taken by get_data_from_api: 0.44986701011657715 seconds
+2024-01-13 09:25:52 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:25:53 AM: INFO - Time taken by get_data_from_api: 0.821040153503418 seconds
+2024-01-13 09:26:53 AM: INFO - Get ISS data
+2024-01-13 09:26:54 AM: INFO - Time taken by get_data_from_api: 0.43933796882629395 seconds
+2024-01-13 09:26:54 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:26:54 AM: INFO - Time taken by get_data_from_api: 0.7519419193267822 seconds
+2024-01-13 09:27:55 AM: INFO - Get ISS data
+2024-01-13 09:27:55 AM: INFO - Time taken by get_data_from_api: 0.46623682975769043 seconds
+2024-01-13 09:27:55 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:27:56 AM: INFO - Time taken by get_data_from_api: 0.9260280132293701 seconds
+2024-01-13 09:28:56 AM: INFO - Get ISS data
+2024-01-13 09:28:57 AM: INFO - Time taken by get_data_from_api: 0.46558618545532227 seconds
+2024-01-13 09:28:57 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:28:57 AM: INFO - Time taken by get_data_from_api: 0.90818190574646 seconds
+2024-01-13 09:29:58 AM: INFO - Get ISS data
+2024-01-13 09:29:58 AM: INFO - Time taken by get_data_from_api: 0.44176363945007324 seconds
+2024-01-13 09:29:58 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:29:59 AM: INFO - Time taken by get_data_from_api: 0.9322190284729004 seconds
+2024-01-13 09:30:59 AM: INFO - Get ISS data
+2024-01-13 09:31:00 AM: INFO - Time taken by get_data_from_api: 0.45772218704223633 seconds
+2024-01-13 09:31:00 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:31:01 AM: INFO - Time taken by get_data_from_api: 0.9194259643554688 seconds
+2024-01-13 09:32:01 AM: INFO - Get ISS data
+2024-01-13 09:32:01 AM: INFO - Time taken by get_data_from_api: 0.4464550018310547 seconds
+2024-01-13 09:32:01 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:32:02 AM: INFO - Time taken by get_data_from_api: 0.924717903137207 seconds
+2024-01-13 09:33:02 AM: INFO - Get ISS data
+2024-01-13 09:33:03 AM: INFO - Time taken by get_data_from_api: 0.37137627601623535 seconds
+2024-01-13 09:33:03 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:33:04 AM: INFO - Time taken by get_data_from_api: 0.899738073348999 seconds
+2024-01-13 09:34:04 AM: INFO - Get ISS data
+2024-01-13 09:34:04 AM: INFO - Time taken by get_data_from_api: 0.4621009826660156 seconds
+2024-01-13 09:34:04 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:34:05 AM: INFO - Time taken by get_data_from_api: 0.921550989151001 seconds
+2024-01-13 09:35:05 AM: INFO - Get ISS data
+2024-01-13 09:35:06 AM: INFO - Time taken by get_data_from_api: 0.4420301914215088 seconds
+2024-01-13 09:35:06 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:35:07 AM: INFO - Time taken by get_data_from_api: 0.9463076591491699 seconds
+2024-01-13 09:36:07 AM: INFO - Get ISS data
+2024-01-13 09:36:07 AM: INFO - Time taken by get_data_from_api: 0.3950939178466797 seconds
+2024-01-13 09:36:07 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:36:08 AM: INFO - Time taken by get_data_from_api: 0.8883850574493408 seconds
+2024-01-13 09:37:08 AM: INFO - Get ISS data
+2024-01-13 09:37:09 AM: INFO - Time taken by get_data_from_api: 0.4411430358886719 seconds
+2024-01-13 09:37:09 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:37:10 AM: INFO - Time taken by get_data_from_api: 0.9448592662811279 seconds
+2024-01-13 09:38:10 AM: INFO - Get ISS data
+2024-01-13 09:38:10 AM: INFO - Time taken by get_data_from_api: 0.4399590492248535 seconds
+2024-01-13 09:38:10 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:38:11 AM: INFO - Time taken by get_data_from_api: 0.9380278587341309 seconds
+2024-01-13 09:39:11 AM: INFO - Get ISS data
+2024-01-13 09:39:12 AM: INFO - Time taken by get_data_from_api: 0.42513322830200195 seconds
+2024-01-13 09:39:12 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:39:13 AM: INFO - Time taken by get_data_from_api: 0.7883820533752441 seconds
+2024-01-13 09:40:13 AM: INFO - Get ISS data
+2024-01-13 09:40:13 AM: INFO - Time taken by get_data_from_api: 0.4525737762451172 seconds
+2024-01-13 09:40:13 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:40:14 AM: INFO - Time taken by get_data_from_api: 0.852632999420166 seconds
+2024-01-13 09:41:14 AM: INFO - Get ISS data
+2024-01-13 09:41:15 AM: INFO - Time taken by get_data_from_api: 0.4369468688964844 seconds
+2024-01-13 09:41:15 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:41:15 AM: INFO - Time taken by get_data_from_api: 0.8465478420257568 seconds
+2024-01-13 09:42:16 AM: INFO - Get ISS data
+2024-01-13 09:42:16 AM: INFO - Time taken by get_data_from_api: 0.45694684982299805 seconds
+2024-01-13 09:42:16 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:42:17 AM: INFO - Time taken by get_data_from_api: 0.5536162853240967 seconds
+2024-01-13 09:43:17 AM: INFO - Get ISS data
+2024-01-13 09:43:17 AM: INFO - Time taken by get_data_from_api: 0.4589378833770752 seconds
+2024-01-13 09:43:17 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:43:18 AM: INFO - Time taken by get_data_from_api: 0.4888319969177246 seconds
+2024-01-13 09:44:18 AM: INFO - Get ISS data
+2024-01-13 09:44:18 AM: INFO - Time taken by get_data_from_api: 0.44034910202026367 seconds
+2024-01-13 09:44:18 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:44:19 AM: INFO - Time taken by get_data_from_api: 1.0732929706573486 seconds
+2024-01-13 09:45:20 AM: INFO - Get ISS data
+2024-01-13 09:45:20 AM: INFO - Time taken by get_data_from_api: 0.39966893196105957 seconds
+2024-01-13 09:45:20 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:45:21 AM: INFO - Time taken by get_data_from_api: 0.8760149478912354 seconds
+2024-01-13 09:46:21 AM: INFO - Get ISS data
+2024-01-13 09:46:22 AM: INFO - Time taken by get_data_from_api: 0.43184614181518555 seconds
+2024-01-13 09:46:22 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:46:22 AM: INFO - Time taken by get_data_from_api: 0.8445072174072266 seconds
+2024-01-13 09:47:23 AM: INFO - Get ISS data
+2024-01-13 09:47:23 AM: INFO - Time taken by get_data_from_api: 0.4555189609527588 seconds
+2024-01-13 09:47:23 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:47:24 AM: INFO - Time taken by get_data_from_api: 0.8244030475616455 seconds
+2024-01-13 09:48:24 AM: INFO - Get ISS data
+2024-01-13 09:48:24 AM: INFO - Time taken by get_data_from_api: 0.39744997024536133 seconds
+2024-01-13 09:48:24 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:48:25 AM: INFO - Time taken by get_data_from_api: 0.7821388244628906 seconds
+2024-01-13 09:49:25 AM: INFO - Get ISS data
+2024-01-13 09:49:26 AM: INFO - Time taken by get_data_from_api: 0.44563817977905273 seconds
+2024-01-13 09:49:26 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:49:27 AM: INFO - Time taken by get_data_from_api: 1.054145097732544 seconds
+2024-01-13 09:50:27 AM: INFO - Get ISS data
+2024-01-13 09:50:27 AM: INFO - Time taken by get_data_from_api: 0.43518900871276855 seconds
+2024-01-13 09:50:27 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:50:28 AM: INFO - Time taken by get_data_from_api: 0.9428889751434326 seconds
+2024-01-13 09:51:29 AM: INFO - Get ISS data
+2024-01-13 09:51:29 AM: INFO - Time taken by get_data_from_api: 0.47071123123168945 seconds
+2024-01-13 09:51:29 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:51:30 AM: INFO - Time taken by get_data_from_api: 0.5107119083404541 seconds
+2024-01-13 09:52:30 AM: INFO - Get ISS data
+2024-01-13 09:52:30 AM: INFO - Time taken by get_data_from_api: 0.44059085845947266 seconds
+2024-01-13 09:52:30 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:52:31 AM: INFO - Time taken by get_data_from_api: 0.8224639892578125 seconds
+2024-01-13 09:53:31 AM: INFO - Get ISS data
+2024-01-13 09:53:32 AM: INFO - Time taken by get_data_from_api: 0.43419694900512695 seconds
+2024-01-13 09:53:32 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:53:33 AM: INFO - Time taken by get_data_from_api: 0.950984001159668 seconds
+2024-01-13 09:54:33 AM: INFO - Get ISS data
+2024-01-13 09:54:33 AM: INFO - Time taken by get_data_from_api: 0.46616077423095703 seconds
+2024-01-13 09:54:33 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:54:34 AM: INFO - Time taken by get_data_from_api: 1.0169751644134521 seconds
+2024-01-13 09:55:34 AM: INFO - Get ISS data
+2024-01-13 09:55:35 AM: INFO - Time taken by get_data_from_api: 0.4081439971923828 seconds
+2024-01-13 09:55:35 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:55:36 AM: INFO - Time taken by get_data_from_api: 0.9564039707183838 seconds
+2024-01-13 09:56:36 AM: INFO - Get ISS data
+2024-01-13 09:56:36 AM: INFO - Time taken by get_data_from_api: 0.5323886871337891 seconds
+2024-01-13 09:56:36 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:56:37 AM: INFO - Time taken by get_data_from_api: 0.7970938682556152 seconds
+2024-01-13 09:57:37 AM: INFO - Get ISS data
+2024-01-13 09:57:38 AM: INFO - Time taken by get_data_from_api: 0.4422128200531006 seconds
+2024-01-13 09:57:38 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:57:39 AM: INFO - Time taken by get_data_from_api: 0.864886999130249 seconds
+2024-01-13 09:58:39 AM: INFO - Get ISS data
+2024-01-13 09:58:39 AM: INFO - Time taken by get_data_from_api: 0.4593820571899414 seconds
+2024-01-13 09:58:39 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:58:40 AM: INFO - Time taken by get_data_from_api: 0.7828612327575684 seconds
+2024-01-13 09:59:40 AM: INFO - Get ISS data
+2024-01-13 09:59:41 AM: INFO - Time taken by get_data_from_api: 0.45693111419677734 seconds
+2024-01-13 09:59:41 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 09:59:42 AM: INFO - Time taken by get_data_from_api: 0.85603928565979 seconds
+2024-01-13 10:00:42 AM: INFO - Get ISS data
+2024-01-13 10:00:42 AM: INFO - Time taken by get_data_from_api: 0.43322324752807617 seconds
+2024-01-13 10:00:42 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:00:43 AM: INFO - Time taken by get_data_from_api: 0.9343149662017822 seconds
+2024-01-13 10:01:43 AM: INFO - Get ISS data
+2024-01-13 10:01:44 AM: INFO - Time taken by get_data_from_api: 0.46256589889526367 seconds
+2024-01-13 10:01:44 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:01:44 AM: INFO - Time taken by get_data_from_api: 0.6211178302764893 seconds
+2024-01-13 10:02:45 AM: INFO - Get ISS data
+2024-01-13 10:02:45 AM: INFO - Time taken by get_data_from_api: 0.45084428787231445 seconds
+2024-01-13 10:02:45 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:02:46 AM: INFO - Time taken by get_data_from_api: 0.9285931587219238 seconds
+2024-01-13 10:03:46 AM: INFO - Get ISS data
+2024-01-13 10:03:47 AM: INFO - Time taken by get_data_from_api: 0.4346439838409424 seconds
+2024-01-13 10:03:47 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:03:47 AM: INFO - Time taken by get_data_from_api: 0.6428780555725098 seconds
+2024-01-13 10:04:47 AM: INFO - Get ISS data
+2024-01-13 10:04:48 AM: INFO - Time taken by get_data_from_api: 0.518953800201416 seconds
+2024-01-13 10:04:48 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:04:49 AM: INFO - Time taken by get_data_from_api: 0.8128750324249268 seconds
+2024-01-13 10:05:49 AM: INFO - Get ISS data
+2024-01-13 10:05:49 AM: INFO - Time taken by get_data_from_api: 0.45294809341430664 seconds
+2024-01-13 10:05:49 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:05:50 AM: INFO - Time taken by get_data_from_api: 1.0805041790008545 seconds
+2024-01-13 10:06:51 AM: INFO - Get ISS data
+2024-01-13 10:06:51 AM: INFO - Time taken by get_data_from_api: 0.38655829429626465 seconds
+2024-01-13 10:06:51 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:06:52 AM: INFO - Time taken by get_data_from_api: 0.8756637573242188 seconds
+2024-01-13 10:07:52 AM: INFO - Get ISS data
+2024-01-13 10:07:52 AM: INFO - Time taken by get_data_from_api: 0.46237897872924805 seconds
+2024-01-13 10:07:52 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:07:53 AM: INFO - Time taken by get_data_from_api: 0.9157729148864746 seconds
+2024-01-13 10:08:53 AM: INFO - Get ISS data
+2024-01-13 10:08:54 AM: INFO - Time taken by get_data_from_api: 0.4470958709716797 seconds
+2024-01-13 10:08:54 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:08:55 AM: INFO - Time taken by get_data_from_api: 0.8322639465332031 seconds
+2024-01-13 10:09:55 AM: INFO - Get ISS data
+2024-01-13 10:09:55 AM: INFO - Time taken by get_data_from_api: 0.4597299098968506 seconds
+2024-01-13 10:09:55 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:09:56 AM: INFO - Time taken by get_data_from_api: 0.6115319728851318 seconds
+2024-01-13 10:10:56 AM: INFO - Get ISS data
+2024-01-13 10:10:57 AM: INFO - Time taken by get_data_from_api: 0.44728612899780273 seconds
+2024-01-13 10:10:57 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:10:58 AM: INFO - Time taken by get_data_from_api: 1.0046520233154297 seconds
+2024-01-13 10:11:58 AM: INFO - Get ISS data
+2024-01-13 10:11:58 AM: INFO - Time taken by get_data_from_api: 0.43973708152770996 seconds
+2024-01-13 10:11:58 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:11:59 AM: INFO - Time taken by get_data_from_api: 0.8733077049255371 seconds
+2024-01-13 10:12:59 AM: INFO - Get ISS data
+2024-01-13 10:13:00 AM: INFO - Time taken by get_data_from_api: 0.47101902961730957 seconds
+2024-01-13 10:13:00 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:13:01 AM: INFO - Time taken by get_data_from_api: 0.9039788246154785 seconds
+2024-01-13 10:14:01 AM: INFO - Get ISS data
+2024-01-13 10:14:01 AM: INFO - Time taken by get_data_from_api: 0.4617760181427002 seconds
+2024-01-13 10:14:01 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:14:02 AM: INFO - Time taken by get_data_from_api: 0.8217511177062988 seconds
+2024-01-13 10:15:02 AM: INFO - Get ISS data
+2024-01-13 10:15:03 AM: INFO - Time taken by get_data_from_api: 0.4362020492553711 seconds
+2024-01-13 10:15:03 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:15:03 AM: INFO - Time taken by get_data_from_api: 0.5428149700164795 seconds
+2024-01-13 10:16:03 AM: INFO - Get ISS data
+2024-01-13 10:16:04 AM: INFO - Time taken by get_data_from_api: 0.484083890914917 seconds
+2024-01-13 10:16:04 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:16:05 AM: INFO - Time taken by get_data_from_api: 0.8887279033660889 seconds
+2024-01-13 10:17:05 AM: INFO - Get ISS data
+2024-01-13 10:17:06 AM: INFO - Time taken by get_data_from_api: 0.471041202545166 seconds
+2024-01-13 10:17:06 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:17:07 AM: INFO - Time taken by get_data_from_api: 1.0342352390289307 seconds
+2024-01-13 10:18:07 AM: INFO - Get ISS data
+2024-01-13 10:18:07 AM: INFO - Time taken by get_data_from_api: 0.3951601982116699 seconds
+2024-01-13 10:18:07 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:18:08 AM: INFO - Time taken by get_data_from_api: 0.6774327754974365 seconds
+2024-01-13 10:19:08 AM: INFO - Get ISS data
+2024-01-13 10:19:08 AM: INFO - Time taken by get_data_from_api: 0.4529571533203125 seconds
+2024-01-13 10:19:08 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:19:09 AM: INFO - Time taken by get_data_from_api: 0.8202998638153076 seconds
+2024-01-13 10:20:09 AM: INFO - Get ISS data
+2024-01-13 10:20:10 AM: INFO - Time taken by get_data_from_api: 0.4266369342803955 seconds
+2024-01-13 10:20:10 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:20:11 AM: INFO - Time taken by get_data_from_api: 0.8306591510772705 seconds
+2024-01-13 10:21:11 AM: INFO - Get ISS data
+2024-01-13 10:21:11 AM: INFO - Time taken by get_data_from_api: 0.3901786804199219 seconds
+2024-01-13 10:21:11 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:21:12 AM: INFO - Time taken by get_data_from_api: 0.9010558128356934 seconds
+2024-01-13 10:22:12 AM: INFO - Get ISS data
+2024-01-13 10:22:13 AM: INFO - Time taken by get_data_from_api: 0.462291955947876 seconds
+2024-01-13 10:22:13 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:22:14 AM: INFO - Time taken by get_data_from_api: 0.9185099601745605 seconds
+2024-01-13 10:23:14 AM: INFO - Get ISS data
+2024-01-13 10:23:14 AM: INFO - Time taken by get_data_from_api: 0.4436209201812744 seconds
+2024-01-13 10:23:14 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:23:15 AM: INFO - Time taken by get_data_from_api: 0.5055439472198486 seconds
+2024-01-13 10:24:15 AM: INFO - Get ISS data
+2024-01-13 10:24:15 AM: INFO - Time taken by get_data_from_api: 0.41520094871520996 seconds
+2024-01-13 10:24:15 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:24:16 AM: INFO - Time taken by get_data_from_api: 0.8846731185913086 seconds
+2024-01-13 10:25:16 AM: INFO - Get ISS data
+2024-01-13 10:25:17 AM: INFO - Time taken by get_data_from_api: 0.4629850387573242 seconds
+2024-01-13 10:25:17 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:25:17 AM: INFO - Time taken by get_data_from_api: 0.5307247638702393 seconds
+2024-01-13 10:26:18 AM: INFO - Get ISS data
+2024-01-13 10:26:18 AM: INFO - Time taken by get_data_from_api: 0.4670681953430176 seconds
+2024-01-13 10:26:18 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:26:19 AM: INFO - Time taken by get_data_from_api: 0.838364839553833 seconds
+2024-01-13 10:27:19 AM: INFO - Get ISS data
+2024-01-13 10:27:20 AM: INFO - Time taken by get_data_from_api: 0.4528818130493164 seconds
+2024-01-13 10:27:20 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:27:20 AM: INFO - Time taken by get_data_from_api: 0.8767809867858887 seconds
+2024-01-13 10:28:21 AM: INFO - Get ISS data
+2024-01-13 10:28:21 AM: INFO - Time taken by get_data_from_api: 0.4568192958831787 seconds
+2024-01-13 10:28:21 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:28:22 AM: INFO - Time taken by get_data_from_api: 0.9004027843475342 seconds
+2024-01-13 10:29:22 AM: INFO - Get ISS data
+2024-01-13 10:29:23 AM: INFO - Time taken by get_data_from_api: 0.4721260070800781 seconds
+2024-01-13 10:29:23 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:29:23 AM: INFO - Time taken by get_data_from_api: 0.6002748012542725 seconds
+2024-01-13 10:30:23 AM: INFO - Get ISS data
+2024-01-13 10:30:24 AM: INFO - Time taken by get_data_from_api: 0.37312984466552734 seconds
+2024-01-13 10:30:24 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:30:24 AM: INFO - Time taken by get_data_from_api: 0.8020098209381104 seconds
+2024-01-13 10:31:25 AM: INFO - Get ISS data
+2024-01-13 10:31:25 AM: INFO - Time taken by get_data_from_api: 0.432096004486084 seconds
+2024-01-13 10:31:25 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:31:26 AM: INFO - Time taken by get_data_from_api: 0.8542890548706055 seconds
+2024-01-13 10:32:26 AM: INFO - Get ISS data
+2024-01-13 10:32:27 AM: INFO - Time taken by get_data_from_api: 0.4558701515197754 seconds
+2024-01-13 10:32:27 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:32:27 AM: INFO - Time taken by get_data_from_api: 0.8262290954589844 seconds
+2024-01-13 10:33:28 AM: INFO - Get ISS data
+2024-01-13 10:33:28 AM: INFO - Time taken by get_data_from_api: 0.37321972846984863 seconds
+2024-01-13 10:33:28 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:33:29 AM: INFO - Time taken by get_data_from_api: 0.8867027759552002 seconds
+2024-01-13 10:34:29 AM: INFO - Get ISS data
+2024-01-13 10:34:29 AM: INFO - Time taken by get_data_from_api: 0.47298288345336914 seconds
+2024-01-13 10:34:29 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:34:30 AM: INFO - Time taken by get_data_from_api: 0.9103760719299316 seconds
+2024-01-13 10:35:30 AM: INFO - Get ISS data
+2024-01-13 10:35:31 AM: INFO - Time taken by get_data_from_api: 0.4553241729736328 seconds
+2024-01-13 10:35:31 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:35:32 AM: INFO - Time taken by get_data_from_api: 0.8142828941345215 seconds
+2024-01-13 10:36:32 AM: INFO - Get ISS data
+2024-01-13 10:36:32 AM: INFO - Time taken by get_data_from_api: 0.44621706008911133 seconds
+2024-01-13 10:36:32 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:36:33 AM: INFO - Time taken by get_data_from_api: 0.8333721160888672 seconds
+2024-01-13 10:37:33 AM: INFO - Get ISS data
+2024-01-13 10:37:34 AM: INFO - Time taken by get_data_from_api: 0.44704318046569824 seconds
+2024-01-13 10:37:34 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:37:35 AM: INFO - Time taken by get_data_from_api: 0.8299882411956787 seconds
+2024-01-13 10:38:35 AM: INFO - Get ISS data
+2024-01-13 10:38:35 AM: INFO - Time taken by get_data_from_api: 0.4530761241912842 seconds
+2024-01-13 10:38:35 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:38:36 AM: INFO - Time taken by get_data_from_api: 0.8219377994537354 seconds
+2024-01-13 10:39:36 AM: INFO - Get ISS data
+2024-01-13 10:39:37 AM: INFO - Time taken by get_data_from_api: 0.37719297409057617 seconds
+2024-01-13 10:39:37 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:39:37 AM: INFO - Time taken by get_data_from_api: 0.7830421924591064 seconds
+2024-01-13 10:40:38 AM: INFO - Get ISS data
+2024-01-13 10:40:38 AM: INFO - Time taken by get_data_from_api: 0.47714710235595703 seconds
+2024-01-13 10:40:38 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:40:39 AM: INFO - Time taken by get_data_from_api: 0.9054610729217529 seconds
+2024-01-13 10:41:39 AM: INFO - Get ISS data
+2024-01-13 10:41:40 AM: INFO - Time taken by get_data_from_api: 0.4760260581970215 seconds
+2024-01-13 10:41:40 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 10:41:40 AM: INFO - Time taken by get_data_from_api: 0.8589160442352295 seconds
+2024-01-13 01:24:13 PM: INFO - Get ISS data
+2024-01-13 01:24:14 PM: INFO - Time taken by get_data_from_api: 1.2506318092346191 seconds
+2024-01-13 01:24:14 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-13 01:24:16 PM: INFO - Time taken by get_data_from_api: 1.5039968490600586 seconds

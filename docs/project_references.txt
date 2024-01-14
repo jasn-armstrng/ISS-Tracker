@@ -26,9 +26,11 @@ Graphics:
 
 Database (My data is time-series):
  - Do I need one?
- - Time-series DB: https://questdb.io,
-                   https://www.youtube.com/watch?v=A8uMF64rbS8
-                   https://github.com/questdb/py-questdb-client
+ - Time-series DB: Main: https://questdb.io,
+                   Intro: https://www.youtube.com/watch?v=A8uMF64rbS8
+                   Installation: https://github.com/questdb/py-questdb-client
+                   Docs: https://py-questdb-client.readthedocs.io/en/latest/
+                   Root dir structure: https://questdb.io/docs/concept/root-directory-structure/#log-directory
 
 UI:
  - Ascii Art Generator: https://www.asciiart.eu/text-to-ascii-art
