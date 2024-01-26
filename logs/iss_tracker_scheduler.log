@@ -2242,3 +2242,1178 @@
 2024-01-13 01:24:14 PM: INFO - Time taken by get_data_from_api: 1.2506318092346191 seconds
 2024-01-13 01:24:14 PM: INFO - Reverse Geolocate ISS Lat/Long
 2024-01-13 01:24:16 PM: INFO - Time taken by get_data_from_api: 1.5039968490600586 seconds
+2024-01-22 08:20:37 PM: INFO - Fetch ISS data
+2024-01-22 08:20:39 PM: INFO - Time taken by get_data_from_api: 1.613792896270752 seconds
+2024-01-22 08:20:39 PM: INFO - Transform ISS data
+2024-01-22 08:20:39 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:20:42 PM: INFO - Time taken by get_data_from_api: 2.737614154815674 seconds
+2024-01-22 08:20:42 PM: INFO - Load ISS data
+2024-01-22 08:20:42 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=30.309608382222,longitude=-14.752464152852,altitude=415.77305724244,velocity=27603.172910117,visibility="eclipsed",footprint=4485.8958501735,timestamp=1705969239000000t,daynum=2460332.5143403,solar_lat=-19.607475957677,solar_lon=177.73282277606,units="kilometers",geolocated_address="North Atlantic Ocean" 1705969239000000000
+
+2024-01-22 08:21:42 PM: INFO - Fetch ISS data
+2024-01-22 08:21:42 PM: INFO - Time taken by get_data_from_api: 0.5208871364593506 seconds
+2024-01-22 08:21:42 PM: INFO - Transform ISS data
+2024-01-22 08:21:42 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:21:43 PM: INFO - Time taken by get_data_from_api: 0.8502748012542725 seconds
+2024-01-22 08:21:43 PM: INFO - Load ISS data
+2024-01-22 08:21:43 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=27.373019255995,longitude=-11.678628913631,altitude=415.42099750308,velocity=27602.555916628,visibility="eclipsed",footprint=4484.0937973,timestamp=1705969303000000t,daynum=2460332.515081,solar_lat=-19.60730510281,solar_lon=177.46620514088,units="kilometers",geolocated_address="72000 Sidi Ahmed Laarosi, Morocco" 1705969303000000000
+
+2024-01-22 08:22:44 PM: INFO - Fetch ISS data
+2024-01-22 08:22:44 PM: INFO - Time taken by get_data_from_api: 0.4610769748687744 seconds
+2024-01-22 08:22:44 PM: INFO - Transform ISS data
+2024-01-22 08:22:44 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:22:45 PM: INFO - Time taken by get_data_from_api: 0.8802309036254883 seconds
+2024-01-22 08:22:45 PM: INFO - Load ISS data
+2024-01-22 08:22:45 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=24.502365962953,longitude=-8.9110949702812,altitude=415.15118869337,velocity=27601.789575494,visibility="eclipsed",footprint=4482.7121575698,timestamp=1705969364000000t,daynum=2460332.515787,solar_lat=-19.607142253732,solar_lon=177.2120853026,units="kilometers",geolocated_address="Tiris Zemmour, Mauritania" 1705969364000000000
+
+2024-01-22 08:23:45 PM: INFO - Fetch ISS data
+2024-01-22 08:23:46 PM: INFO - Time taken by get_data_from_api: 0.46197080612182617 seconds
+2024-01-22 08:23:46 PM: INFO - Transform ISS data
+2024-01-22 08:23:46 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:23:46 PM: INFO - Time taken by get_data_from_api: 0.9398188591003418 seconds
+2024-01-22 08:23:46 PM: INFO - Load ISS data
+2024-01-22 08:23:47 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=21.524598334752,longitude=-6.2368853538182,altitude=414.95470493463,velocity=27600.820910278,visibility="eclipsed",footprint=4481.7056755204,timestamp=1705969426000000t,daynum=2460332.5165046,solar_lat=-19.606976731912,solar_lon=176.95379958568,units="kilometers",geolocated_address="Hodh Ech Chargui, Mauritania" 1705969426000000000
+
+2024-01-22 08:24:47 PM: INFO - Fetch ISS data
+2024-01-22 08:24:47 PM: INFO - Time taken by get_data_from_api: 0.3998880386352539 seconds
+2024-01-22 08:24:47 PM: INFO - Transform ISS data
+2024-01-22 08:24:47 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:24:48 PM: INFO - Time taken by get_data_from_api: 0.8708009719848633 seconds
+2024-01-22 08:24:48 PM: INFO - Load ISS data
+2024-01-22 08:24:48 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=18.545745374799,longitude=-3.7211812213618,altitude=414.8484361024,velocity=27599.67199742,visibility="eclipsed",footprint=4481.1612021212,timestamp=1705969487000000t,daynum=2460332.5172106,solar_lat=-19.606813876742,solar_lon=176.69967974416,units="kilometers",geolocated_address="Tombouctou Cercle, Mali" 1705969487000000000
+
+2024-01-22 08:25:48 PM: INFO - Fetch ISS data
+2024-01-22 08:25:49 PM: INFO - Time taken by get_data_from_api: 0.45939087867736816 seconds
+2024-01-22 08:25:49 PM: INFO - Transform ISS data
+2024-01-22 08:25:49 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:25:50 PM: INFO - Time taken by get_data_from_api: 1.2595107555389404 seconds
+2024-01-22 08:25:50 PM: INFO - Load ISS data
+2024-01-22 08:25:50 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=15.477224731462,longitude=-1.2615729368784,altitude=414.83836076714,velocity=27598.298071201,visibility="eclipsed",footprint=4481.1095764882,timestamp=1705969549000000t,daynum=2460332.5179282,solar_lat=-19.606648348626,solar_lon=176.44139385634,units="kilometers",geolocated_address="Gourma-Rharous Cercle, Mali" 1705969549000000000
+
+2024-01-22 08:26:50 PM: INFO - Fetch ISS data
+2024-01-22 08:26:50 PM: INFO - Time taken by get_data_from_api: 0.39550089836120605 seconds
+2024-01-22 08:26:50 PM: INFO - Transform ISS data
+2024-01-22 08:26:50 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:26:51 PM: INFO - Time taken by get_data_from_api: 0.8978021144866943 seconds
+2024-01-22 08:26:51 PM: INFO - Load ISS data
+2024-01-22 08:26:51 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=12.375799379752,longitude=1.1185396294777,altitude=414.93499448641,velocity=27596.711723574,visibility="eclipsed",footprint=4481.6046941808,timestamp=1705969611000000t,daynum=2460332.5186458,solar_lat=-19.606482817495,solar_lon=176.18310813447,units="kilometers",geolocated_address="Gourma, Burkina Faso" 1705969611000000000
+
+2024-01-22 08:27:52 PM: INFO - Fetch ISS data
+2024-01-22 08:27:52 PM: INFO - Time taken by get_data_from_api: 0.44275879859924316 seconds
+2024-01-22 08:27:52 PM: INFO - Transform ISS data
+2024-01-22 08:27:52 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:27:53 PM: INFO - Time taken by get_data_from_api: 0.8298978805541992 seconds
+2024-01-22 08:27:53 PM: INFO - Load ISS data
+2024-01-22 08:27:53 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=9.2996480608475,longitude=3.3996747538774,altitude=415.14028570015,velocity=27594.941936868,visibility="eclipsed",footprint=4482.6563145221,timestamp=1705969672000000t,daynum=2460332.5193519,solar_lat=-19.606319953163,solar_lon=175.92898828809,units="kilometers",geolocated_address="Baruten, Nigeria" 1705969672000000000
+
+2024-01-22 08:28:53 PM: INFO - Fetch ISS data
+2024-01-22 08:28:54 PM: INFO - Time taken by get_data_from_api: 0.47432684898376465 seconds
+2024-01-22 08:28:54 PM: INFO - Transform ISS data
+2024-01-22 08:28:54 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:28:54 PM: INFO - Time taken by get_data_from_api: 0.8549251556396484 seconds
+2024-01-22 08:28:54 PM: INFO - Load ISS data
+2024-01-22 08:28:54 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=6.1548585873315,longitude=5.6729159540851,altitude=415.46523188311,velocity=27592.931928257,visibility="eclipsed",footprint=4484.3202637698,timestamp=1705969734000000t,daynum=2460332.5200694,solar_lat=-19.606154415732,solar_lon=175.67070239533,units="kilometers",geolocated_address="Ikpoba-Okha, Nigeria" 1705969734000000000
+
+2024-01-22 08:29:55 PM: INFO - Fetch ISS data
+2024-01-22 08:29:55 PM: INFO - Time taken by get_data_from_api: 0.4667501449584961 seconds
+2024-01-22 08:29:55 PM: INFO - Transform ISS data
+2024-01-22 08:29:55 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:29:56 PM: INFO - Time taken by get_data_from_api: 0.5558600425720215 seconds
+2024-01-22 08:29:56 PM: INFO - Load ISS data
+2024-01-22 08:29:56 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=3.0492959781665,longitude=7.8801557408876,altitude=415.90154328808,velocity=27590.750797557,visibility="eclipsed",footprint=4486.5532995148,timestamp=1705969795000000t,daynum=2460332.5207755,solar_lat=-19.605991545308,solar_lon=175.41658254571,units="kilometers",geolocated_address="Gulf of Guinea" 1705969795000000000
+
+2024-01-22 08:30:56 PM: INFO - Fetch ISS data
+2024-01-22 08:30:56 PM: INFO - Time taken by get_data_from_api: 0.4109179973602295 seconds
+2024-01-22 08:30:56 PM: INFO - Transform ISS data
+2024-01-22 08:30:56 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:30:57 PM: INFO - Time taken by get_data_from_api: 0.6012182235717773 seconds
+2024-01-22 08:30:57 PM: INFO - Load ISS data
+2024-01-22 08:30:57 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-0.061551872269922,longitude=10.072928107865,altitude=416.45364735378,velocity=27588.375081934,visibility="eclipsed",footprint=4489.377023955,timestamp=1705969856000000t,daynum=2460332.5214815,solar_lat=-19.605828671864,solar_lon=175.16246269449,units="kilometers",geolocated_address="Komo Department, Gabon" 1705969856000000000
+
+2024-01-22 08:31:57 PM: INFO - Fetch ISS data
+2024-01-22 08:31:57 PM: INFO - Time taken by get_data_from_api: 0.4586617946624756 seconds
+2024-01-22 08:31:57 PM: INFO - Transform ISS data
+2024-01-22 08:31:57 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:31:58 PM: INFO - Time taken by get_data_from_api: 0.9913101196289062 seconds
+2024-01-22 08:31:58 PM: INFO - Load ISS data
+2024-01-22 08:31:58 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-3.1717233088658,longitude=12.265543943486,altitude=417.11960569064,velocity=27585.815125676,visibility="eclipsed",footprint=4492.7801805454,timestamp=1705969917000000t,daynum=2460332.5221875,solar_lat=-19.605665795398,solar_lon=174.90834284168,units="kilometers",geolocated_address="Niari Department, Congo-Brazzaville" 1705969917000000000
+
+2024-01-22 08:32:59 PM: INFO - Fetch ISS data
+2024-01-22 08:32:59 PM: INFO - Time taken by get_data_from_api: 0.4345228672027588 seconds
+2024-01-22 08:32:59 PM: INFO - Transform ISS data
+2024-01-22 08:32:59 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:33:00 PM: INFO - Time taken by get_data_from_api: 0.9190390110015869 seconds
+2024-01-22 08:33:00 PM: INFO - Load ISS data
+2024-01-22 08:33:00 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-6.3260540907677,longitude=14.508681715675,altitude=417.90901750553,velocity=27583.038199508,visibility="eclipsed",footprint=4496.8101449708,timestamp=1705969979000000t,daynum=2460332.5229051,solar_lat=-19.605500245638,solar_lon=174.65005694236,units="kilometers",geolocated_address="Zaire Province, Angola" 1705969979000000000
+
+2024-01-22 08:34:00 PM: INFO - Fetch ISS data
+2024-01-22 08:34:01 PM: INFO - Time taken by get_data_from_api: 0.3751688003540039 seconds
+2024-01-22 08:34:01 PM: INFO - Transform ISS data
+2024-01-22 08:34:01 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:34:01 PM: INFO - Time taken by get_data_from_api: 0.8234210014343262 seconds
+2024-01-22 08:34:01 PM: INFO - Load ISS data
+2024-01-22 08:34:01 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-9.4671633922682,longitude=16.781682687383,altitude=418.80555648659,velocity=27580.101926143,visibility="eclipsed",footprint=4501.3816692811,timestamp=1705970041000000t,daynum=2460332.5236227,solar_lat=-19.605334692863,solar_lon=174.39177120899,units="kilometers",geolocated_address="Malanje Province, Angola" 1705970041000000000
+
+2024-01-22 08:35:01 PM: INFO - Fetch ISS data
+2024-01-22 08:35:02 PM: INFO - Time taken by get_data_from_api: 0.7765140533447266 seconds
+2024-01-22 08:35:02 PM: INFO - Transform ISS data
+2024-01-22 08:35:02 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:35:03 PM: INFO - Time taken by get_data_from_api: 0.8173997402191162 seconds
+2024-01-22 08:35:03 PM: INFO - Load ISS data
+2024-01-22 08:35:03 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-12.538289079928,longitude=19.062437029532,altitude=419.78401398998,velocity=27577.07702958,visibility="eclipsed",footprint=4506.3644574253,timestamp=1705970102000000t,daynum=2460332.5243287,solar_lat=-19.605171807236,solar_lon=174.13765135131,units="kilometers",geolocated_address="Moxico Province, Angola" 1705970102000000000
+
+2024-01-22 08:36:03 PM: INFO - Fetch ISS data
+2024-01-22 08:36:04 PM: INFO - Time taken by get_data_from_api: 0.4287381172180176 seconds
+2024-01-22 08:36:04 PM: INFO - Transform ISS data
+2024-01-22 08:36:04 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:36:05 PM: INFO - Time taken by get_data_from_api: 1.0244500637054443 seconds
+2024-01-22 08:36:05 PM: INFO - Load ISS data
+2024-01-22 08:36:05 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-15.633223529482,longitude=21.441959297199,altitude=420.86624867327,velocity=27573.886899561,visibility="eclipsed",footprint=4511.8679218941,timestamp=1705970164000000t,daynum=2460332.5250463,solar_lat=-19.605006248165,solar_lon=173.87936544704,units="kilometers",geolocated_address="Cuando Cubango Province, Angola" 1705970164000000000
+
+2024-01-22 08:37:05 PM: INFO - Fetch ISS data
+2024-01-22 08:37:05 PM: INFO - Time taken by get_data_from_api: 0.37206411361694336 seconds
+2024-01-22 08:37:05 PM: INFO - Transform ISS data
+2024-01-22 08:37:05 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:37:06 PM: INFO - Time taken by get_data_from_api: 0.9317541122436523 seconds
+2024-01-22 08:37:06 PM: INFO - Load ISS data
+2024-01-22 08:37:06 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-18.644861231647,longitude=23.860307528979,altitude=422.00563411281,velocity=27570.658922233,visibility="eclipsed",footprint=4517.6531838483,timestamp=1705970225000000t,daynum=2460332.5257523,solar_lat=-19.604843356448,solar_lon=173.62524558612,units="kilometers",geolocated_address="North-West District, Botswana" 1705970225000000000
+
+2024-01-22 08:38:06 PM: INFO - Fetch ISS data
+2024-01-22 08:38:07 PM: INFO - Time taken by get_data_from_api: 0.43532395362854004 seconds
+2024-01-22 08:38:07 PM: INFO - Transform ISS data
+2024-01-22 08:38:07 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:38:08 PM: INFO - Time taken by get_data_from_api: 0.9452581405639648 seconds
+2024-01-22 08:38:08 PM: INFO - Load ISS data
+2024-01-22 08:38:08 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-21.663833603093,longitude=26.415148534809,altitude=423.22600321205,velocity=27567.314406852,visibility="eclipsed",footprint=4523.8396365579,timestamp=1705970287000000t,daynum=2460332.5264699,solar_lat=-19.604677791295,solar_lon=173.36695984616,units="kilometers",geolocated_address="Central District, Botswana" 1705970287000000000
+
+2024-01-22 08:39:08 PM: INFO - Fetch ISS data
+2024-01-22 08:39:08 PM: INFO - Time taken by get_data_from_api: 0.37988901138305664 seconds
+2024-01-22 08:39:08 PM: INFO - Transform ISS data
+2024-01-22 08:39:08 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:39:09 PM: INFO - Time taken by get_data_from_api: 0.9014861583709717 seconds
+2024-01-22 08:39:09 PM: INFO - Load ISS data
+2024-01-22 08:39:09 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-24.583964642132,longitude=29.043424381368,altitude=424.47345583353,velocity=27563.989548422,visibility="eclipsed",footprint=4530.152732057,timestamp=1705970348000000t,daynum=2460332.5271759,solar_lat=-19.604514893375,solar_lon=173.11283981442,units="kilometers",geolocated_address="D2663, Mookgophong Ward 3, Mookgopong Local Municipality, South Africa" 1705970348000000000
+
+2024-01-22 08:40:09 PM: INFO - Fetch ISS data
+2024-01-22 08:40:10 PM: INFO - Time taken by get_data_from_api: 0.41518306732177734 seconds
+2024-01-22 08:40:10 PM: INFO - Transform ISS data
+2024-01-22 08:40:10 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:40:11 PM: INFO - Time taken by get_data_from_api: 0.8081130981445312 seconds
+2024-01-22 08:40:11 PM: INFO - Load ISS data
+2024-01-22 08:40:11 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-27.490924588717,longitude=31.852662368391,altitude=425.77295963637,velocity=27560.605668387,visibility="eclipsed",footprint=4536.717843923,timestamp=1705970410000000t,daynum=2460332.5278935,solar_lat=-19.60434932203,solar_lon=172.85455407118,units="kilometers",geolocated_address="uPhongolo Ward 14, uPhongolo Local Municipality, Zululand District Municipality, South Africa" 1705970410000000000
+
+2024-01-22 08:41:11 PM: INFO - Fetch ISS data
+2024-01-22 08:41:11 PM: INFO - Time taken by get_data_from_api: 0.49850893020629883 seconds
+2024-01-22 08:41:11 PM: INFO - Transform ISS data
+2024-01-22 08:41:11 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:41:12 PM: INFO - Time taken by get_data_from_api: 0.9333038330078125 seconds
+2024-01-22 08:41:12 PM: INFO - Load ISS data
+2024-01-22 08:41:12 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-30.279802688343,longitude=34.774793012673,altitude=427.06621746582,velocity=27557.302560343,visibility="eclipsed",footprint=4543.2398983731,timestamp=1705970471000000t,daynum=2460332.5285995,solar_lat=-19.604186418134,solar_lon=172.60043420378,units="kilometers",geolocated_address="Indian Ocean" 1705970471000000000
+
+2024-01-22 08:42:12 PM: INFO - Fetch ISS data
+2024-01-22 08:42:13 PM: INFO - Time taken by get_data_from_api: 0.46109604835510254 seconds
+2024-01-22 08:42:13 PM: INFO - Transform ISS data
+2024-01-22 08:42:13 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:42:14 PM: INFO - Time taken by get_data_from_api: 0.9159407615661621 seconds
+2024-01-22 08:42:14 PM: INFO - Load ISS data
+2024-01-22 08:42:14 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-33.029076251664,longitude=37.930331815549,altitude=428.3783722935,velocity=27554.003780169,visibility="eclipsed",footprint=4549.8455767668,timestamp=1705970533000000t,daynum=2460332.5293171,solar_lat=-19.604020840597,solar_lon=172.34214845726,units="kilometers",geolocated_address="Indian Ocean" 1705970533000000000
+
+2024-01-22 08:43:14 PM: INFO - Fetch ISS data
+2024-01-22 08:43:14 PM: INFO - Time taken by get_data_from_api: 0.4642488956451416 seconds
+2024-01-22 08:43:14 PM: INFO - Transform ISS data
+2024-01-22 08:43:14 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:43:15 PM: INFO - Time taken by get_data_from_api: 0.816478967666626 seconds
+2024-01-22 08:43:15 PM: INFO - Load ISS data
+2024-01-22 08:43:15 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-35.635566947751,longitude=41.243081415708,altitude=429.64998728534,velocity=27550.846997815,visibility="daylight",footprint=4556.2359965409,timestamp=1705970594000000t,daynum=2460332.5300231,solar_lat=-19.6038579305,solar_lon=172.08802841903,units="kilometers",geolocated_address="Indian Ocean" 1705970594000000000
+
+2024-01-22 08:44:15 PM: INFO - Fetch ISS data
+2024-01-22 08:44:16 PM: INFO - Time taken by get_data_from_api: 0.39093589782714844 seconds
+2024-01-22 08:44:16 PM: INFO - Transform ISS data
+2024-01-22 08:44:16 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:44:17 PM: INFO - Time taken by get_data_from_api: 0.8800661563873291 seconds
+2024-01-22 08:44:17 PM: INFO - Load ISS data
+2024-01-22 08:44:17 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-38.167791618276,longitude=44.848713359414,altitude=430.90533979368,velocity=27547.760293667,visibility="daylight",footprint=4562.5339500591,timestamp=1705970656000000t,daynum=2460332.5307407,solar_lat=-19.603692346775,solar_lon=171.82974266922,units="kilometers",geolocated_address="Indian Ocean" 1705970656000000000
+
+2024-01-22 08:45:17 PM: INFO - Fetch ISS data
+2024-01-22 08:45:17 PM: INFO - Time taken by get_data_from_api: 0.490429162979126 seconds
+2024-01-22 08:45:17 PM: INFO - Transform ISS data
+2024-01-22 08:45:17 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:45:18 PM: INFO - Time taken by get_data_from_api: 0.8085289001464844 seconds
+2024-01-22 08:45:18 PM: INFO - Load ISS data
+2024-01-22 08:45:18 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-40.525175699095,longitude=48.65732569036,altitude=432.08725643767,velocity=27544.873327006,visibility="daylight",footprint=4568.4537722092,timestamp=1705970717000000t,daynum=2460332.5314468,solar_lat=-19.603529430694,solar_lon=171.57562279536,units="kilometers",geolocated_address="Indian Ocean" 1705970717000000000
+
+2024-01-22 08:46:18 PM: INFO - Fetch ISS data
+2024-01-22 08:46:19 PM: INFO - Time taken by get_data_from_api: 0.4044222831726074 seconds
+2024-01-22 08:46:19 PM: INFO - Transform ISS data
+2024-01-22 08:46:19 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:46:19 PM: INFO - Time taken by get_data_from_api: 0.8507859706878662 seconds
+2024-01-22 08:46:19 PM: INFO - Load ISS data
+2024-01-22 08:46:19 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-42.763177852444,longitude=52.819087231153,altitude=433.21810205497,velocity=27542.120916076,visibility="daylight",footprint=4574.1090139563,timestamp=1705970779000000t,daynum=2460332.5321644,solar_lat=-19.60336384067,solar_lon=171.31733687466,units="kilometers",geolocated_address="Indian Ocean" 1705970779000000000
+
+2024-01-22 08:47:20 PM: INFO - Fetch ISS data
+2024-01-22 08:47:20 PM: INFO - Time taken by get_data_from_api: 0.46392107009887695 seconds
+2024-01-22 08:47:20 PM: INFO - Transform ISS data
+2024-01-22 08:47:20 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:47:21 PM: INFO - Time taken by get_data_from_api: 0.8270368576049805 seconds
+2024-01-22 08:47:21 PM: INFO - Load ISS data
+2024-01-22 08:47:21 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-44.785765278026,longitude=57.220499600536,altitude=434.24627464683,velocity=27539.619022306,visibility="daylight",footprint=4579.243371739,timestamp=1705970840000000t,daynum=2460332.5328704,solar_lat=-19.603200918503,solar_lon=171.06321699755,units="kilometers",geolocated_address="Indian Ocean" 1705970840000000000
+
+2024-01-22 08:48:21 PM: INFO - Fetch ISS data
+2024-01-22 08:48:22 PM: INFO - Time taken by get_data_from_api: 0.47054290771484375 seconds
+2024-01-22 08:48:22 PM: INFO - Transform ISS data
+2024-01-22 08:48:22 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:48:22 PM: INFO - Time taken by get_data_from_api: 0.8943748474121094 seconds
+2024-01-22 08:48:22 PM: INFO - Load ISS data
+2024-01-22 08:48:22 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-46.632636650655,longitude=62.019727527769,altitude=435.1912254684,velocity=27537.311265332,visibility="daylight",footprint=4583.9559307834,timestamp=1705970902000000t,daynum=2460332.533588,solar_lat=-19.603035322395,solar_lon=170.80493124118,units="kilometers",geolocated_address="Indian Ocean" 1705970902000000000
+
+2024-01-22 08:49:23 PM: INFO - Fetch ISS data
+2024-01-22 08:49:23 PM: INFO - Time taken by get_data_from_api: 0.466947078704834 seconds
+2024-01-22 08:49:23 PM: INFO - Transform ISS data
+2024-01-22 08:49:23 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:49:24 PM: INFO - Time taken by get_data_from_api: 0.9156851768493652 seconds
+2024-01-22 08:49:24 PM: INFO - Load ISS data
+2024-01-22 08:49:24 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-48.216599763601,longitude=67.064365924522,altitude=436.00991820519,velocity=27535.294750559,visibility="daylight",footprint=4588.0340297167,timestamp=1705970963000000t,daynum=2460332.534294,solar_lat=-19.602872394136,solar_lon=170.55081136085,units="kilometers",geolocated_address="Indian Ocean" 1705970963000000000
+
+2024-01-22 08:50:24 PM: INFO - Fetch ISS data
+2024-01-22 08:50:25 PM: INFO - Time taken by get_data_from_api: 0.46074604988098145 seconds
+2024-01-22 08:50:25 PM: INFO - Transform ISS data
+2024-01-22 08:50:25 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:50:25 PM: INFO - Time taken by get_data_from_api: 0.8623478412628174 seconds
+2024-01-22 08:50:25 PM: INFO - Load ISS data
+2024-01-22 08:50:25 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-49.560916101094,longitude=72.506495234883,altitude=436.71800917568,velocity=27533.523690381,visibility="daylight",footprint=4591.5576120529,timestamp=1705971025000000t,daynum=2460332.5350116,solar_lat=-19.602706791734,solar_lon=170.29252543356,units="kilometers",geolocated_address="Indian Ocean" 1705971025000000000
+
+2024-01-22 08:51:26 PM: INFO - Fetch ISS data
+2024-01-22 08:51:26 PM: INFO - Time taken by get_data_from_api: 0.6031959056854248 seconds
+2024-01-22 08:51:26 PM: INFO - Transform ISS data
+2024-01-22 08:51:26 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:51:27 PM: INFO - Time taken by get_data_from_api: 0.8423900604248047 seconds
+2024-01-22 08:51:27 PM: INFO - Load ISS data
+2024-01-22 08:51:27 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-50.595376388194,longitude=78.138335746491,altitude=437.28349631397,velocity=27532.072052872,visibility="daylight",footprint=4594.3691915581,timestamp=1705971086000000t,daynum=2460332.5357176,solar_lat=-19.602543857384,solar_lon=170.03840555,units="kilometers",geolocated_address="Indian Ocean" 1705971086000000000
+
+2024-01-22 08:52:27 PM: INFO - Fetch ISS data
+2024-01-22 08:52:28 PM: INFO - Time taken by get_data_from_api: 0.45899271965026855 seconds
+2024-01-22 08:52:28 PM: INFO - Transform ISS data
+2024-01-22 08:52:28 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:52:29 PM: INFO - Time taken by get_data_from_api: 0.8314499855041504 seconds
+2024-01-22 08:52:29 PM: INFO - Load ISS data
+2024-01-22 08:52:29 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-51.329862415209,longitude=84.090009770913,altitude=437.71753798912,velocity=27530.906076391,visibility="daylight",footprint=4596.5257974787,timestamp=1705971148000000t,daynum=2460332.5364352,solar_lat=-19.602378248899,solar_lon=169.78011978703,units="kilometers",geolocated_address="Indian Ocean" 1705971148000000000
+
+2024-01-22 08:53:29 PM: INFO - Fetch ISS data
+2024-01-22 08:53:29 PM: INFO - Time taken by get_data_from_api: 0.4479248523712158 seconds
+2024-01-22 08:53:29 PM: INFO - Transform ISS data
+2024-01-22 08:53:29 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:53:31 PM: INFO - Time taken by get_data_from_api: 1.5575981140136719 seconds
+2024-01-22 08:53:31 PM: ERROR - Invalid geolocation data format
+2024-01-22 08:53:31 PM: INFO - Load ISS data
+2024-01-22 08:53:31 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-51.722762641551,longitude=90.096194858805,altitude=438.00095910104,velocity=27530.073423974,visibility="daylight",footprint=4597.9333506542,timestamp=1705971209000000t,daynum=2460332.5371412,solar_lat=-19.602215308352,solar_lon=169.52599973262,units="kilometers",geolocated_address="" 1705971209000000000
+
+2024-01-22 08:54:31 PM: INFO - Fetch ISS data
+2024-01-22 08:54:32 PM: INFO - Time taken by get_data_from_api: 0.4571421146392822 seconds
+2024-01-22 08:54:32 PM: INFO - Transform ISS data
+2024-01-22 08:54:32 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:54:32 PM: INFO - Time taken by get_data_from_api: 0.8490440845489502 seconds
+2024-01-22 08:54:32 PM: INFO - Load ISS data
+2024-01-22 08:54:32 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-51.774432759777,longitude=96.363045732297,altitude=438.14094375734,velocity=27529.547697968,visibility="daylight",footprint=4598.6283607393,timestamp=1705971272000000t,daynum=2460332.5378704,solar_lat=-19.602047022461,solar_lon=169.26354808854,units="kilometers",geolocated_address="Indian Ocean" 1705971272000000000
+
+2024-01-22 08:55:33 PM: INFO - Fetch ISS data
+2024-01-22 08:55:33 PM: INFO - Time taken by get_data_from_api: 0.3982858657836914 seconds
+2024-01-22 08:55:33 PM: INFO - Transform ISS data
+2024-01-22 08:55:33 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:55:34 PM: INFO - Time taken by get_data_from_api: 0.8404717445373535 seconds
+2024-01-22 08:55:34 PM: INFO - Load ISS data
+2024-01-22 08:55:34 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-51.480264190335,longitude=102.39657791299,altitude=438.12774183086,velocity=27529.36502079,visibility="daylight",footprint=4598.5628199787,timestamp=1705971333000000t,daynum=2460332.5385764,solar_lat=-19.601884075883,solar_lon=169.00942819847,units="kilometers",geolocated_address="Indian Ocean" 1705971333000000000
+
+2024-01-22 08:56:34 PM: INFO - Fetch ISS data
+2024-01-22 08:56:35 PM: INFO - Time taken by get_data_from_api: 0.4994339942932129 seconds
+2024-01-22 08:56:35 PM: INFO - Transform ISS data
+2024-01-22 08:56:35 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:56:36 PM: INFO - Time taken by get_data_from_api: 1.0621302127838135 seconds
+2024-01-22 08:56:36 PM: INFO - Load ISS data
+2024-01-22 08:56:36 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-50.842271525095,longitude=108.40070376449,altitude=437.96573817295,velocity=27529.507334729,visibility="daylight",footprint=4597.7584618867,timestamp=1705971395000000t,daynum=2460332.539294,solar_lat=-19.601718454863,solar_lon=168.75114226129,units="kilometers",geolocated_address="Indian Ocean" 1705971395000000000
+
+2024-01-22 08:57:36 PM: INFO - Fetch ISS data
+2024-01-22 08:57:36 PM: INFO - Time taken by get_data_from_api: 0.5253000259399414 seconds
+2024-01-22 08:57:36 PM: INFO - Transform ISS data
+2024-01-22 08:57:36 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:57:37 PM: INFO - Time taken by get_data_from_api: 0.9349830150604248 seconds
+2024-01-22 08:57:37 PM: INFO - Load ISS data
+2024-01-22 08:57:37 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-49.896968008923,longitude=114.10339847475,altitude=437.66365980229,velocity=27529.965342393,visibility="daylight",footprint=4596.2581625727,timestamp=1705971456000000t,daynum=2460332.54,solar_lat=-19.601555502195,solar_lon=168.49702236799,units="kilometers",geolocated_address="Indian Ocean" 1705971456000000000
+
+2024-01-22 08:58:38 PM: INFO - Fetch ISS data
+2024-01-22 08:58:38 PM: INFO - Time taken by get_data_from_api: 0.5693581104278564 seconds
+2024-01-22 08:58:38 PM: INFO - Transform ISS data
+2024-01-22 08:58:38 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:58:39 PM: INFO - Time taken by get_data_from_api: 1.2490839958190918 seconds
+2024-01-22 08:58:39 PM: INFO - Load ISS data
+2024-01-22 08:58:39 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-48.636007838588,longitude=119.63093071539,altitude=437.2173117835,velocity=27530.745601341,visibility="daylight",footprint=4594.0402338482,timestamp=1705971518000000t,daynum=2460332.5407176,solar_lat=-19.601389875091,solar_lon=168.23873659514,units="kilometers",geolocated_address="Indian Ocean" 1705971518000000000
+
+2024-01-22 08:59:39 PM: INFO - Fetch ISS data
+2024-01-22 08:59:40 PM: INFO - Time taken by get_data_from_api: 0.5229289531707764 seconds
+2024-01-22 08:59:40 PM: INFO - Transform ISS data
+2024-01-22 08:59:40 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 08:59:41 PM: INFO - Time taken by get_data_from_api: 0.8578841686248779 seconds
+2024-01-22 08:59:41 PM: INFO - Load ISS data
+2024-01-22 08:59:41 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-47.099381994206,longitude=124.84833033561,altitude=436.63832146783,velocity=27531.831102071,visibility="daylight",footprint=4591.1612380449,timestamp=1705971580000000t,daynum=2460332.5414352,solar_lat=-19.601224244761,solar_lon=167.98045065302,units="kilometers",geolocated_address="Indian Ocean" 1705971580000000000
+
+2024-01-22 09:00:41 PM: INFO - Fetch ISS data
+2024-01-22 09:00:41 PM: INFO - Time taken by get_data_from_api: 0.45399904251098633 seconds
+2024-01-22 09:00:41 PM: INFO - Transform ISS data
+2024-01-22 09:00:41 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:00:42 PM: INFO - Time taken by get_data_from_api: 0.8158359527587891 seconds
+2024-01-22 09:00:42 PM: INFO - Load ISS data
+2024-01-22 09:00:42 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-45.34657946429,longitude=129.66063941704,altitude=435.94869956387,velocity=27533.181994719,visibility="daylight",footprint=4587.7292392626,timestamp=1705971641000000t,daynum=2460332.5421412,solar_lat=-19.601061282935,solar_lon=167.72633075486,units="kilometers",geolocated_address="Indian Ocean" 1705971641000000000
+
+2024-01-22 09:01:43 PM: INFO - Fetch ISS data
+2024-01-22 09:01:43 PM: INFO - Time taken by get_data_from_api: 0.46742701530456543 seconds
+2024-01-22 09:01:43 PM: INFO - Transform ISS data
+2024-01-22 09:01:43 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:01:44 PM: INFO - Time taken by get_data_from_api: 0.8664588928222656 seconds
+2024-01-22 09:01:44 PM: INFO - Load ISS data
+2024-01-22 09:01:44 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-43.34862824064,longitude=134.22411274889,altitude=435.13719649382,velocity=27534.824303336,visibility="daylight",footprint=4583.6866433275,timestamp=1705971703000000t,daynum=2460332.5428588,solar_lat=-19.600895646524,solar_lon=167.46804497705,units="kilometers",geolocated_address="Indian Ocean" 1705971703000000000
+
+2024-01-22 09:02:44 PM: INFO - Fetch ISS data
+2024-01-22 09:02:45 PM: INFO - Time taken by get_data_from_api: 0.7833430767059326 seconds
+2024-01-22 09:02:45 PM: INFO - Transform ISS data
+2024-01-22 09:02:45 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:02:46 PM: INFO - Time taken by get_data_from_api: 0.9009861946105957 seconds
+2024-01-22 09:02:46 PM: INFO - Load ISS data
+2024-01-22 09:02:46 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-41.15987287141,longitude=138.46842080542,altitude=434.22720836718,velocity=27536.716918237,visibility="daylight",footprint=4579.1482251881,timestamp=1705971765000000t,daynum=2460332.5435764,solar_lat=-19.600730006886,solar_lon=167.20975902998,units="kilometers",geolocated_address="Great Australian Bight" 1705971765000000000
+
+2024-01-22 09:03:46 PM: INFO - Fetch ISS data
+2024-01-22 09:03:46 PM: INFO - Time taken by get_data_from_api: 0.43645596504211426 seconds
+2024-01-22 09:03:46 PM: INFO - Transform ISS data
+2024-01-22 09:03:46 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:03:47 PM: INFO - Time taken by get_data_from_api: 0.8445718288421631 seconds
+2024-01-22 09:03:47 PM: INFO - Load ISS data
+2024-01-22 09:03:47 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-38.844831233619,longitude=142.35200307141,altitude=433.24973230909,velocity=27538.800323633,visibility="daylight",footprint=4574.2670704253,timestamp=1705971826000000t,daynum=2460332.5442824,solar_lat=-19.600567035899,solar_lon=166.95563912696,units="kilometers",geolocated_address="Great Australian Bight" 1705971826000000000
+
+2024-01-22 09:04:47 PM: INFO - Fetch ISS data
+2024-01-22 09:04:48 PM: INFO - Time taken by get_data_from_api: 0.46100592613220215 seconds
+2024-01-22 09:04:48 PM: INFO - Transform ISS data
+2024-01-22 09:04:48 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:04:48 PM: INFO - Time taken by get_data_from_api: 0.6301212310791016 seconds
+2024-01-22 09:04:48 PM: INFO - Load ISS data
+2024-01-22 09:04:48 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-36.3501272574,longitude=146.0266436558,altitude=432.18794408152,velocity=27541.117504708,visibility="daylight",footprint=4568.9576485044,timestamp=1705971888000000t,daynum=2460332.545,solar_lat=-19.60040139018,solar_lon=166.69735334421,units="kilometers",geolocated_address="159 Cleary Road, Taminick VIC 3726, Australia" 1705971888000000000
+
+2024-01-22 09:05:49 PM: INFO - Fetch ISS data
+2024-01-22 09:05:49 PM: INFO - Time taken by get_data_from_api: 0.44843077659606934 seconds
+2024-01-22 09:05:49 PM: INFO - Transform ISS data
+2024-01-22 09:05:49 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:05:50 PM: INFO - Time taken by get_data_from_api: 0.7665448188781738 seconds
+2024-01-22 09:05:50 PM: INFO - Load ISS data
+2024-01-22 09:05:50 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-33.775784066368,longitude=149.39994334655,altitude=431.09175131782,velocity=27543.567399761,visibility="daylight",footprint=4563.4682472301,timestamp=1705971949000000t,daynum=2460332.545706,solar_lat=-19.600238413108,solar_lon=166.44323343793,units="kilometers",geolocated_address="1926 Triangle Flat Road, Trunkey Creek NSW 2795, Australia" 1705971949000000000
+
+2024-01-22 09:06:50 PM: INFO - Fetch ISS data
+2024-01-22 09:06:51 PM: INFO - Time taken by get_data_from_api: 0.45615482330322266 seconds
+2024-01-22 09:06:51 PM: INFO - Transform ISS data
+2024-01-22 09:06:51 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:06:51 PM: INFO - Time taken by get_data_from_api: 0.7607269287109375 seconds
+2024-01-22 09:06:51 PM: INFO - Load ISS data
+2024-01-22 09:06:51 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-31.054947692941,longitude=152.6096587865,altitude=429.94170627334,velocity=27546.202303838,visibility="daylight",footprint=4557.7004659199,timestamp=1705972011000000t,daynum=2460332.5464236,solar_lat=-19.600072761091,solar_lon=166.18494748429,units="kilometers",geolocated_address="Kempsey Shire Council NSW 2440, Australia" 1705972011000000000
+
+2024-01-22 09:07:51 PM: INFO - Fetch ISS data
+2024-01-22 09:07:52 PM: INFO - Time taken by get_data_from_api: 0.48180723190307617 seconds
+2024-01-22 09:07:52 PM: INFO - Transform ISS data
+2024-01-22 09:07:52 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:07:53 PM: INFO - Time taken by get_data_from_api: 0.7616558074951172 seconds
+2024-01-22 09:07:53 PM: INFO - Load ISS data
+2024-01-22 09:07:53 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-28.290413223465,longitude=155.57814168492,altitude=428.79124855188,velocity=27548.909100579,visibility="daylight",footprint=4551.921663247,timestamp=1705972072000000t,daynum=2460332.5471296,solar_lat=-19.599909777929,solar_lon=165.93082757479,units="kilometers",geolocated_address="Coral Sea" 1705972072000000000
+
+2024-01-22 09:08:53 PM: INFO - Fetch ISS data
+2024-01-22 09:08:53 PM: INFO - Time taken by get_data_from_api: 0.44498705863952637 seconds
+2024-01-22 09:08:53 PM: INFO - Transform ISS data
+2024-01-22 09:08:53 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:08:55 PM: INFO - Time taken by get_data_from_api: 1.3138680458068848 seconds
+2024-01-22 09:08:55 PM: INFO - Load ISS data
+2024-01-22 09:08:55 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-25.452041935083,longitude=158.38309724739,altitude=427.63810471449,velocity=27551.70122002,visibility="daylight",footprint=4546.1203484217,timestamp=1705972133000000t,daynum=2460332.5478356,solar_lat=-19.599746791749,solar_lon=165.67670766368,units="kilometers",geolocated_address="Coral Sea" 1705972133000000000
+
+2024-01-22 09:09:55 PM: INFO - Fetch ISS data
+2024-01-22 09:09:55 PM: INFO - Time taken by get_data_from_api: 0.48622584342956543 seconds
+2024-01-22 09:09:55 PM: INFO - Transform ISS data
+2024-01-22 09:09:55 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:09:56 PM: INFO - Time taken by get_data_from_api: 0.755084753036499 seconds
+2024-01-22 09:09:56 PM: INFO - Load ISS data
+2024-01-22 09:09:56 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-22.503188963531,longitude=161.08984232659,altitude=426.47944767516,velocity=27554.597886257,visibility="daylight",footprint=4540.2821667373,timestamp=1705972195000000t,daynum=2460332.5485532,solar_lat=-19.599581130475,solar_lon=165.41842170511,units="kilometers",geolocated_address="Coral Sea" 1705972195000000000
+
+2024-01-22 09:10:56 PM: INFO - Fetch ISS data
+2024-01-22 09:10:57 PM: INFO - Time taken by get_data_from_api: 0.4078099727630615 seconds
+2024-01-22 09:10:57 PM: INFO - Transform ISS data
+2024-01-22 09:10:57 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:10:58 PM: INFO - Time taken by get_data_from_api: 0.9087469577789307 seconds
+2024-01-22 09:10:58 PM: INFO - Load ISS data
+2024-01-22 09:10:58 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-19.500341533589,longitude=163.67320229959,altitude=425.34998693016,velocity=27557.52536074,visibility="daylight",footprint=4534.582254054,timestamp=1705972257000000t,daynum=2460332.5492708,solar_lat=-19.599415466191,solar_lon=165.1601359125,units="kilometers",geolocated_address="North Province, France" 1705972257000000000
+
+2024-01-22 09:11:58 PM: INFO - Fetch ISS data
+2024-01-22 09:11:58 PM: INFO - Time taken by get_data_from_api: 0.4708559513092041 seconds
+2024-01-22 09:11:58 PM: INFO - Transform ISS data
+2024-01-22 09:11:58 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:11:59 PM: INFO - Time taken by get_data_from_api: 0.818443775177002 seconds
+2024-01-22 09:11:59 PM: INFO - Load ISS data
+2024-01-22 09:11:59 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-16.502322596401,longitude=166.11434255981,altitude=424.28163538615,velocity=27560.408925696,visibility="daylight",footprint=4529.1826679575,timestamp=1705972318000000t,daynum=2460332.5499769,solar_lat=-19.599252470853,solar_lon=164.90601599652,units="kilometers",geolocated_address="Coral Sea" 1705972318000000000
+
+2024-01-22 09:12:59 PM: INFO - Fetch ISS data
+2024-01-22 09:13:00 PM: INFO - Time taken by get_data_from_api: 0.4008510112762451 seconds
+2024-01-22 09:13:00 PM: INFO - Transform ISS data
+2024-01-22 09:13:00 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:13:00 PM: INFO - Time taken by get_data_from_api: 0.7799911499023438 seconds
+2024-01-22 09:13:00 PM: INFO - Load ISS data
+2024-01-22 09:13:00 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-13.419145285738,longitude=168.51202299235,altitude=423.25280956801,velocity=27563.317322716,visibility="daylight",footprint=4523.9754109541,timestamp=1705972380000000t,daynum=2460332.5506944,solar_lat=-19.599086800379,solar_lon=164.64773020062,units="kilometers",geolocated_address="South Pacific Ocean" 1705972380000000000
+
+2024-01-22 09:14:00 PM: INFO - Fetch ISS data
+2024-01-22 09:14:01 PM: INFO - Time taken by get_data_from_api: 0.46111297607421875 seconds
+2024-01-22 09:14:01 PM: INFO - Transform ISS data
+2024-01-22 09:14:01 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:14:02 PM: INFO - Time taken by get_data_from_api: 0.80837082862854 seconds
+2024-01-22 09:14:02 PM: INFO - Load ISS data
+2024-01-22 09:14:02 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-10.357672706691,longitude=170.8059984402,altitude=422.30846755049,velocity=27566.133192197,visibility="daylight",footprint=4519.1893100985,timestamp=1705972441000000t,daynum=2460332.5514005,solar_lat=-19.598923798844,solar_lon=164.3936101138,units="kilometers",geolocated_address="South Pacific Ocean" 1705972441000000000
+
+2024-01-22 09:15:02 PM: INFO - Fetch ISS data
+2024-01-22 09:15:02 PM: INFO - Time taken by get_data_from_api: 0.4534590244293213 seconds
+2024-01-22 09:15:02 PM: INFO - Transform ISS data
+2024-01-22 09:15:02 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:15:03 PM: INFO - Time taken by get_data_from_api: 0.947167158126831 seconds
+2024-01-22 09:15:03 PM: INFO - Load ISS data
+2024-01-22 09:15:03 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-7.2752071887117,longitude=173.05143789304,altitude=421.44157824727,velocity=27568.882442774,visibility="daylight",footprint=4514.7903040391,timestamp=1705972502000000t,daynum=2460332.5521065,solar_lat=-19.598760794399,solar_lon=164.13949019297,units="kilometers",geolocated_address="South Pacific Ocean" 1705972502000000000
+
+2024-01-22 09:16:03 PM: INFO - Fetch ISS data
+2024-01-22 09:16:04 PM: INFO - Time taken by get_data_from_api: 0.4568500518798828 seconds
+2024-01-22 09:16:04 PM: INFO - Transform ISS data
+2024-01-22 09:16:04 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:16:05 PM: INFO - Time taken by get_data_from_api: 0.814457893371582 seconds
+2024-01-22 09:16:05 PM: INFO - Load ISS data
+2024-01-22 09:16:05 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-4.1272480557048,longitude=175.29954063175,altitude=420.64843448607,velocity=27571.588907212,visibility="daylight",footprint=4510.7609339737,timestamp=1705972564000000t,daynum=2460332.5528241,solar_lat=-19.59859511467,solar_lon=163.88120439215,units="kilometers",geolocated_address="South Pacific Ocean" 1705972564000000000
+
+2024-01-22 09:17:05 PM: INFO - Fetch ISS data
+2024-01-22 09:17:05 PM: INFO - Time taken by get_data_from_api: 0.4618239402770996 seconds
+2024-01-22 09:17:05 PM: INFO - Transform ISS data
+2024-01-22 09:17:05 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:17:06 PM: INFO - Time taken by get_data_from_api: 1.0286967754364014 seconds
+2024-01-22 09:17:06 PM: INFO - Load ISS data
+2024-01-22 09:17:06 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-1.0215141000787,longitude=177.49259654967,altitude=419.96120545903,velocity=27574.148476936,visibility="daylight",footprint=4507.2660860736,timestamp=1705972625000000t,daynum=2460332.5535301,solar_lat=-19.598432104028,solar_lon=163.62708430049,units="kilometers",geolocated_address="South Pacific Ocean" 1705972625000000000
+
+2024-01-22 09:18:07 PM: INFO - Fetch ISS data
+2024-01-22 09:18:07 PM: INFO - Time taken by get_data_from_api: 0.38585615158081055 seconds
+2024-01-22 09:18:07 PM: INFO - Transform ISS data
+2024-01-22 09:18:07 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:18:08 PM: INFO - Time taken by get_data_from_api: 0.8897528648376465 seconds
+2024-01-22 09:18:08 PM: INFO - Load ISS data
+2024-01-22 09:18:08 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=2.1376595292226,longitude=179.71733548653,altitude=419.36208018704,velocity=27576.630594703,visibility="daylight",footprint=4504.2165859879,timestamp=1705972687000000t,daynum=2460332.5542477,solar_lat=-19.598266418111,solar_lon=163.36879849637,units="kilometers",geolocated_address="North Pacific Ocean" 1705972687000000000
+
+2024-01-22 09:19:22 PM: INFO - Fetch ISS data
+2024-01-22 09:19:22 PM: INFO - Time taken by get_data_from_api: 0.5721368789672852 seconds
+2024-01-22 09:19:22 PM: INFO - Transform ISS data
+2024-01-22 09:19:22 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:19:23 PM: INFO - Time taken by get_data_from_api: 0.9868228435516357 seconds
+2024-01-22 09:19:23 PM: INFO - Load ISS data
+2024-01-22 09:19:23 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=5.9538046529401,longitude=-177.57589219857,altitude=418.77488199178,velocity=27579.45568535,visibility="daylight",footprint=4501.2253509857,timestamp=1705972762000000t,daynum=2460332.5551157,solar_lat=-19.598065987395,solar_lon=163.05635593511,units="kilometers",geolocated_address="North Pacific Ocean" 1705972762000000000
+
+2024-01-22 09:20:23 PM: INFO - Fetch ISS data
+2024-01-22 09:20:24 PM: INFO - Time taken by get_data_from_api: 0.403609037399292 seconds
+2024-01-22 09:20:24 PM: INFO - Transform ISS data
+2024-01-22 09:20:24 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:20:25 PM: INFO - Time taken by get_data_from_api: 0.6460180282592773 seconds
+2024-01-22 09:20:25 PM: INFO - Load ISS data
+2024-01-22 09:20:25 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=9.0965119280034,longitude=-175.30748201326,altitude=418.40359538797,velocity=27581.634236967,visibility="daylight",footprint=4499.3327368753,timestamp=1705972824000000t,daynum=2460332.5558333,solar_lat=-19.597900294586,solar_lon=162.79807012733,units="kilometers",geolocated_address="North Pacific Ocean" 1705972824000000000
+
+2024-01-22 09:21:25 PM: INFO - Fetch ISS data
+2024-01-22 09:21:25 PM: INFO - Time taken by get_data_from_api: 0.4962928295135498 seconds
+2024-01-22 09:21:25 PM: INFO - Transform ISS data
+2024-01-22 09:21:25 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:21:26 PM: INFO - Time taken by get_data_from_api: 0.827430248260498 seconds
+2024-01-22 09:21:26 PM: INFO - Load ISS data
+2024-01-22 09:21:26 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=12.171124700837,longitude=-173.03216157836,altitude=418.13722044433,velocity=27583.633361628,visibility="daylight",footprint=4497.9743069309,timestamp=1705972885000000t,daynum=2460332.5565394,solar_lat=-19.597737271078,solar_lon=162.54395002882,units="kilometers",geolocated_address="North Pacific Ocean" 1705972885000000000
+
+2024-01-22 09:22:26 PM: INFO - Fetch ISS data
+2024-01-22 09:22:27 PM: INFO - Time taken by get_data_from_api: 0.4249577522277832 seconds
+2024-01-22 09:22:27 PM: INFO - Transform ISS data
+2024-01-22 09:22:27 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:22:33 PM: INFO - Time taken by get_data_from_api: 5.881211042404175 seconds
+2024-01-22 09:22:33 PM: INFO - Load ISS data
+2024-01-22 09:22:33 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=15.271561643913,longitude=-170.65912993878,altitude=417.9631654534,velocity=27585.516105642,visibility="daylight",footprint=4497.0864102949,timestamp=1705972947000000t,daynum=2460332.5572569,solar_lat=-19.597571572078,solar_lon=162.28566421777,units="kilometers",geolocated_address="North Pacific Ocean" 1705972947000000000
+
+2024-01-22 09:23:33 PM: INFO - Fetch ISS data
+2024-01-22 09:23:33 PM: INFO - Time taken by get_data_from_api: 0.4518880844116211 seconds
+2024-01-22 09:23:33 PM: INFO - Transform ISS data
+2024-01-22 09:23:33 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:23:34 PM: INFO - Time taken by get_data_from_api: 0.852196216583252 seconds
+2024-01-22 09:23:34 PM: INFO - Load ISS data
+2024-01-22 09:23:34 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=18.536399899672,longitude=-168.04662487854,altitude=417.87851524358,velocity=27587.355338755,visibility="daylight",footprint=4496.6545119254,timestamp=1705973013000000t,daynum=2460332.5580208,solar_lat=-19.597395179345,solar_lon=162.01071472306,units="kilometers",geolocated_address="North Pacific Ocean" 1705973013000000000
+
+2024-01-22 09:24:34 PM: INFO - Fetch ISS data
+2024-01-22 09:24:35 PM: INFO - Time taken by get_data_from_api: 0.6803791522979736 seconds
+2024-01-22 09:24:35 PM: INFO - Transform ISS data
+2024-01-22 09:24:35 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:24:36 PM: INFO - Time taken by get_data_from_api: 1.5261120796203613 seconds
+2024-01-22 09:24:36 PM: INFO - Load ISS data
+2024-01-22 09:24:36 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=21.561205283722,longitude=-165.49163438978,altitude=417.88560083983,velocity=27588.931067289,visibility="daylight",footprint=4496.6906656626,timestamp=1705973075000000t,daynum=2460332.5587384,solar_lat=-19.597229473909,solar_lon=161.75242890858,units="kilometers",geolocated_address="North Pacific Ocean" 1705973075000000000
+
+2024-01-22 09:25:36 PM: INFO - Fetch ISS data
+2024-01-22 09:25:37 PM: INFO - Time taken by get_data_from_api: 0.76528000831604 seconds
+2024-01-22 09:25:37 PM: INFO - Transform ISS data
+2024-01-22 09:25:37 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:25:38 PM: INFO - Time taken by get_data_from_api: 0.9125781059265137 seconds
+2024-01-22 09:25:38 PM: INFO - Load ISS data
+2024-01-22 09:25:38 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=24.535803763995,longitude=-162.81839081901,altitude=417.967342768,velocity=27590.364759488,visibility="daylight",footprint=4497.1077222878,timestamp=1705973137000000t,daynum=2460332.559456,solar_lat=-19.597063765248,solar_lon=161.49414292482,units="kilometers",geolocated_address="North Pacific Ocean" 1705973137000000000
+
+2024-01-22 09:26:38 PM: INFO - Fetch ISS data
+2024-01-22 09:26:39 PM: INFO - Time taken by get_data_from_api: 0.6179549694061279 seconds
+2024-01-22 09:26:39 PM: INFO - Transform ISS data
+2024-01-22 09:26:39 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:26:40 PM: INFO - Time taken by get_data_from_api: 1.1019010543823242 seconds
+2024-01-22 09:26:40 PM: INFO - Load ISS data
+2024-01-22 09:26:40 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=27.449879650109,longitude=-160.00506911324,altitude=418.11339623111,velocity=27591.663613273,visibility="daylight",footprint=4497.8527864604,timestamp=1705973199000000t,daynum=2460332.5601736,solar_lat=-19.596898053574,solar_lon=161.23585710702,units="kilometers",geolocated_address="North Pacific Ocean" 1705973199000000000
+
+2024-01-22 09:27:40 PM: INFO - Fetch ISS data
+2024-01-22 09:27:41 PM: INFO - Time taken by get_data_from_api: 0.5828616619110107 seconds
+2024-01-22 09:27:41 PM: INFO - Transform ISS data
+2024-01-22 09:27:41 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:27:42 PM: INFO - Time taken by get_data_from_api: 0.8756661415100098 seconds
+2024-01-22 09:27:42 PM: INFO - Load ISS data
+2024-01-22 09:27:42 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=30.291746486902,longitude=-157.0280693016,altitude=418.31239313502,velocity=27592.836545463,visibility="daylight",footprint=4498.8676897863,timestamp=1705973261000000t,daynum=2460332.5608912,solar_lat=-19.596732338783,solar_lon=160.97757128755,units="kilometers",geolocated_address="North Pacific Ocean" 1705973261000000000
+
+2024-01-22 09:28:42 PM: INFO - Fetch ISS data
+2024-01-22 09:28:42 PM: INFO - Time taken by get_data_from_api: 0.45926403999328613 seconds
+2024-01-22 09:28:42 PM: INFO - Transform ISS data
+2024-01-22 09:28:42 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:28:43 PM: INFO - Time taken by get_data_from_api: 0.6275210380554199 seconds
+2024-01-22 09:28:43 PM: INFO - Load ISS data
+2024-01-22 09:28:43 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=33.004366632416,longitude=-153.91474299303,altitude=418.54808366862,velocity=27593.877653002,visibility="daylight",footprint=4500.0693735831,timestamp=1705973322000000t,daynum=2460332.5615972,solar_lat=-19.596569293754,solar_lon=160.72345134515,units="kilometers",geolocated_address="North Pacific Ocean" 1705973322000000000
+
+2024-01-22 09:29:43 PM: INFO - Fetch ISS data
+2024-01-22 09:29:43 PM: INFO - Time taken by get_data_from_api: 0.4047970771789551 seconds
+2024-01-22 09:29:43 PM: INFO - Transform ISS data
+2024-01-22 09:29:43 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:29:44 PM: INFO - Time taken by get_data_from_api: 0.8784241676330566 seconds
+2024-01-22 09:29:44 PM: INFO - Load ISS data
+2024-01-22 09:29:44 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=35.619652877055,longitude=-150.59284734344,altitude=418.81129195287,velocity=27594.817586865,visibility="daylight",footprint=4501.4108966836,timestamp=1705973383000000t,daynum=2460332.5623032,solar_lat=-19.596406245598,solar_lon=160.46933123355,units="kilometers",geolocated_address="North Pacific Ocean" 1705973383000000000
+
+2024-01-22 09:30:44 PM: INFO - Fetch ISS data
+2024-01-22 09:30:45 PM: INFO - Time taken by get_data_from_api: 0.6689238548278809 seconds
+2024-01-22 09:30:45 PM: INFO - Transform ISS data
+2024-01-22 09:30:45 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:30:46 PM: INFO - Time taken by get_data_from_api: 0.794586181640625 seconds
+2024-01-22 09:30:46 PM: INFO - Load ISS data
+2024-01-22 09:30:46 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=38.160938908676,longitude=-146.97546229396,altitude=419.09446610374,velocity=27595.680956348,visibility="daylight",footprint=4502.8536384581,timestamp=1705973445000000t,daynum=2460332.5630208,solar_lat=-19.596240521552,solar_lon=160.21104540916,units="kilometers",geolocated_address="North Pacific Ocean" 1705973445000000000
+
+2024-01-22 09:31:46 PM: INFO - Fetch ISS data
+2024-01-22 09:31:47 PM: INFO - Time taken by get_data_from_api: 0.4513380527496338 seconds
+2024-01-22 09:31:47 PM: INFO - Transform ISS data
+2024-01-22 09:31:47 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:31:47 PM: INFO - Time taken by get_data_from_api: 0.8681080341339111 seconds
+2024-01-22 09:31:47 PM: INFO - Load ISS data
+2024-01-22 09:31:47 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=40.564593621174,longitude=-143.08745270156,altitude=419.38079361794,velocity=27596.463720715,visibility="daylight",footprint=4504.3118739274,timestamp=1705973507000000t,daynum=2460332.5637384,solar_lat=-19.596074794386,solar_lon=159.95275958312,units="kilometers",geolocated_address="North Pacific Ocean" 1705973507000000000
+
+2024-01-22 09:32:48 PM: INFO - Fetch ISS data
+2024-01-22 09:32:48 PM: INFO - Time taken by get_data_from_api: 0.4602928161621094 seconds
+2024-01-22 09:32:48 PM: INFO - Transform ISS data
+2024-01-22 09:32:48 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:32:49 PM: INFO - Time taken by get_data_from_api: 0.8083462715148926 seconds
+2024-01-22 09:32:49 PM: INFO - Load ISS data
+2024-01-22 09:32:49 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=42.773279955363,longitude=-138.97274076961,altitude=419.65361945555,velocity=27597.166898698,visibility="daylight",footprint=4505.700811866,timestamp=1705973568000000t,daynum=2460332.5644444,solar_lat=-19.595911737075,solar_lon=159.69863946664,units="kilometers",geolocated_address="North Pacific Ocean" 1705973568000000000
+
+2024-01-22 09:33:49 PM: INFO - Fetch ISS data
+2024-01-22 09:33:49 PM: INFO - Time taken by get_data_from_api: 0.4010312557220459 seconds
+2024-01-22 09:33:49 PM: INFO - Transform ISS data
+2024-01-22 09:33:49 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:33:50 PM: INFO - Time taken by get_data_from_api: 0.7910730838775635 seconds
+2024-01-22 09:33:50 PM: INFO - Load ISS data
+2024-01-22 09:33:50 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=44.802932551785,longitude=-134.55004519236,altitude=419.90644540366,velocity=27597.81473498,visibility="daylight",footprint=4506.9874661342,timestamp=1705973629000000t,daynum=2460332.5651505,solar_lat=-19.595748676854,solar_lon=159.44451951617,units="kilometers",geolocated_address="North Pacific Ocean" 1705973629000000000
+
+2024-01-22 09:34:50 PM: INFO - Fetch ISS data
+2024-01-22 09:34:51 PM: INFO - Time taken by get_data_from_api: 0.4629042148590088 seconds
+2024-01-22 09:34:51 PM: INFO - Transform ISS data
+2024-01-22 09:34:51 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:34:52 PM: INFO - Time taken by get_data_from_api: 0.8488609790802002 seconds
+2024-01-22 09:34:52 PM: INFO - Load ISS data
+2024-01-22 09:34:52 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=46.655399711259,longitude=-129.72526785543,altitude=420.13233198538,velocity=27598.427005946,visibility="daylight",footprint=4508.1366450146,timestamp=1705973691000000t,daynum=2460332.5658681,solar_lat=-19.595582940433,solar_lon=159.1862336852,units="kilometers",geolocated_address="North Pacific Ocean" 1705973691000000000
+
+2024-01-22 09:35:52 PM: INFO - Fetch ISS data
+2024-01-22 09:35:52 PM: INFO - Time taken by get_data_from_api: 0.45203518867492676 seconds
+2024-01-22 09:35:52 PM: INFO - Transform ISS data
+2024-01-22 09:35:52 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:35:53 PM: INFO - Time taken by get_data_from_api: 0.9349617958068848 seconds
+2024-01-22 09:35:53 PM: INFO - Load ISS data
+2024-01-22 09:35:53 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=48.242760333982,longitude=-124.65165873092,altitude=420.31465405117,velocity=27598.993193737,visibility="daylight",footprint=4509.0639327943,timestamp=1705973752000000t,daynum=2460332.5665741,solar_lat=-19.595419874123,solar_lon=158.9321137315,units="kilometers",geolocated_address="Clallam, WA, United States of America" 1705973752000000000
+
+2024-01-22 09:36:53 PM: INFO - Fetch ISS data
+2024-01-22 09:36:54 PM: INFO - Time taken by get_data_from_api: 0.3675060272216797 seconds
+2024-01-22 09:36:54 PM: INFO - Transform ISS data
+2024-01-22 09:36:54 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:36:55 PM: INFO - Time taken by get_data_from_api: 0.9184060096740723 seconds
+2024-01-22 09:36:55 PM: INFO - Load ISS data
+2024-01-22 09:36:55 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=49.587823259152,longitude=-119.17658724764,altitude=420.45115972258,velocity=27599.539857896,visibility="daylight",footprint=4509.7580468305,timestamp=1705973814000000t,daynum=2460332.5672917,solar_lat=-19.595254131411,solar_lon=158.67382772963,units="kilometers",geolocated_address="McCullough Snowmobile Trails, Area E (Beaverdell/West Boundary), BC, Canada" 1705973814000000000
+
+2024-01-22 09:37:55 PM: INFO - Fetch ISS data
+2024-01-22 09:37:55 PM: INFO - Time taken by get_data_from_api: 0.464555025100708 seconds
+2024-01-22 09:37:55 PM: INFO - Transform ISS data
+2024-01-22 09:37:55 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:37:56 PM: INFO - Time taken by get_data_from_api: 0.9206769466400146 seconds
+2024-01-22 09:37:56 PM: INFO - Load ISS data
+2024-01-22 09:37:56 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=50.619853597772,longitude=-113.50975365099,altitude=420.53085081249,velocity=27600.055534193,visibility="daylight",footprint=4510.1632057268,timestamp=1705973875000000t,daynum=2460332.5679977,solar_lat=-19.595091059014,solar_lon=158.41970777269,units="kilometers",geolocated_address="Range Road 262, Foothills County, AB, Canada" 1705973875000000000
+
+2024-01-22 09:38:56 PM: INFO - Fetch ISS data
+2024-01-22 09:38:57 PM: INFO - Time taken by get_data_from_api: 0.4387640953063965 seconds
+2024-01-22 09:38:57 PM: INFO - Transform ISS data
+2024-01-22 09:38:57 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:38:58 PM: INFO - Time taken by get_data_from_api: 0.8470051288604736 seconds
+2024-01-22 09:38:58 PM: INFO - Load ISS data
+2024-01-22 09:38:58 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=51.348261672906,longitude=-107.5212614225,altitude=420.55123810039,velocity=27600.561538958,visibility="daylight",footprint=4510.2668499755,timestamp=1705973937000000t,daynum=2460332.5687153,solar_lat=-19.594925310223,solar_lon=158.16142193514,units="kilometers",geolocated_address="Milden No. 286, SK, Canada" 1705973937000000000
+
+2024-01-22 09:39:58 PM: INFO - Fetch ISS data
+2024-01-22 09:39:58 PM: INFO - Time taken by get_data_from_api: 0.44370317459106445 seconds
+2024-01-22 09:39:58 PM: INFO - Transform ISS data
+2024-01-22 09:39:58 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:39:59 PM: INFO - Time taken by get_data_from_api: 0.8666958808898926 seconds
+2024-01-22 09:39:59 PM: INFO - Load ISS data
+2024-01-22 09:39:59 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=51.731434229874,longitude=-101.47934443052,altitude=420.50838311371,velocity=27601.043852214,visibility="eclipsed",footprint=4510.0489817883,timestamp=1705973998000000t,daynum=2460332.5694213,solar_lat=-19.594762231634,solar_lon=157.90730180735,units="kilometers",geolocated_address="Rural Municipality of Swan Valley West, MB R0L 0C0, Canada" 1705973998000000000
+
+2024-01-22 09:40:59 PM: INFO - Fetch ISS data
+2024-01-22 09:41:00 PM: INFO - Time taken by get_data_from_api: 0.430178165435791 seconds
+2024-01-22 09:41:00 PM: INFO - Transform ISS data
+2024-01-22 09:41:00 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:41:01 PM: INFO - Time taken by get_data_from_api: 1.077225923538208 seconds
+2024-01-22 09:41:01 PM: INFO - Load ISS data
+2024-01-22 09:41:01 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=51.771454598177,longitude=-95.278036585057,altitude=420.39935473575,velocity=27601.518476853,visibility="eclipsed",footprint=4509.4946403719,timestamp=1705974060000000t,daynum=2460332.5701389,solar_lat=-19.594596476653,solar_lon=157.64901596653,units="kilometers",geolocated_address="Unorganized Division No. 19, MB, Canada" 1705974060000000000
+
+2024-01-22 09:42:01 PM: INFO - Fetch ISS data
+2024-01-22 09:42:01 PM: INFO - Time taken by get_data_from_api: 0.46426820755004883 seconds
+2024-01-22 09:42:01 PM: INFO - Transform ISS data
+2024-01-22 09:42:01 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:42:03 PM: INFO - Time taken by get_data_from_api: 1.0740323066711426 seconds
+2024-01-22 09:42:03 PM: INFO - Load ISS data
+2024-01-22 09:42:03 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=51.465924068305,longitude=-89.213867009485,altitude=420.22800311349,velocity=27601.968121397,visibility="eclipsed",footprint=4508.6232561774,timestamp=1705974121000000t,daynum=2460332.5708449,solar_lat=-19.594433392086,solar_lon=157.3948960031,units="kilometers",geolocated_address="Unorganized Kenora District, ON, Canada" 1705974121000000000
+
+2024-01-22 09:43:03 PM: INFO - Fetch ISS data
+2024-01-22 09:43:03 PM: INFO - Time taken by get_data_from_api: 0.46588897705078125 seconds
+2024-01-22 09:43:03 PM: INFO - Transform ISS data
+2024-01-22 09:43:03 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:43:04 PM: INFO - Time taken by get_data_from_api: 0.9211142063140869 seconds
+2024-01-22 09:43:04 PM: INFO - Load ISS data
+2024-01-22 09:43:04 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=50.813185355048,longitude=-83.182521634871,altitude=419.99091928093,velocity=27602.403292379,visibility="eclipsed",footprint=4507.4172616373,timestamp=1705974183000000t,daynum=2460332.5715625,solar_lat=-19.594267630815,solar_lon=157.13660999137,units="kilometers",geolocated_address="Unorganized North Cochrane, ON, Canada" 1705974183000000000
+
+2024-01-22 09:44:04 PM: INFO - Fetch ISS data
+2024-01-22 09:44:05 PM: INFO - Time taken by get_data_from_api: 0.5661478042602539 seconds
+2024-01-22 09:44:05 PM: INFO - Transform ISS data
+2024-01-22 09:44:05 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:44:06 PM: INFO - Time taken by get_data_from_api: 0.8182461261749268 seconds
+2024-01-22 09:44:06 PM: INFO - Load ISS data
+2024-01-22 09:44:06 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=49.83242125428,longitude=-77.365978576447,altitude=419.69448382028,velocity=27602.809992201,visibility="eclipsed",footprint=4505.908804672,timestamp=1705974245000000t,daynum=2460332.5722801,solar_lat=-19.594101866531,solar_lon=156.87832414559,units="kilometers",geolocated_address="Eeyou Istchee James Bay, QC, Canada" 1705974245000000000
+
+2024-01-22 09:45:06 PM: INFO - Fetch ISS data
+2024-01-22 09:45:06 PM: INFO - Time taken by get_data_from_api: 0.46770310401916504 seconds
+2024-01-22 09:45:06 PM: INFO - Transform ISS data
+2024-01-22 09:45:06 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:45:07 PM: INFO - Time taken by get_data_from_api: 0.8909788131713867 seconds
+2024-01-22 09:45:07 PM: INFO - Load ISS data
+2024-01-22 09:45:07 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=48.570232252078,longitude=-71.912785112336,altitude=419.35062234283,velocity=27603.174049928,visibility="eclipsed",footprint=4504.1582419537,timestamp=1705974306000000t,daynum=2460332.5729861,solar_lat=-19.59393877281,solar_lon=156.62420417729,units="kilometers",geolocated_address="Lac-Saint-Jean-Est, QC, Canada" 1705974306000000000
+
+2024-01-22 09:46:07 PM: INFO - Fetch ISS data
+2024-01-22 09:46:08 PM: INFO - Time taken by get_data_from_api: 0.46089982986450195 seconds
+2024-01-22 09:46:08 PM: INFO - Transform ISS data
+2024-01-22 09:46:08 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:46:09 PM: INFO - Time taken by get_data_from_api: 0.9195647239685059 seconds
+2024-01-22 09:46:09 PM: INFO - Load ISS data
+2024-01-22 09:46:09 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=47.012575686394,longitude=-66.68281137519,altitude=418.95552846985,velocity=27603.497092936,visibility="eclipsed",footprint=4502.145836564,timestamp=1705974368000000t,daynum=2460332.5737037,solar_lat=-19.59377300234,solar_lon=156.36591832823,units="kilometers",geolocated_address="Southesk Parish, NB, Canada" 1705974368000000000
+
+2024-01-22 09:47:09 PM: INFO - Fetch ISS data
+2024-01-22 09:47:09 PM: INFO - Time taken by get_data_from_api: 0.4596688747406006 seconds
+2024-01-22 09:47:09 PM: INFO - Transform ISS data
+2024-01-22 09:47:09 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:47:10 PM: INFO - Time taken by get_data_from_api: 0.7114667892456055 seconds
+2024-01-22 09:47:10 PM: INFO - Load ISS data
+2024-01-22 09:47:10 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=45.238176560829,longitude=-61.862283230556,altitude=418.53072939188,velocity=27603.756997017,visibility="eclipsed",footprint=4499.9809049824,timestamp=1705974429000000t,daynum=2460332.5744097,solar_lat=-19.593609902425,solar_lon=156.1117981891,units="kilometers",geolocated_address="West Side Country Harbour, NS, Canada" 1705974429000000000
+
+2024-01-22 09:48:10 PM: INFO - Fetch ISS data
+2024-01-22 09:48:11 PM: INFO - Time taken by get_data_from_api: 0.47414708137512207 seconds
+2024-01-22 09:48:11 PM: INFO - Transform ISS data
+2024-01-22 09:48:11 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:48:11 PM: INFO - Time taken by get_data_from_api: 0.8098251819610596 seconds
+2024-01-22 09:48:11 PM: INFO - Load ISS data
+2024-01-22 09:48:11 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=43.21785515331,longitude=-57.293939648784,altitude=418.07260479377,velocity=27603.948934101,visibility="eclipsed",footprint=4497.6447117684,timestamp=1705974491000000t,daynum=2460332.5751273,solar_lat=-19.593444125772,solar_lon=155.85351233673,units="kilometers",geolocated_address="North Atlantic Ocean" 1705974491000000000
+
+2024-01-22 09:49:12 PM: INFO - Fetch ISS data
+2024-01-22 09:49:12 PM: INFO - Time taken by get_data_from_api: 0.438295841217041 seconds
+2024-01-22 09:49:12 PM: INFO - Transform ISS data
+2024-01-22 09:49:12 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:49:13 PM: INFO - Time taken by get_data_from_api: 0.839993953704834 seconds
+2024-01-22 09:49:13 PM: INFO - Load ISS data
+2024-01-22 09:49:13 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=41.043764409336,longitude=-53.113522640238,altitude=417.60712220621,velocity=27604.052585399,visibility="eclipsed",footprint=4495.2694823045,timestamp=1705974552000000t,daynum=2460332.5758333,solar_lat=-19.593281019878,solar_lon=155.59939236197,units="kilometers",geolocated_address="North Atlantic Ocean" 1705974552000000000
+
+2024-01-22 09:50:13 PM: INFO - Fetch ISS data
+2024-01-22 09:50:14 PM: INFO - Time taken by get_data_from_api: 0.470020055770874 seconds
+2024-01-22 09:50:14 PM: INFO - Transform ISS data
+2024-01-22 09:50:14 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:50:15 PM: INFO - Time taken by get_data_from_api: 1.009247064590454 seconds
+2024-01-22 09:50:15 PM: INFO - Load ISS data
+2024-01-22 09:50:15 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=38.669993677941,longitude=-49.163732102225,altitude=417.13135293474,velocity=27604.056159288,visibility="eclipsed",footprint=4492.8401827369,timestamp=1705974614000000t,daynum=2460332.5765509,solar_lat=-19.593115236932,solar_lon=155.34110633871,units="kilometers",geolocated_address="North Atlantic Ocean" 1705974614000000000
+
+2024-01-22 09:51:15 PM: INFO - Fetch ISS data
+2024-01-22 09:51:15 PM: INFO - Time taken by get_data_from_api: 0.4677309989929199 seconds
+2024-01-22 09:51:15 PM: INFO - Transform ISS data
+2024-01-22 09:51:15 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:51:16 PM: INFO - Time taken by get_data_from_api: 0.9126179218292236 seconds
+2024-01-22 09:51:16 PM: INFO - Load ISS data
+2024-01-22 09:51:16 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=36.195448347124,longitude=-45.547472798972,altitude=416.67334809796,velocity=27603.944292128,visibility="eclipsed",footprint=4490.5000778228,timestamp=1705974675000000t,daynum=2460332.5772569,solar_lat=-19.592952124952,solar_lon=155.08698636071,units="kilometers",geolocated_address="North Atlantic Ocean" 1705974675000000000
+
+2024-01-22 09:52:16 PM: INFO - Fetch ISS data
+2024-01-22 09:52:17 PM: INFO - Time taken by get_data_from_api: 0.40186524391174316 seconds
+2024-01-22 09:52:17 PM: INFO - Transform ISS data
+2024-01-22 09:52:17 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:52:18 PM: INFO - Time taken by get_data_from_api: 0.9757041931152344 seconds
+2024-01-22 09:52:18 PM: INFO - Load ISS data
+2024-01-22 09:52:18 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=33.559208800219,longitude=-42.11896840699,altitude=416.23145357388,velocity=27603.697721285,visibility="eclipsed",footprint=4488.2408785189,timestamp=1705974737000000t,daynum=2460332.5779745,solar_lat=-19.592786335927,solar_lon=154.82870050177,units="kilometers",geolocated_address="North Atlantic Ocean" 1705974737000000000
+
+2024-01-22 09:53:18 PM: INFO - Fetch ISS data
+2024-01-22 09:53:18 PM: INFO - Time taken by get_data_from_api: 0.44869208335876465 seconds
+2024-01-22 09:53:18 PM: INFO - Transform ISS data
+2024-01-22 09:53:18 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:53:19 PM: INFO - Time taken by get_data_from_api: 0.8337929248809814 seconds
+2024-01-22 09:53:19 PM: INFO - Load ISS data
+2024-01-22 09:53:19 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=30.863678687197,longitude=-38.961846548207,altitude=415.83310102716,velocity=27603.309509412,visibility="eclipsed",footprint=4486.203102381,timestamp=1705974798000000t,daynum=2460332.5786806,solar_lat=-19.592623217863,solar_lon=154.57458052053,units="kilometers",geolocated_address="North Atlantic Ocean" 1705974798000000000
+
+2024-01-22 09:54:19 PM: INFO - Fetch ISS data
+2024-01-22 09:54:20 PM: INFO - Time taken by get_data_from_api: 0.4550189971923828 seconds
+2024-01-22 09:54:20 PM: INFO - Transform ISS data
+2024-01-22 09:54:20 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:54:21 PM: INFO - Time taken by get_data_from_api: 0.8223350048065186 seconds
+2024-01-22 09:54:21 PM: INFO - Load ISS data
+2024-01-22 09:54:21 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=28.035990321303,longitude=-35.945815018816,altitude=415.4785139028,velocity=27602.752481251,visibility="eclipsed",footprint=4484.3882609247,timestamp=1705974860000000t,daynum=2460332.5793981,solar_lat=-19.592457422547,solar_lon=154.31629449069,units="kilometers",geolocated_address="North Atlantic Ocean" 1705974860000000000
+
+2024-01-22 09:55:21 PM: INFO - Fetch ISS data
+2024-01-22 09:55:21 PM: INFO - Time taken by get_data_from_api: 0.38646578788757324 seconds
+2024-01-22 09:55:21 PM: INFO - Transform ISS data
+2024-01-22 09:55:21 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:55:22 PM: INFO - Time taken by get_data_from_api: 0.7934520244598389 seconds
+2024-01-22 09:55:22 PM: INFO - Load ISS data
+2024-01-22 09:55:22 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=25.180628053979,longitude=-33.143341865291,altitude=415.19167449405,velocity=27602.031602044,visibility="eclipsed",footprint=4482.9195107007,timestamp=1705974921000000t,daynum=2460332.5801042,solar_lat=-19.592294298398,solar_lon=154.06217450621,units="kilometers",geolocated_address="North Atlantic Ocean" 1705974921000000000
+
+2024-01-22 09:56:22 PM: INFO - Fetch ISS data
+2024-01-22 09:56:23 PM: INFO - Time taken by get_data_from_api: 0.46602702140808105 seconds
+2024-01-22 09:56:23 PM: INFO - Transform ISS data
+2024-01-22 09:56:23 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:56:23 PM: INFO - Time taken by get_data_from_api: 0.5628068447113037 seconds
+2024-01-22 09:56:23 PM: INFO - Load ISS data
+2024-01-22 09:56:23 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=22.215856593442,longitude=-30.43885889468,altitude=414.97525095787,velocity=27601.111478976,visibility="eclipsed",footprint=4481.8109347653,timestamp=1705974983000000t,daynum=2460332.5808218,solar_lat=-19.592128497003,solar_lon=153.80388864069,units="kilometers",geolocated_address="North Atlantic Ocean" 1705974983000000000
+
+2024-01-22 09:57:23 PM: INFO - Fetch ISS data
+2024-01-22 09:57:24 PM: INFO - Time taken by get_data_from_api: 0.46456480026245117 seconds
+2024-01-22 09:57:24 PM: INFO - Transform ISS data
+2024-01-22 09:57:24 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:57:24 PM: INFO - Time taken by get_data_from_api: 0.6471238136291504 seconds
+2024-01-22 09:57:24 PM: INFO - Load ISS data
+2024-01-22 09:57:24 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=19.247567643513,longitude=-27.898134731611,altitude=414.8470470189,velocity=27600.012130179,visibility="eclipsed",footprint=4481.1540845534,timestamp=1705975044000000t,daynum=2460332.5815278,solar_lat=-19.59196536666,solar_lon=153.54976848537,units="kilometers",geolocated_address="North Atlantic Ocean" 1705975044000000000
+
+2024-01-22 09:58:25 PM: INFO - Fetch ISS data
+2024-01-22 09:58:25 PM: INFO - Time taken by get_data_from_api: 0.46354103088378906 seconds
+2024-01-22 09:58:25 PM: INFO - Transform ISS data
+2024-01-22 09:58:25 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:58:26 PM: INFO - Time taken by get_data_from_api: 0.8110239505767822 seconds
+2024-01-22 09:58:26 PM: INFO - Load ISS data
+2024-01-22 09:58:26 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=16.237416962839,longitude=-25.456877605208,altitude=414.81239563503,velocity=27598.712842572,visibility="eclipsed",footprint=4480.9765288094,timestamp=1705975105000000t,daynum=2460332.5822338,solar_lat=-19.591802233408,solar_lon=153.29564849605,units="kilometers",geolocated_address="North Atlantic Ocean" 1705975105000000000
+
+2024-01-22 09:59:26 PM: INFO - Fetch ISS data
+2024-01-22 09:59:27 PM: INFO - Time taken by get_data_from_api: 0.4726998805999756 seconds
+2024-01-22 09:59:27 PM: INFO - Transform ISS data
+2024-01-22 09:59:27 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 09:59:27 PM: INFO - Time taken by get_data_from_api: 0.5116400718688965 seconds
+2024-01-22 09:59:27 PM: INFO - Load ISS data
+2024-01-22 09:59:27 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=13.143362941063,longitude=-23.05881529446,altitude=414.88130426468,velocity=27597.182215372,visibility="eclipsed",footprint=4481.3296123013,timestamp=1705975167000000t,daynum=2460332.5829514,solar_lat=-19.59163642276,solar_lon=153.03736262561,units="kilometers",geolocated_address="North Atlantic Ocean" 1705975167000000000
+
+2024-01-22 10:00:27 PM: INFO - Fetch ISS data
+2024-01-22 10:00:28 PM: INFO - Time taken by get_data_from_api: 0.4655330181121826 seconds
+2024-01-22 10:00:28 PM: INFO - Transform ISS data
+2024-01-22 10:00:28 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:00:29 PM: INFO - Time taken by get_data_from_api: 0.9559850692749023 seconds
+2024-01-22 10:00:29 PM: INFO - Load ISS data
+2024-01-22 10:00:29 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=10.072692276642,longitude=-20.764134246839,altitude=415.0580279833,velocity=27595.467217113,visibility="eclipsed",footprint=4482.2349789437,timestamp=1705975228000000t,daynum=2460332.5836574,solar_lat=-19.591473283423,solar_lon=152.78324263305,units="kilometers",geolocated_address="North Atlantic Ocean" 1705975228000000000
+
+2024-01-22 10:01:29 PM: INFO - Fetch ISS data
+2024-01-22 10:01:29 PM: INFO - Time taken by get_data_from_api: 0.39422106742858887 seconds
+2024-01-22 10:01:29 PM: INFO - Transform ISS data
+2024-01-22 10:01:29 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:01:30 PM: INFO - Time taken by get_data_from_api: 0.8769159317016602 seconds
+2024-01-22 10:01:30 PM: INFO - Load ISS data
+2024-01-22 10:01:30 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=6.9825748180256,longitude=-18.517599715696,altitude=415.3474165208,velocity=27593.545308464,visibility="eclipsed",footprint=4483.7170544001,timestamp=1705975289000000t,daynum=2460332.5843634,solar_lat=-19.59131014096,solar_lon=152.52912247128,units="kilometers",geolocated_address="North Atlantic Ocean" 1705975289000000000
+
+2024-01-22 10:02:30 PM: INFO - Fetch ISS data
+2024-01-22 10:02:31 PM: INFO - Time taken by get_data_from_api: 0.38227105140686035 seconds
+2024-01-22 10:02:31 PM: INFO - Transform ISS data
+2024-01-22 10:02:31 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:02:31 PM: INFO - Time taken by get_data_from_api: 0.5869669914245605 seconds
+2024-01-22 10:02:31 PM: INFO - Load ISS data
+2024-01-22 10:02:31 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=3.8284832158268,longitude=-16.267940785853,altitude=415.75974984837,velocity=27591.383394643,visibility="eclipsed",footprint=4485.8277509636,timestamp=1705975351000000t,daynum=2460332.585081,solar_lat=-19.591144321061,solar_lon=152.27083659592,units="kilometers",geolocated_address="North Atlantic Ocean" 1705975351000000000
+
+2024-01-22 10:03:32 PM: INFO - Fetch ISS data
+2024-01-22 10:03:32 PM: INFO - Time taken by get_data_from_api: 0.46102380752563477 seconds
+2024-01-22 10:03:32 PM: INFO - Transform ISS data
+2024-01-22 10:03:32 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:03:33 PM: INFO - Time taken by get_data_from_api: 0.8999691009521484 seconds
+2024-01-22 10:03:33 PM: INFO - Load ISS data
+2024-01-22 10:03:33 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=0.71837974728576,longitude=-14.072877422195,altitude=416.28239305229,velocity=27589.057772834,visibility="eclipsed",footprint=4488.5013787241,timestamp=1705975412000000t,daynum=2460332.585787,solar_lat=-19.590981172622,solar_lon=152.01671659852,units="kilometers",geolocated_address="North Atlantic Ocean" 1705975412000000000
+
+2024-01-22 10:04:33 PM: INFO - Fetch ISS data
+2024-01-22 10:04:34 PM: INFO - Time taken by get_data_from_api: 0.4602029323577881 seconds
+2024-01-22 10:04:34 PM: INFO - Transform ISS data
+2024-01-22 10:04:34 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:04:35 PM: INFO - Time taken by get_data_from_api: 0.9414899349212646 seconds
+2024-01-22 10:04:35 PM: INFO - Load ISS data
+2024-01-22 10:04:35 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-2.4435109234847,longitude=-11.845574209062,altitude=416.93101459068,velocity=27586.502101635,visibility="eclipsed",footprint=4491.8167675019,timestamp=1705975474000000t,daynum=2460332.5865046,solar_lat=-19.590815346432,solar_lon=151.75843055225,units="kilometers",geolocated_address="South Atlantic Ocean" 1705975474000000000
+
+2024-01-22 10:05:35 PM: INFO - Fetch ISS data
+2024-01-22 10:05:35 PM: INFO - Time taken by get_data_from_api: 0.37543392181396484 seconds
+2024-01-22 10:05:35 PM: INFO - Transform ISS data
+2024-01-22 10:05:35 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:05:36 PM: INFO - Time taken by get_data_from_api: 0.8844709396362305 seconds
+2024-01-22 10:05:36 PM: INFO - Load ISS data
+2024-01-22 10:05:36 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-5.5491610903123,longitude=-9.643402412765,altitude=417.6811398703,velocity=27583.811636272,visibility="eclipsed",footprint=4495.6472762273,timestamp=1705975535000000t,daynum=2460332.5872106,solar_lat=-19.590652191905,solar_lon=151.50431055162,units="kilometers",geolocated_address="South Atlantic Ocean" 1705975535000000000
+
+2024-01-22 10:06:36 PM: INFO - Fetch ISS data
+2024-01-22 10:06:38 PM: INFO - Time taken by get_data_from_api: 1.5286531448364258 seconds
+2024-01-22 10:06:38 PM: INFO - Transform ISS data
+2024-01-22 10:06:38 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:06:39 PM: INFO - Time taken by get_data_from_api: 0.9888181686401367 seconds
+2024-01-22 10:06:39 PM: INFO - Load ISS data
+2024-01-22 10:06:39 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-8.7447466964661,longitude=-7.3423713166594,altitude=418.56649648217,velocity=27580.866383108,visibility="eclipsed",footprint=4500.163236075,timestamp=1705975598000000t,daynum=2460332.5879398,solar_lat=-19.590483684915,solar_lon=151.24185878995,units="kilometers",geolocated_address="South Atlantic Ocean" 1705975598000000000
+
+2024-01-22 10:07:39 PM: INFO - Fetch ISS data
+2024-01-22 10:07:40 PM: INFO - Time taken by get_data_from_api: 0.5643510818481445 seconds
+2024-01-22 10:07:40 PM: INFO - Transform ISS data
+2024-01-22 10:07:40 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:07:40 PM: INFO - Time taken by get_data_from_api: 0.8722741603851318 seconds
+2024-01-22 10:07:40 PM: INFO - Load ISS data
+2024-01-22 10:07:40 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-11.871218681565,longitude=-5.0356938571534,altitude=419.53954879128,velocity=27577.822225835,visibility="eclipsed",footprint=4505.1201492767,timestamp=1705975660000000t,daynum=2460332.5886574,solar_lat=-19.590317849374,solar_lon=150.98357273871,units="kilometers",geolocated_address="South Atlantic Ocean" 1705975660000000000
+
+2024-01-22 10:08:41 PM: INFO - Fetch ISS data
+2024-01-22 10:08:41 PM: INFO - Time taken by get_data_from_api: 0.46059203147888184 seconds
+2024-01-22 10:08:41 PM: INFO - Transform ISS data
+2024-01-22 10:08:41 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:08:42 PM: INFO - Time taken by get_data_from_api: 0.7590219974517822 seconds
+2024-01-22 10:08:42 PM: INFO - Load ISS data
+2024-01-22 10:08:42 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-14.922727101219,longitude=-2.709522691605,altitude=420.58572712485,velocity=27574.707878085,visibility="eclipsed",footprint=4510.4421775763,timestamp=1705975721000000t,daynum=2460332.5893634,solar_lat=-19.590154685648,solar_lon=150.72945273318,units="kilometers",geolocated_address="South Atlantic Ocean" 1705975721000000000
+
+2024-01-22 10:09:42 PM: INFO - Fetch ISS data
+2024-01-22 10:09:43 PM: INFO - Time taken by get_data_from_api: 0.4884459972381592 seconds
+2024-01-22 10:09:43 PM: INFO - Transform ISS data
+2024-01-22 10:09:43 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:09:43 PM: INFO - Time taken by get_data_from_api: 0.8874759674072266 seconds
+2024-01-22 10:09:43 PM: INFO - Load ISS data
+2024-01-22 10:09:43 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-17.992028771189,longitude=-0.27063478710504,altitude=421.7277389388,velocity=27571.445713675,visibility="eclipsed",footprint=4516.2429964673,timestamp=1705975783000000t,daynum=2460332.590081,solar_lat=-19.58998884403,solar_lon=150.47116684625,units="kilometers",geolocated_address="South Atlantic Ocean" 1705975783000000000
+
+2024-01-22 10:10:44 PM: INFO - Fetch ISS data
+2024-01-22 10:10:44 PM: INFO - Time taken by get_data_from_api: 0.433790922164917 seconds
+2024-01-22 10:10:44 PM: INFO - Transform ISS data
+2024-01-22 10:10:44 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:10:45 PM: INFO - Time taken by get_data_from_api: 0.8561301231384277 seconds
+2024-01-22 10:10:45 PM: INFO - Load ISS data
+2024-01-22 10:10:45 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-20.97234189567,longitude=2.2199983809789,altitude=422.91583389924,velocity=27568.167085013,visibility="eclipsed",footprint=4522.2682648408,timestamp=1705975844000000t,daynum=2460332.590787,solar_lat=-19.589825674218,solar_lon=150.21704683749,units="kilometers",geolocated_address="South Atlantic Ocean" 1705975844000000000
+
+2024-01-22 10:11:45 PM: INFO - Fetch ISS data
+2024-01-22 10:11:46 PM: INFO - Time taken by get_data_from_api: 0.5688209533691406 seconds
+2024-01-22 10:11:46 PM: INFO - Transform ISS data
+2024-01-22 10:11:46 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:11:48 PM: INFO - Time taken by get_data_from_api: 2.6623499393463135 seconds
+2024-01-22 10:11:48 PM: INFO - Load ISS data
+2024-01-22 10:11:48 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-23.952610737571,longitude=4.8634853057504,altitude=424.17439078322,velocity=27564.793056141,visibility="eclipsed",footprint=4528.6402057168,timestamp=1705975906000000t,daynum=2460332.5915046,solar_lat=-19.589659826309,solar_lon=149.95876077967,units="kilometers",geolocated_address="South Atlantic Ocean" 1705975906000000000
+
+2024-01-22 10:12:48 PM: INFO - Fetch ISS data
+2024-01-22 10:12:49 PM: INFO - Time taken by get_data_from_api: 0.49548792839050293 seconds
+2024-01-22 10:12:49 PM: INFO - Transform ISS data
+2024-01-22 10:12:49 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:12:50 PM: INFO - Time taken by get_data_from_api: 0.789679765701294 seconds
+2024-01-22 10:12:50 PM: INFO - Load ISS data
+2024-01-22 10:12:50 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-26.920255520023,longitude=7.6870956079739,altitude=425.48957421236,velocity=27561.352809173,visibility="eclipsed",footprint=4535.2871662706,timestamp=1705975969000000t,daynum=2460332.5922338,solar_lat=-19.589491300364,solar_lon=149.69630900792,units="kilometers",geolocated_address="South Atlantic Ocean" 1705975969000000000
+
+2024-01-22 10:13:50 PM: INFO - Fetch ISS data
+2024-01-22 10:13:50 PM: INFO - Time taken by get_data_from_api: 0.4425010681152344 seconds
+2024-01-22 10:13:50 PM: INFO - Transform ISS data
+2024-01-22 10:13:50 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:13:51 PM: INFO - Time taken by get_data_from_api: 0.8075451850891113 seconds
+2024-01-22 10:13:51 PM: INFO - Load ISS data
+2024-01-22 10:13:51 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-29.724343150308,longitude=10.5757486955,altitude=426.78135648051,velocity=27558.041491445,visibility="eclipsed",footprint=4541.8042930631,timestamp=1705976030000000t,daynum=2460332.5929398,solar_lat=-19.589328121248,solar_lon=149.44218882664,units="kilometers",geolocated_address="South Atlantic Ocean" 1705976030000000000
+
+2024-01-22 10:14:51 PM: INFO - Fetch ISS data
+2024-01-22 10:14:52 PM: INFO - Time taken by get_data_from_api: 0.4463620185852051 seconds
+2024-01-22 10:14:52 PM: INFO - Transform ISS data
+2024-01-22 10:14:52 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:14:53 PM: INFO - Time taken by get_data_from_api: 0.8233981132507324 seconds
+2024-01-22 10:14:53 PM: INFO - Load ISS data
+2024-01-22 10:14:53 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-32.491793938637,longitude=13.692212279347,altitude=428.09554502875,velocity=27554.727725535,visibility="eclipsed",footprint=4548.4227532517,timestamp=1705976092000000t,daynum=2460332.5936574,solar_lat=-19.589162264094,solar_lon=149.18390293145,units="kilometers",geolocated_address="South Atlantic Ocean" 1705976092000000000
+
+2024-01-22 10:15:53 PM: INFO - Fetch ISS data
+2024-01-22 10:15:53 PM: INFO - Time taken by get_data_from_api: 0.4046199321746826 seconds
+2024-01-22 10:15:53 PM: INFO - Transform ISS data
+2024-01-22 10:15:53 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:15:54 PM: INFO - Time taken by get_data_from_api: 0.8334262371063232 seconds
+2024-01-22 10:15:54 PM: INFO - Load ISS data
+2024-01-22 10:15:54 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-35.119226814865,longitude=16.961297393981,altitude=429.37265719401,velocity=27551.549686999,visibility="daylight",footprint=4554.8432271089,timestamp=1705976153000000t,daynum=2460332.5943634,solar_lat=-19.588999078999,solar_lon=148.92978291455,units="kilometers",geolocated_address="South Atlantic Ocean" 1705976153000000000
+
+2024-01-22 10:16:54 PM: INFO - Fetch ISS data
+2024-01-22 10:16:55 PM: INFO - Time taken by get_data_from_api: 0.4623727798461914 seconds
+2024-01-22 10:16:55 PM: INFO - Transform ISS data
+2024-01-22 10:16:55 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:16:55 PM: INFO - Time taken by get_data_from_api: 0.5530049800872803 seconds
+2024-01-22 10:16:55 PM: INFO - Load ISS data
+2024-01-22 10:16:55 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-37.676294083308,longitude=20.517129153662,altitude=430.63711251527,velocity=27548.434871121,visibility="daylight",footprint=4561.1891800228,timestamp=1705976215000000t,daynum=2460332.595081,solar_lat=-19.588833215662,solar_lon=148.67149701607,units="kilometers",geolocated_address="Indian Ocean" 1705976215000000000
+
+2024-01-22 10:17:55 PM: INFO - Fetch ISS data
+2024-01-22 10:17:56 PM: INFO - Time taken by get_data_from_api: 0.45897603034973145 seconds
+2024-01-22 10:17:56 PM: INFO - Transform ISS data
+2024-01-22 10:17:56 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:17:57 PM: INFO - Time taken by get_data_from_api: 0.7898221015930176 seconds
+2024-01-22 10:17:57 PM: INFO - Load ISS data
+2024-01-22 10:17:57 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-40.06209817717,longitude=24.271532119977,altitude=431.83134716167,velocity=27545.514048153,visibility="daylight",footprint=4567.1728059201,timestamp=1705976276000000t,daynum=2460332.595787,solar_lat=-19.588670024378,solar_lon=148.41737682832,units="kilometers",geolocated_address="Indian Ocean" 1705976276000000000
+
+2024-01-22 10:18:57 PM: INFO - Fetch ISS data
+2024-01-22 10:18:57 PM: INFO - Time taken by get_data_from_api: 0.43981480598449707 seconds
+2024-01-22 10:18:57 PM: INFO - Transform ISS data
+2024-01-22 10:18:57 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:18:58 PM: INFO - Time taken by get_data_from_api: 0.8428502082824707 seconds
+2024-01-22 10:18:58 PM: INFO - Load ISS data
+2024-01-22 10:18:58 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-42.298250079356,longitude=28.304822077206,altitude=432.96009908381,velocity=27542.764717457,visibility="daylight",footprint=4572.8195223403,timestamp=1705976337000000t,daynum=2460332.5964931,solar_lat=-19.588506830184,solar_lon=148.16325680657,units="kilometers",geolocated_address="Indian Ocean" 1705976337000000000
+
+2024-01-22 10:19:58 PM: INFO - Fetch ISS data
+2024-01-22 10:19:59 PM: INFO - Time taken by get_data_from_api: 0.467116117477417 seconds
+2024-01-22 10:19:59 PM: INFO - Transform ISS data
+2024-01-22 10:19:59 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:19:59 PM: INFO - Time taken by get_data_from_api: 0.6319890022277832 seconds
+2024-01-22 10:19:59 PM: INFO - Load ISS data
+2024-01-22 10:19:59 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-44.393982230837,longitude=32.71217751006,altitude=434.0246710227,velocity=27540.174052029,visibility="daylight",footprint=4578.1373523936,timestamp=1705976399000000t,daynum=2460332.5972106,solar_lat=-19.588340957595,solar_lon=147.90497090317,units="kilometers",geolocated_address="Indian Ocean" 1705976399000000000
+
+2024-01-22 10:21:00 PM: INFO - Fetch ISS data
+2024-01-22 10:21:00 PM: INFO - Time taken by get_data_from_api: 0.7231969833374023 seconds
+2024-01-22 10:21:00 PM: INFO - Transform ISS data
+2024-01-22 10:21:00 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:21:01 PM: INFO - Time taken by get_data_from_api: 0.533613920211792 seconds
+2024-01-22 10:21:01 PM: INFO - Load ISS data
+2024-01-22 10:21:01 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-46.256065998512,longitude=37.366790282149,altitude=434.97650326992,velocity=27537.851192259,visibility="daylight",footprint=4582.8856126393,timestamp=1705976460000000t,daynum=2460332.5979167,solar_lat=-19.588177757211,solar_lon=147.65085071058,units="kilometers",geolocated_address="Indian Ocean" 1705976460000000000
+
+2024-01-22 10:22:01 PM: INFO - Fetch ISS data
+2024-01-22 10:22:02 PM: INFO - Time taken by get_data_from_api: 0.5916268825531006 seconds
+2024-01-22 10:22:02 PM: INFO - Transform ISS data
+2024-01-22 10:22:02 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:22:02 PM: INFO - Time taken by get_data_from_api: 0.8042349815368652 seconds
+2024-01-22 10:22:02 PM: INFO - Load ISS data
+2024-01-22 10:22:02 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-47.917586024987,longitude=42.42644909815,altitude=435.83365418621,velocity=27535.743699287,visibility="daylight",footprint=4587.1563933521,timestamp=1705976522000000t,daynum=2460332.5986343,solar_lat=-19.588011878442,solar_lon=147.39256480387,units="kilometers",geolocated_address="Indian Ocean" 1705976522000000000
+
+2024-01-22 10:23:02 PM: INFO - Fetch ISS data
+2024-01-22 10:23:03 PM: INFO - Time taken by get_data_from_api: 0.39136481285095215 seconds
+2024-01-22 10:23:03 PM: INFO - Transform ISS data
+2024-01-22 10:23:03 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:23:04 PM: INFO - Time taken by get_data_from_api: 0.8525879383087158 seconds
+2024-01-22 10:23:04 PM: INFO - Load ISS data
+2024-01-22 10:23:04 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-49.296860338176,longitude=47.718463605248,altitude=436.55717503853,velocity=27533.940060283,visibility="daylight",footprint=4590.7575650575,timestamp=1705976583000000t,daynum=2460332.5993403,solar_lat=-19.587848672081,solar_lon=147.13844477565,units="kilometers",geolocated_address="Indian Ocean" 1705976583000000000
+
+2024-01-22 10:24:04 PM: INFO - Fetch ISS data
+2024-01-22 10:24:04 PM: INFO - Time taken by get_data_from_api: 0.4573357105255127 seconds
+2024-01-22 10:24:04 PM: INFO - Transform ISS data
+2024-01-22 10:24:04 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:24:05 PM: INFO - Time taken by get_data_from_api: 0.8209309577941895 seconds
+2024-01-22 10:24:05 PM: INFO - Load ISS data
+2024-01-22 10:24:05 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-50.395720936311,longitude=53.294205619048,altitude=437.15238739235,velocity=27532.421464999,visibility="daylight",footprint=4593.7175113245,timestamp=1705976644000000t,daynum=2460332.6000463,solar_lat=-19.587685462702,solar_lon=146.88432474582,units="kilometers",geolocated_address="Indian Ocean" 1705976644000000000
+
+2024-01-22 10:25:05 PM: INFO - Fetch ISS data
+2024-01-22 10:25:06 PM: INFO - Time taken by get_data_from_api: 0.46916699409484863 seconds
+2024-01-22 10:25:06 PM: INFO - Transform ISS data
+2024-01-22 10:25:06 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:25:07 PM: INFO - Time taken by get_data_from_api: 0.8962488174438477 seconds
+2024-01-22 10:25:07 PM: INFO - Load ISS data
+2024-01-22 10:25:07 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-51.200431684882,longitude=59.202440873276,altitude=437.61810258732,velocity=27531.184566939,visibility="daylight",footprint=4596.031846393,timestamp=1705976706000000t,daynum=2460332.6007639,solar_lat=-19.587519574575,solar_lon=146.6260386666,units="kilometers",geolocated_address="Indian Ocean" 1705976706000000000
+
+2024-01-22 10:26:07 PM: INFO - Fetch ISS data
+2024-01-22 10:26:07 PM: INFO - Time taken by get_data_from_api: 0.4592559337615967 seconds
+2024-01-22 10:26:07 PM: INFO - Transform ISS data
+2024-01-22 10:26:07 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:26:08 PM: INFO - Time taken by get_data_from_api: 0.9220988750457764 seconds
+2024-01-22 10:26:08 PM: INFO - Load ISS data
+2024-01-22 10:26:08 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-51.665716331407,longitude=65.183259370853,altitude=437.93366863406,velocity=27530.280099524,visibility="daylight",footprint=4597.5992141694,timestamp=1705976767000000t,daynum=2460332.6014699,solar_lat=-19.587356359115,solar_lon=146.37191863353,units="kilometers",geolocated_address="Indian Ocean" 1705976767000000000
+
+2024-01-22 10:27:08 PM: INFO - Fetch ISS data
+2024-01-22 10:27:09 PM: INFO - Time taken by get_data_from_api: 0.46680402755737305 seconds
+2024-01-22 10:27:09 PM: INFO - Transform ISS data
+2024-01-22 10:27:09 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:27:10 PM: INFO - Time taken by get_data_from_api: 0.8639428615570068 seconds
+2024-01-22 10:27:10 PM: INFO - Load ISS data
+2024-01-22 10:27:10 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-51.794488225164,longitude=71.345207984924,altitude=438.10584305547,velocity=27529.685803492,visibility="daylight",footprint=4598.4541013159,timestamp=1705976829000000t,daynum=2460332.6021875,solar_lat=-19.587190464912,solar_lon=146.11363271862,units="kilometers",geolocated_address="Indian Ocean" 1705976829000000000
+
+2024-01-22 10:28:10 PM: INFO - Fetch ISS data
+2024-01-22 10:28:10 PM: INFO - Time taken by get_data_from_api: 0.4689450263977051 seconds
+2024-01-22 10:28:10 PM: INFO - Transform ISS data
+2024-01-22 10:28:10 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:28:11 PM: INFO - Time taken by get_data_from_api: 0.806948184967041 seconds
+2024-01-22 10:28:11 PM: INFO - Load ISS data
+2024-01-22 10:28:11 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-51.57289394352,longitude=77.493835490885,altitude=438.12686918671,velocity=27529.422794706,visibility="daylight",footprint=4598.5584877098,timestamp=1705976891000000t,daynum=2460332.6029051,solar_lat=-19.587024567487,solar_lon=145.85534663443,units="kilometers",geolocated_address="Indian Ocean" 1705976891000000000
+
+2024-01-22 10:29:11 PM: INFO - Fetch ISS data
+2024-01-22 10:29:12 PM: INFO - Time taken by get_data_from_api: 0.4599161148071289 seconds
+2024-01-22 10:29:12 PM: INFO - Transform ISS data
+2024-01-22 10:29:12 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:29:13 PM: INFO - Time taken by get_data_from_api: 0.7826030254364014 seconds
+2024-01-22 10:29:13 PM: INFO - Load ISS data
+2024-01-22 10:29:13 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-51.018788621383,longitude=83.4369235825,altitude=438.00089786503,velocity=27529.487168842,visibility="daylight",footprint=4597.9330465951,timestamp=1705976952000000t,daynum=2460332.6036111,solar_lat=-19.586861342878,solar_lon=145.60122659649,units="kilometers",geolocated_address="Indian Ocean" 1705976952000000000
+
+2024-01-22 10:30:13 PM: INFO - Fetch ISS data
+2024-01-22 10:30:13 PM: INFO - Time taken by get_data_from_api: 0.5189709663391113 seconds
+2024-01-22 10:30:13 PM: INFO - Transform ISS data
+2024-01-22 10:30:13 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:30:14 PM: INFO - Time taken by get_data_from_api: 0.8364770412445068 seconds
+2024-01-22 10:30:14 PM: INFO - Load ISS data
+2024-01-22 10:30:14 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-50.145441406211,longitude=89.193243759694,altitude=437.73244647115,velocity=27529.868228954,visibility="daylight",footprint=4596.5998506035,timestamp=1705977013000000t,daynum=2460332.6043171,solar_lat=-19.586698115248,solar_lon=145.34710655696,units="kilometers",geolocated_address="Indian Ocean" 1705977013000000000
+
+2024-01-22 10:33:53 PM: INFO - Fetch ISS data
+2024-01-22 10:33:53 PM: INFO - Time taken by get_data_from_api: 0.467771053314209 seconds
+2024-01-22 10:33:53 PM: INFO - Transform ISS data
+2024-01-22 10:33:53 PM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-22 10:33:54 PM: INFO - Time taken by get_data_from_api: 0.5389928817749023 seconds
+2024-01-22 10:33:54 PM: INFO - Load ISS data
+2024-01-22 10:33:54 PM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-44.670066963895,longitude=107.69983610952,altitude=435.665581732,velocity=27533.751416687,visibility="daylight",footprint=4586.319351699,timestamp=1705977234000000t,daynum=2460332.606875,solar_lat=-19.586106724214,solar_lon=144.42644196759,units="kilometers",geolocated_address="Indian Ocean" 1705977234000000000
+
+2024-01-23 12:49:19 AM: INFO - Fetch ISS data
+2024-01-23 12:49:19 AM: INFO - Time taken by get_data_from_api: 0.562769889831543 seconds
+2024-01-23 12:49:19 AM: INFO - Transform ISS data
+2024-01-23 12:49:19 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-23 12:49:20 AM: INFO - Time taken by get_data_from_api: 0.9297442436218262 seconds
+2024-01-23 12:49:20 AM: INFO - Load ISS data
+2024-01-23 12:49:20 AM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=50.323450851334,longitude=-127.20684449032,altitude=419.82748132368,velocity=27602.629313673,visibility="eclipsed",footprint=4506.5856588134,timestamp=1705985359000000t,daynum=2460332.7009144,solar_lat=-19.564336935296,solar_lon=110.57846581446,units="kilometers",geolocated_address="J Main, Area C (Hyde Creek/Benson Valley), BC, Canada" 1705985359000000000
+
+2024-01-23 03:24:36 AM: INFO - Fetch ISS data
+2024-01-23 03:24:37 AM: INFO - Time taken by get_data_from_api: 0.7618207931518555 seconds
+2024-01-23 03:24:37 AM: INFO - Transform ISS data
+2024-01-23 03:24:37 AM: INFO - Reverse Geolocate ISS Lat/Long
+2024-01-23 03:24:38 AM: INFO - Time taken by get_data_from_api: 0.8293919563293457 seconds
+2024-01-23 03:24:38 AM: INFO - Load ISS data
+2024-01-23 03:24:38 AM: INFO - About to flush:
+    iss_tracker name="iss",id=25544i,latitude=-12.821197725097,longitude=74.579616242065,altitude=423.06111120384,velocity=27563.79697658,visibility="daylight",footprint=4523.0043478874,timestamp=1705994677000000t,daynum=2460332.8087616,solar_lat=-19.539304899562,solar_lon=71.760530129271,units="kilometers",geolocated_address="Indian Ocean" 1705994677000000000
+
+2024-01-23 05:09:49 AM: INFO - Fetch ISS data
+2024-01-23 05:09:50 AM: INFO - Time taken by get_data_from_api: 0.48146796226501465 seconds
+2024-01-23 05:09:50 AM: INFO - Transform ISS data
+2024-01-23 05:09:50 AM: INFO - Reverse Geolocate ISS Lat/Long
