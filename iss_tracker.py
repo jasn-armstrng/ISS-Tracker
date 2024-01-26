@@ -1,14 +1,18 @@
-#### ISS Tracker - Data ETL
+#### ISS Tracker - Data ETL *ver.0.1*
 
-# | Title   | Description
-# |---------|----------------
-# | Creator | Jason Armstrong
-# | Created | 2024-01-05
-# | Version | 0.1
+
+###### To do
+# ```
+# - Handle errors from db write
+# - Write logs to db
+# - Compile to executable
+# - Replace .sh with executable in launchd
+# - Separate production and development branches
+# ```
 
 
 ###### Dependencies
-# ```
+# ```Python
 import json
 import logging
 import requests
@@ -21,7 +25,7 @@ from utils import config
 
 
 ###### Configurations
-# ```
+# ```Python
 logging.basicConfig(
     handlers=[logging.FileHandler(config["Paths"]["log"]),logging.StreamHandler()],
     format='%(asctime)s: %(levelname)s - %(message)s',
@@ -32,7 +36,7 @@ logging.basicConfig(
 
 
 ###### Helper functions
-# ```
+# ```Python
 def time_this(func):
     """Return function runtime; timing decorator"""
     def wrapper(*args, **kwargs):
@@ -52,7 +56,7 @@ def unixtime_to_date(timestamp: int) -> str:
 
 ###### ISS Data Extract
 # - Use to both get current data about the ISS and reverse-geolocating its lat/long.
-# ```
+# ```Python
 @time_this
 def get_data_from_api(url: str) -> json:
     """Returns json object result of API data fetch"""
@@ -72,7 +76,7 @@ def get_data_from_api(url: str) -> json:
 ###### ISS Data Transform
 # - Convert the unix timestamp from the ISS' about data record to datetime
 # - Add the address at ground-level the ISS is over to the 'about' data record.
-# ```
+# ```Python
 def transform_iss_data(data: json) -> dict:
     """Transform ISS data Record"""
 
@@ -103,7 +107,7 @@ def transform_iss_data(data: json) -> dict:
 ###### ISS Data Load
 # - Writes the data to the local time-series database (`QuestDB`)
 # - Script source: `https://py-questdb-client.readthedocs.io/en/latest/`
-# ```
+# ```Python
 def load_iss_data(data: dict) -> None:
     """Write data to (local) Time-series DB"""
     try:
@@ -121,7 +125,7 @@ def load_iss_data(data: dict) -> None:
 
 
 ###### ISS Data ETL (main-entry-point)
-# ```
+# ```Python
 def extract_transform_load() -> None:
     logging.info("Fetch ISS data")
     WIS_ISS_URL = config["Where-is-ISS"]["url"]
@@ -134,11 +138,3 @@ def extract_transform_load() -> None:
     else:
         logging.error("No data received")
 # ```
-
-
-###### To do
-# - Handle errors from db write
-# - Write logs to db
-# - Compile to executable
-# - Replace .sh with executable in launchd
-# - Create a build system
