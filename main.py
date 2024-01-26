@@ -1,4 +1,4 @@
-from iss_tracker import main
+from iss_tracker import extract_transform_load
 
 
 if __name__ == "__main__":
@@ -16,4 +16,4 @@ if __name__ == "__main__":
     \/_/   \/_/ /_/   \/_/\/_/   \/_____/   \/_/\/_/   \/_____/   \/_/ /_/
 '''
     print(f"{header}")
-    main()
+    extract_transform_load()

@@ -1,14 +1,14 @@
 #### ISS Tracker - Data ETL
 
-# | Title   | Description
-# |---------|----------------
-# | Creator | Jason Armstrong
-# | Created | 2024-01-05
-# | Version | 0.1
+| Title   | Description
+|---------|----------------
+| Creator | Jason Armstrong
+| Created | 2024-01-05
+| Version | 0.1
 
 
 ###### Dependencies
-# ```
+```
 import json
 import logging
 import requests
@@ -17,22 +17,22 @@ import textwrap
 import time
 from datetime import datetime
 from utils import config
-# ```
+```
 
 
 ###### Configurations
-# ```
+```
 logging.basicConfig(
     handlers=[logging.FileHandler(config["Paths"]["log"]),logging.StreamHandler()],
     format='%(asctime)s: %(levelname)s - %(message)s',
     datefmt='%Y-%m-%d %I:%M:%S %p',
     level=logging.INFO
 )
-# ```
+```
 
 
 ###### Helper functions
-# ```
+```
 def time_this(func):
     """Return function runtime; timing decorator"""
     def wrapper(*args, **kwargs):
@@ -47,12 +47,12 @@ def time_this(func):
 def unixtime_to_date(timestamp: int) -> str:
     """Converts UNIX timestamp to UTC time in the format YYYY-MM-DD HH:MM:SS+00:00 (UTC)"""
     return datetime.fromtimestamp(timestamp)
-# ```
+```
 
 
 ###### ISS Data Extract
-# - Use to both get current data about the ISS and reverse-geolocating its lat/long.
-# ```
+- Use to both get current data about the ISS and reverse-geolocating its lat/long.
+```
 @time_this
 def get_data_from_api(url: str) -> json:
     """Returns json object result of API data fetch"""
@@ -66,13 +66,13 @@ def get_data_from_api(url: str) -> json:
             return response.json()
     except requests.exceptions.ConnectionError as err:
         logging.error(f"Your request has failed because: {err}")
-# ```
+```
 
 
 ###### ISS Data Transform
-# - Convert the unix timestamp from the ISS' about data record to datetime
-# - Add the address at ground-level the ISS is over to the 'about' data record.
-# ```
+- Convert the unix timestamp from the ISS' about data record to datetime
+- Add the address at ground-level the ISS is over to the 'about' data record.
+```
 def transform_iss_data(data: json) -> dict:
     """Transform ISS data Record"""
 
@@ -97,13 +97,13 @@ def transform_iss_data(data: json) -> dict:
     address = reverse_geolocated_address(geo_data)
     data['geolocated_address'] = address
     return data
-# ```
+```
 
 
 ###### ISS Data Load
-# - Writes the data to the local time-series database (`QuestDB`)
-# - Script source: `https://py-questdb-client.readthedocs.io/en/latest/`
-# ```
+- Writes the data to the local time-series database (`QuestDB`)
+- Script source: `https://py-questdb-client.readthedocs.io/en/latest/`
+```
 def load_iss_data(data: dict) -> None:
     """Write data to (local) Time-series DB"""
     try:
@@ -117,11 +117,11 @@ def load_iss_data(data: dict) -> None:
             sender.flush()
     except qdb.IngressError as e:
         logging.error(f"{e}")
-# ```
+```
 
 
 ###### ISS Data ETL (main-entry-point)
-# ```
+```
 def extract_transform_load() -> None:
     logging.info("Fetch ISS data")
     WIS_ISS_URL = config["Where-is-ISS"]["url"]
@@ -133,12 +133,12 @@ def extract_transform_load() -> None:
         load_iss_data(iss_data_transform)
     else:
         logging.error("No data received")
-# ```
+```
 
 
 ###### To do
-# - Handle errors from db write
-# - Write logs to db
-# - Compile to executable
-# - Replace .sh with executable in launchd
-# - Create a build system
+- Handle errors from db write
+- Write logs to db
+- Compile to executable
+- Replace .sh with executable in launchd
+- Create a build system
