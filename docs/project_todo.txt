@@ -6,12 +6,12 @@
 
 Phase 1: Command-line
 
-    Status: In progress
+    Status: Complete
 
     • Get ISS over-Earth location - latitude, longitude ✅
     • Get address at latitude,longitude using reverse geoloaction ✅
     • Time log the details above to csv ✅
-    • Write the timestamped details to a database
+    • Write the timestamped details to a database ✅
 
 
 Phase 2: Web
