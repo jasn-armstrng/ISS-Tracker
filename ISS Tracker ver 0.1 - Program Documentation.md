@@ -1,4 +1,4 @@
-#### ISS Tracker - Data ETL *ver.0.1*
+#### ISS Tracker - Data ETL *ver0.0.1*
 
 
 ###### To do
@@ -55,7 +55,7 @@ def unixtime_to_date(timestamp: int) -> str:
 
 
 ###### ISS Data Extract
-- Use to both get current data about the ISS and reverse-geolocating its lat/long.
+- Used to both get current data about the ISS and reverse-geolocating its lat/long.
 ```Python
 @time_this
 def get_data_from_api(url: str) -> json:
